@@ -1,0 +1,101 @@
+package ch.uzh.ifi.seal.soprafs19;
+
+import ch.uzh.ifi.seal.soprafs19.constant.Action;
+import ch.uzh.ifi.seal.soprafs19.constant.GameMode;
+import ch.uzh.ifi.seal.soprafs19.constant.ObjectType;
+import AuthorizationCredentials;
+import Move;
+<<<<<<< HEAD
+import MoveMessage;
+import GameDto;
+import RulesetDto;
+import ch.uzh.ifi.seal.soprafs19.entity.Game;
+import ch.uzh.ifi.seal.soprafs19.entity.Ruleset;
+import ch.uzh.ifi.seal.soprafs19.entity.Setup;
+import ch.uzh.ifi.seal.soprafs19.service.AuthorizationService;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.databind.ObjectWriter;
+import org.modelmapper.ModelMapper;
+import org.springframework.beans.factory.annotation.Autowired;
+=======
+import SetupDto;
+import ch.uzh.ifi.seal.soprafs19.entity.*;
+import ch.uzh.ifi.seal.soprafs19.service.AccessHelper;
+>>>>>>> develop
+
+import java.util.Arrays;
+import java.util.LinkedList;
+
+public class NonServerApplication {
+    private static Action nextAction = Action.BUILD;
+
+<<<<<<< HEAD
+    public static void main(String[] args) throws Exception {
+        ModelMapper modelMapper = new ModelMapper();
+=======
+    public static void main(String[] args) {
+        /*System.out.println("10".compareTo("200"));
+>>>>>>> develop
+        Game localGame = new Game(new LinkedList<Long>(Arrays.asList(1L,2L)));
+        localGame.
+        Ruleset ruleset1 = new Ruleset(1L );
+        Ruleset ruleset2 = new Ruleset(2L );
+
+        System.out.println("player 1");
+        ruleset1.computeActions(localGame);
+        Move move = new Move();
+        move.setType(ObjectType.WORKER1);
+        move.setRow(2);
+        move.setColumn(4);
+        ruleset1.setMove(move, localGame);
+        localGame.printToConsole();
+
+        System.out.println("player 2");
+        ruleset2.computeActions(localGame);
+        move.setRow(3);
+        move.setColumn(4);
+        ruleset2.setMove(move, localGame);
+        localGame.printToConsole();
+
+        System.out.println("player 1");
+        ruleset1.computeActions(localGame);
+
+        move.setType(ObjectType.WORKER2);
+        move.setRow(4);
+        move.setColumn(4);
+        ruleset1.setMove(move, localGame);
+
+        System.out.println("player 2");
+        ruleset2.computeActions(localGame);
+
+        move.setRow(0);
+        move.setColumn(4);
+        ruleset2.setMove(move, localGame);
+        localGame.printToConsole();
+
+        System.out.println("player 1");
+        ruleset1.computeActions(localGame);
+
+        move.setType(ObjectType.BUILDING);
+        move.setRow(1);
+        move.setColumn(3);
+        MoveMessage mm = new MoveMessage();
+        AuthorizationCredentials a = new AuthorizationCredentials();
+        a.id = 324L;
+        a.token = "lolmistokenmami";
+        mm.setAuthorization(a);
+        mm.setMove(move);
+        ObjectWriter ow = new ObjectMapper().writer().withDefaultPrettyPrinter();
+        String json = ow.writeValueAsString(mm);
+        ruleset1.setMove(move, localGame);
+
+<<<<<<< HEAD
+
+
+        System.out.println(json);
+=======
+        localGame.printToConsole();*/
+>>>>>>> develop
+    }
+}
+
