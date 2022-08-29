@@ -1,0 +1,10 @@
+filesystem	FILE_OBJECT	name	F958_7104	C1\fi958.c
+filesystem	FILE_OBJECT	has_illegal_chars	F958_7106	C1\fi958.c
+filesystem	FO_FOLDER	make	F959_7107	C1\fo959.c
+filesystem	FO_FOLDER	add	F959_7108	C1\fo959.c
+filesystem	FO_FOLDER	children	F959_7109	C1\fo959.c
+filesystem	FO_FOLDER	size	F959_7110	C1\fo959.c
+filesystem	FO_FILE	make	F960_7111	C1\fo960.c
+filesystem	FO_FILE	content	F960_7112	C1\fo960.c
+filesystem	FO_FILE	size	F960_7113	C1\fo960.c
+filesystem	APPLICATION	make	F961_7114	C1\ap961.c

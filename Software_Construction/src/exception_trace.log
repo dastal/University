@@ -1,0 +1,135 @@
+
+autotasks: system execution failed.
+Following is the set of recorded exceptions:
+
+******************************** Thread exception *****************************
+In thread           Root thread            0x0 (thread id)
+*******************************************************************************
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+LINKED_LIST         first @1               not_empty:                   
+<0000000003F8BAE8>                         Precondition violated.        Fail
+-------------------------------------------------------------------------------
+TOPSORT             topsort @17                                         
+<0000000003F8B9C8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+TOPSORT             package_topsort @2                                  
+<0000000003F8B9C8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+GRAPHVIZ            graph_from_package @2                               
+<0000000003F8B9A8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         make @5                                             
+<0000000003F8B5A8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         root's creation                                     
+<0000000003F8B5A8>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+
+
+autotasks: PANIC: caught signal #21 (Ctrl-Break) -- Giving up...
+
+autotasks: system execution failed.
+Following is the set of recorded exceptions:
+
+******************************** Thread exception *****************************
+In thread           Root thread            0x0 (thread id)
+*******************************************************************************
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+LINKED_LIST         first @1               not_empty:                   
+<0000000003F9EAE8>                         Precondition violated.        Fail
+-------------------------------------------------------------------------------
+TOPSORT             topsort @17                                         
+<0000000003F9E9C8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+TOPSORT             package_topsort @2                                  
+<0000000003F9E9C8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+GRAPHVIZ            graph_from_package @2                               
+<0000000003F9E9A8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         make @5                                             
+<0000000003F9E5A8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         root's creation                                     
+<0000000003F9E5A8>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+
+
+autotasks: PANIC: caught signal #21 (Ctrl-Break) -- Giving up...
+
+autotasks: system execution failed.
+Following is the set of recorded exceptions:
+
+******************************** Thread exception *****************************
+In thread           Root thread            0x0 (thread id)
+*******************************************************************************
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+TOPSORTDATAPACKAGE  add_constraint @2      con_not_empty:               
+<0000000003F8A8B8>                         Precondition violated.        Fail
+-------------------------------------------------------------------------------
+APPLICATION         make @4                                             
+<0000000003F8A5A8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         root's creation                                     
+<0000000003F8A5A8>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+
+
+autotasks: PANIC: caught signal #21 (Ctrl-Break) -- Giving up...
+
+autotasks: system execution failed.
+Following is the set of recorded exceptions:
+
+******************************** Thread exception *****************************
+In thread           Root thread            0x0 (thread id)
+*******************************************************************************
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+LINKED_LIST         remove @2              writable:                    
+<000000000412AB88>                         Precondition violated.        Fail
+-------------------------------------------------------------------------------
+INPUT_GENERATOR     random_constraint_generator @23
+<000000000412AA48>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+INPUT_GENERATOR     generate_int_package @2
+<000000000412AA48>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         make @5                                             
+<000000000412A5A8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         root's creation                                     
+<000000000412A5A8>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+
+
+autotasks: PANIC: caught signal #21 (Ctrl-Break) -- Giving up...
+
+autotasks: system execution failed.
+Following is the set of recorded exceptions:
+
+******************************** Thread exception *****************************
+In thread           Root thread            0x0 (thread id)
+*******************************************************************************
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+INPUT_GENERATOR     generate_int_package @2
+                                           size_is_valid:
+<00000000041D5A48>                         Precondition violated.        Fail
+-------------------------------------------------------------------------------
+APPLICATION         make @5                                             
+<00000000041D55A8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         root's creation                                     
+<00000000041D55A8>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+
+
+autotasks: PANIC: caught signal #21 (Ctrl-Break) -- Giving up...

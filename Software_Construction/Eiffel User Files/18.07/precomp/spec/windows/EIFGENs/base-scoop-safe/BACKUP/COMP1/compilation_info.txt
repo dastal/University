@@ -1,0 +1,5 @@
+Compiler version: 18.07.10.1981 GPL Edition - windows
+Type: Precompile
+batch mode: True
+new session: True
+starting date: 10/01/2018 4:15:40.283 PM
