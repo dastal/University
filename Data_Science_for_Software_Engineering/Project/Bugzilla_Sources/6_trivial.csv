@@ -1,0 +1,2486 @@
+if xpviewer.exe Sample->Examle 3 the simple table not layed out correctly;trivial
+"Gecko developer release doesn't seem to comprehend the ""pre"" HTML element, which as an web designer, I find Very important that gets fixed.";trivial
+Typo in the default page displayed (demo #0);trivial
+Doesn't put line breaks where they should be;trivial
+No not shared library support in Makefiles;trivial
+warning fix : ns/nsprpub/pr/src/threads/prdump.c;trivial
+Bullet offset to right;trivial
+[PP]view | character set | mac roman displays twice;trivial
+view | character set | baltic rim… should read baltic;trivial
+CDATA blocks: end tags and <!--;trivial
+engine not defined error;trivial
+STRICT is already defined;trivial
+[4.xP] <Title> data incorrect;trivial
+Parsing of BGCOLOR is incorrect;trivial
+Over-specified/competing colspan counts break tables;trivial
+Signed/unsigned warnings in expat/xmlparse/xmlparse.c;trivial
+top and bottom margins on nested DLs;trivial
+"typo in ua.css: ""mulitple"" instead of ""multiple""";trivial
+In OPTGROUPs, fonts don't match when list dropped down;trivial
+{css-moz} -moz-border-radius and % values;trivial
+Left side of page is not accessible, even with the horizontal scroll bar;trivial
+Cookies dialog has minor grammatical error;trivial
+color picker draws an extra row on default palette;trivial
+Compiler warnings in mozilla/network/cache/mkcache.c, extcache.c;trivial
+minor typo in status bar 'unable to locate host' message;trivial
+{css-moz} -moz-rounded-corners and uneven border-styles;trivial
+Label does not match command in chrome dtd file;trivial
+While highliting parts of this page, weird boxes show up;trivial
+g++ always used;trivial
+[PP] Mac - 'Mozilla Preference' file not correctly named;trivial
+990204[4.xP]: Text appears too large for column;trivial
+Sidebar shows incorrect cursor;trivial
+Remove color picker frame code in layout/xul/base/src;trivial
+Page renders incorrectly;trivial
+hspace and vspace attributes ignored on tables;trivial
+UMR in OpenProcessToken called from  PR_NT_InitSids [ntsec.c:80];trivial
+2 warnings, xmltok.c (blamed in shrike Linux Cobbler);trivial
+Default pattern for file save dialog on Unix is *.*, which is a windowsism;trivial
+Incorrect text hilite on mouseover inside table cells;trivial
+DESTROY method in Entry.pm V1.4 CLEAR errors;trivial
+Text widgets do not draw correctly in small window.;trivial
+<plaintext> is not acting as a container, doesn't get monospace font;trivial
+checked and unchecked images for checkboxes have different heights;trivial
+Round buttons get slightly clipped on mouseup;trivial
+[4.xP] First character in text field highlights, even if nonexistent;trivial
+layout of page doesn't look right;trivial
+Duplicate code in nsComponentManager;trivial
+information about linking to DLLs by name or by ordinal;trivial
+Trailing whitespace not stripped from filename being printed to;trivial
+XMLSerializer::serializeToString() doesn't recognize empty elements;trivial
+Inefficiency in the code (patch included);trivial
+Incorrect error message for about-cache: when entry is not found;trivial
+style aspects of <button> element are lost after setting disabled property;trivial
+Bad wording when getting any plugin;trivial
+Make transformiix |#include|s better;trivial
+cmsutil too much output in regular mode;trivial
+[console] xpconnect must not print to console in opt builds;trivial
+nsNativeComponentLoader::AutoRegisterComponent contains non-static array;trivial
+Rejecting sgml mimetypes at view source;trivial
+nsImageBoxFrame does lots of redundant GetShells;trivial
+"Button ""pressed"" state not displayed for HTML 4 BUTTON element";trivial
+unsecure use of new operator in nsPresShell.cpp;trivial
+[console] os/2 port should not print to console in opt builds;trivial
+[console] libutil must not print to console in opt builds;trivial
+Wrong comment for HTTP PR_LOG;trivial
+[console] libimg/libpron must not print to console in opt builds;trivial
+[console] Plugin module must not print to console in opt builds;trivial
+images are cookies?;trivial
+[console] gfx/gfx2 must not print to console in opt builds;trivial
+"Download & Install Font"" should be ""Download and Install";trivial
+[patch]Dead code removal in nsSimplePageSequence::StartPrint();trivial
+Drag home button to home button;trivial
+missing comments in nsICacheSession.idl;trivial
+<center> Tag wrapped around <dt> </dt> <center> fails;trivial
+Delete key doesn't perform as expect in input boxes;trivial
+"Dialogs have rightleft pinstripe ""border""";trivial
+Add getter for mAlphaDepth to nsIImage;trivial
+file name: and file of type: descriptions not aligned with fields in xp filepicker;trivial
+empty table width attribute treated as zero table width;trivial
+remove unused nsIReflowCommand::ReflowType values;trivial
+remove unncessary methods from nsIImageFrame;trivial
+Can't paste just spaces copied from within Mozilla;trivial
+uncomplete gif-file looks bad;trivial
+Don't use sprintf to convert int->string;trivial
+"Up and Down should be ""Up Arrow"" and ""Down Arrow""";trivial
+nsPrefBranch::SetComplexValue : rv may be returned uninitialized.;trivial
+Select image dialog has wrong title;trivial
+Save/Saving switches on the execute bit.;trivial
+explicit casts needed in EditorFrame.cpp;trivial
+ANSI disallows enum casts - make explicit in EditorView.cpp;trivial
+Page Up and Page Down keys move URL in Location: up and down;trivial
+"""More Properties"" sizing problems";trivial
+Composer editing popup menu behaves weird;trivial
+[Plaintext]menubar list does not get hidden when toolbar is clicked;trivial
+"Export's ""x"" accesskey conflicts with Exit";trivial
+"Format menu accelerators display ""Shift"" then ""Ctrl""";trivial
+right click selects entire text in a cell.;trivial
+changing a list style results in entire list getting selected;trivial
+Publish button needs to be removed/implemented;trivial
+Editor toolbar should use toolbarseparator not spring;trivial
+[console] qt port should not print to console in opt builds;trivial
+Textfield with Multiline inserts a scroll bar.;trivial
+Property and value not aligned correctly in Cookie Manager;trivial
+"""In PKCS11SecureRandom constructor"" println";trivial
+Bad comment in nsIInputStream?;trivial
+printf has an extra parameter;trivial
+"""HyperText Transfer Protocol"" should be ""Hypertext Transfer Protocol""";trivial
+modules/libimg/src/if.cpp : IL_StreamWrite return value undefined if len==0.;trivial
+No call to FlashWindow( hwnd, FALSE );trivial
+rounded corner (right, up) of rectangle drawn wrong;trivial
+Image layout incorrect;trivial
+duplicate colors in color picker;trivial
+content/xsl/document/ generates layout.xpt;trivial
+Test page cannot be displayed with IE5-MSXML3;trivial
+Typo in printing.properties;trivial
+"""Canceling"" the print dialog fires-up a print error dialog";trivial
+Last cleanup of #define VIEW_SOURCE_HTML;trivial
+"<other:stylesheet src=""""/> works too...";trivial
+Rename the PLEventQueue event receiver window class.;trivial
+Composer: Active edit mode tab should not use hardcoded white color;trivial
+Incorrect smime perl script usage for message decoding;trivial
+ -O3 build will open the window but segv [WAS: gcc3 -O3 Garbage characters in time on status bar.];trivial
+[console] intl must not print to console in opt builds;trivial
+Text width estimation should be <= instead of <;trivial
+[console] mac widgets & rhapsody timer should not print to console in opt build;trivial
+extra newline rendered between tables (regression?);trivial
+change !NS_SUCCEEDED(status) to NS_FAILED(status);trivial
+Occurances of uninitialized variables being used before being set.;trivial
+table cell entry text overlaps frame border;trivial
+ecma conformance: Date.p.toUTCString != Date.p.toGMTString;trivial
+Avoid js_strlen() call in js_NewStringCopyZ();trivial
+js/src/jscpucfg.c compile-time warnings;trivial
+Tests fail if run outside PST8PDT;trivial
+monkey throws EvalError instead of TypeError on o.eval();trivial
+reordering pointer assignment;trivial
+speedup JS_strdup() ?;trivial
+date_format ignores return value of PRMJ_FormatTime;trivial
+add duplicate sound icon image with '-sound' file extension.;trivial
+about:blank is invalid;trivial
+"""radio-check"" should not inherit=""checked""";trivial
+Typo in printProgress.dtd->printComplete;trivial
+Edit field line break didn't updated;trivial
+last all.js checkin has bad useragent.override;trivial
+"temp files should be cached in OS's ""temp"" directory not ""plugtmp""";trivial
+"""Hyper Text Markup Language"" should be ""HyperText Markup Language""";trivial
+[FIX]Want black combo box arrow;trivial
+Remove Shockwave hack from ns4xPluginInstance.cpp;trivial
+remove references to nsImageManager;trivial
+en-DE = English (German) locale???;trivial
+[PP]Electric fence mod for mozilla/xpcom/typelib/xpt/tools/xpt_link;trivial
+Typo in WYSIWYM examples;trivial
+ASSERTION: QueryInterface needed: 'query_result.get() == mRawPtr';trivial
+"PR_USPacificTimeParameters uses ""std"" as internal variable name";trivial
+typo in msgSecurityInfo.properties;trivial
+Compiler warnings: Unused Variable;trivial
+Fix some typos in nsIFrame documentation;trivial
+browser.block.target_new_window listed twice in all.js;trivial
+drop menu at top left-hand side not displayed properly;trivial
+Clean up build warnings in nsComputedDOMStyle, nsROCSSPrimitiveValue;trivial
+Cursor not changed properly over scrollbars in Linux.;trivial
+Preferences should not generate build warnings;trivial
+HTTP preferences have weird checkbox handling;trivial
+Alphabetize queryableProperties;trivial
+1-pixel blur at bottom of pictures;trivial
+text-decoration:blink not working;trivial
+[gtk2] toolkit-gtk2 does not compile with --disable-accessibility;trivial
+[gtk2] nsWidgetFactory.cpp does not compile;trivial
+CKFW incorrectly uses ## operator to create cryptoki entry points;trivial
+F11 restore from full screen doesn't restore window borders snugly;trivial
+Extra auto generated content for 'fieldset' and 'legend' elements using pseudo elements :before and :after;trivial
+streamConverter should use NS_LITERAL_STRING;trivial
+Fix comment: description of nsHTMLEntities::UnicodeToEntity();trivial
+Problems with table cells alignment;trivial
+The Usage() function of pk12util should mention the -v option.;trivial
+comment wrong;trivial
+Cleanup Transformiix code;trivial
+"""deafult"" should be ""default"" in EdImageMapShapes.js";trivial
+nsThread frees nsILogModule, which it doesn't own;trivial
+[FIX]Replace postfix operator with prefix operator;trivial
+nsHTTPChunkConv should be cvs removed;trivial
+caret appears misplaced with respect to <HR> when I hit BACKSPACE;trivial
+The pref css.allow isn't used and should be removed.;trivial
+"Misspelled ""Cerificate"" in pk11_getDefTokName";trivial
+Missing return NULL statement in nssTrust_GetCERTCertTrustForCert, pki3hack.c;trivial
+Compiler warnings in xpcom/io/nsSegmentedBuffer.h;trivial
+"Misleading error ""c is not a registered protocol"" when accessing chome://";trivial
+implement NS_CopyNativeToUnicode / NS_CopyUnicodeToNative on all platforms;trivial
+"[FIX]Uninitialized hint setting element.style.foo = ""bar""";trivial
+copyright for mozilla/xpcom/ds/nsDoubleHashtable.cpp says 1998 even though it was written in 2002;trivial
+Fix formatting in GIF2.cpp;trivial
+"remove need for ""nsreg.dat""";trivial
+nsMimeTypes.h has wrong type for APPLICATION_HTTP_INDEX;trivial
+Spelling errors in Layout_Overview.html;trivial
+"nsDependentCString filename(PR_GetEnv(""MOZILLA_JS_PROFILER_OUTPUT"")) => ASSERTION: nsDependentCString must wrap a non-NULL buffer: 'aPtr'";trivial
+on this side, a popup  appears, in this popups, mozilla makes uncorrect line breaks;trivial
+remove unused nsProxyAutoConfigUtils and nsIProxyAutoConfigUtils;trivial
+[console] netwerk must not print to console in opt builds;trivial
+prefetch service should set LOAD_ONLY_IF_MODIFIED flag;trivial
+HTTP authentication stores rejected user/pass combos in password manager;trivial
+Call SetTimeout in nsGIFDecoder2, not imgContainerGIF::EndFrameDecode;trivial
+Want arbitrary contents for buttons;trivial
+when keep-alives disabled, need to send connection: close to the proxy as well as proxy-connection: close;trivial
+Transfer-Encoding: chunked, extra CRLF after headers -> blank page;trivial
+Icon protocol handler NewURI should use NS_ADDREF;trivial
+"Wording in BasicAuth username/password dialog says ""Confirm Password""";trivial
+nsrpub/pr/src/md/unix.c error for BSD/OS 3.1;trivial
+warning : ntinrval.c(77) : unreference variable count;trivial
+warning fix : ns/nsprpub/pr/tests/join.c;trivial
+warning fix : ns/nsprpub/pr/tests/thruput.c;trivial
+Compile Warning;trivial
+workaround for Sun Forte Update 1 compiler crash building nsLDAPMessage.cpp;trivial
+nsrootidl.idl:69: Case mismatch between `PRInt32' i:/build/mozilla/extensions/cookie/nsICookieManager2.idl:61: and `PRint32';trivial
+send unencrypted data confirmation contains additional button;trivial
+Radio buttons have ugly rendering;trivial
+'Redo' item is missing in the context menu of text controls and urlbar;trivial
+Mis-sized file icon;trivial
+Remove unused globals from nsDocumentViewer.cpp;trivial
+"xpcom/io/nsFileSpec.cpp"", line 905: Warning: String literal converted to char* in initialization.";trivial
+"xpcom/glue/standalone/nsGREDirServiceProvider.cpp"", line 300: Warning: String literal converted to char* in assignment.";trivial
+`PRUint8 * array' might be used uninitialized in this function;trivial
+Change jstypes.h to use __declspec instead of _declspec;trivial
+ChromeWindow Object wrapped by XPConnect has members whose names shadow each other;trivial
+Compiler warning in nsSocketTransportService2.cpp;trivial
+HTMLCollection Object wrapped by XPConnect has members whose names shadow each other;trivial
+Change NS_REINTERPRET_CAST(nsIScriptContext*, JS_GetContextPrivate(cx)) to use Static Cast;trivial
+SEC_TraversePermCerts is referenced but not defined;trivial
+XML pretty print expander's should get pointer cursor;trivial
+Extra white zone around HR;trivial
+wrong settings in Makefiles for LD when NS_USE_GCC=1 and MDUPDATE=1;trivial
+Fix minor errors in perlconnect readme;trivial
+"x86Rel still has a ""?"" when a CVS update is run";trivial
+missing ifdef in build of libraries/liblber;trivial
+"Typo: ""invlaid divisor"" instead of ""invalid divisor"" in debug code";trivial
+Shutdown Assertion unconditionally says GRE failed when it might be XPCOM that failed;trivial
+get rid of offline warnings in debug builds;trivial
+Crash [@ nsWebShell::Create] if urildr.dll is missing;trivial
+midas - fontsize listed twice in gMidasCommandTable;trivial
+duplicate code in nsHTMLEditorMouseListener.cpp;trivial
+Old cursor does not disappear when skipping through letters in edit box until next character is entered;trivial
+Universal charset detector freq tables can be made const;trivial
+Dates in ftp directory listing should use locale, not ISO 8601;trivial
+In <nav006.html> JavaScript Testcase: 'navigator.platform' value should be checked for 'Win32' instead of 'Windows';trivial
+In <frm003.html> JavaScript Testcase: 'Form.encoding' value should be checked for 'multipart/form-data' instead of 'Multipart/form-data';trivial
+In <frm005.html> JavaScript Testcase: 'Form.method' value should be checked for 'post' instead of 'Post'.;trivial
+pr_PredictNextNotifyTime in pralarm.c always returns 0 instead of delta time interval;trivial
+Remove unused class nsXMLExtras;trivial
+nsHTTPChunkConv is unused and should be removed;trivial
+Mozilla uses default Windows XP icons for drop down lists (XP Only!);trivial
+"about:cache : ""Inactive Storage"" badly aligned";trivial
+"printing dialog: ""selection"" enables page from/to widgets";trivial
+things Will be re-ordered to match declaration order;trivial
+Header cleanup for transformiix;trivial
+transformiix has its own copy of expat;trivial
+BeOS build warnings;trivial
+Unused variable `PRBool aCanCacheFrameOffset' in nsCaret::GetCaretRectAndInvert;trivial
+unused variable `nsresult result' in nsPolicyReference::ProcessExpiryElement;trivial
+unused variable `nsresult rv' in nsMathMLmactionFrame::GetSelectedFrame();trivial
+[ps] warning: CreateFontPS declared `static' but never defined;trivial
+ifdef WIN/MACOS(X) ConvertTwipsToPixels because it isn't used elsewhere;trivial
+warning nsSampleWordBreaker::Next was hidden by nsSemanticUnitScanner::Next;trivial
+warning: normalize(...) declared `static' but never defined;trivial
+In method `xptiInterfaceInfoManager::AddOnlyNewFilesFromFileList' warning: unused variable `PRUint32 countOfFilesInWorkingSet';trivial
+warning: `JSBool ReportOutOfMemory(class XPCCallContext &)' defined but not used_;trivial
+control reaches end of non-void function GetSpecialSystemDirectory and lots of unhandled enumeration values;trivial
+more data could be const in layout;trivial
+warning: `PRBool IsInlineNode(class nsIDOMNode *)' defined but not used;trivial
+Remove unused variable `PRBool sameNode' from nsHTMLEditorStyle.cpp:524;trivial
+InPlaceConvertLineEndings(class nsAString &)' defined but not used;trivial
+Do not export blapi.h, secrng.h, and pqgutil.h.;trivial
+Inconsistency in link determination in HTMLStyleSheetImpl;trivial
+simple grammar error in xslt failure message;trivial
+Mozilla apps corrupt fonts when Windows dpi setting is changed;trivial
+Some file dialogs have harcoded filter description;trivial
+Second <DL> section fails to indent under very obscure circumstances;trivial
+nsCSSFrameConstructor.cpp:4182: warning: unused variable `class nsIView * listView';trivial
+nsHTTP:2 shouldn't include traffic;trivial
+xpcexception.cpp:236: warning: assignment of negative value `-1' to `unsigned int';trivial
+xpcwrappedjsclass.cpp:891: warning: unused variable `PRUnichar * sourceNameUni';trivial
+Using of different phrases for the almost the same problem;trivial
+unused variables in pcertdb.c;trivial
+In function `nsresult Register(const char *)': warning: return of negative value `-1' to `nsresult' warning: negative integer implicitly converted to unsigned type;trivial
+warning: unused variable `acrl' In function `CERT_CRLCacheRefreshIssuer';trivial
+remove CFM build files from NSS;trivial
+nsCAutoString charsetBuf is unused;trivial
+Removed unneeded include file nsWidgetsCID.h from nsAutoCopy.cpp;trivial
+Cleanup NS_METHOD_GETTER_STR/NS_METHOD_SETTER_STR;trivial
+assignment discards qualifiers from pointer target type in `pr_LoadLibraryByPathname';trivial
+Symbolic manipulation error in mozilla/js/src/fdlibm/e_sqrt.c;trivial
+remove nsCCookieManager.h in favor of nsNetCID.h;trivial
+warning: initializer does not fit or is out of range: -1;trivial
+JS_ReportOutOfMemory() redundant;trivial
+unused variable `nsresult result' in function `int main(int, char**)';trivial
+Table inside button changes size;trivial
+Invalid testcases in DOM JavaScript testsuite: browser is working right, but testcase (may) fails;trivial
+remove CFM build files from NSPR;trivial
+"mozilla/nsprpub/pr/tests/servr_uk.c"", line 66.9: 1506-236 (W) Macro name STACKSIZE has been redefined";trivial
+need to list both native font names and English names in  font.name-list.* for CJK fonts;trivial
+Compile warnings for content/html/style/src.;trivial
+warning: unused variable `i' In function `filter_certs_for_valid_issuers';trivial
+warning: unused `newKey' variables;trivial
+warning: unused variable `rv' In function `PK11_TokenRefresh';trivial
+unused rv variables in secoid.c;trivial
+In function `CERT_FilterCertListByUsage':2607: warning: unused variable `dummyret';trivial
+warning: unused variable `home' In function `fort_LookupFORTEZZAInitFile';trivial
+Collation should be freed [@nsMsgDBFolder];trivial
+warning: unused variable `nsresult rv' in member function `nsDocShellEditorData::~nsDocShellEditorData()';trivial
+Warning ``assignment to undeclared variable uri'' [xs] in file ``chrome://cookie/content/cookieContextOverlay.xul'', line 53, character 0.;trivial
+nsObjectFrame.cpp Warning: String literal converted to char* in initialization.;trivial
+change NS_IF_ADDREF to NS_ADDREF in nsNativeScrollbarFrame::FindScrollbar;trivial
+"The file ""text,file"" is of type text/plain (Text File), and Mozilla does not know how to handle this file type.";trivial
+Wrong captions in Printer Error / Print Preview Error dialog;trivial
+fix some build warnings in netwerk;trivial
+Warning: C++ style comments are not allowed in ISO C89;trivial
+warning fix : ns/nsprpub/pr/tests/select2.c;trivial
+warning fix : ns/nsprpub/pr/src/threads/prcthr.c;trivial
+warning fix : ns/nsprpub/pr/src/threads/combined/prucv.c;trivial
+warning fix : ns/nsprpub/pr/src/threads/prtpd.c;trivial
+CSS Errors in xmlterm;trivial
+CSS Errors in content/x?l/tests;trivial
+SECKEY_ECParamsToKeySize should be declared in a header file.;trivial
+IS_CJK_CHAR should not return true for u > 0xFFEF;trivial
+Uninitialized variable in mozilla/netwerk/protocol/jar/src/nsJARChannel.cpp;trivial
+mozilla/htmlparser/src/nsParser.cpp line 1766 interuptted should be interrupted;trivial
+ --enable-trace-malloc is broken;trivial
+"suggest more intuitive way to get to ""Cookie Sites"" tab from Preferences";trivial
+about:cache title capitalization inconsistent;trivial
+warnings about conversion from 'int32' to 'char' and 'jschar';trivial
+Dialog boxes have vague names;trivial
+Dead replaced node remains in layout after replaceChild();trivial
+js_DecompileValueGenerator doesn't take a JSBool;trivial
+Unknown gopher document types give strange error message;trivial
+Deeply nested span text elements lose visibility;trivial
+LL_INIT should use PR_UINT32, not PR_INT32;trivial
+remove nsSample.js comment about bug 14460;trivial
+nsXPCOM.h included twice;trivial
+nsIStreamConverterService uses InitialCaps in idl instead of interCaps;trivial
+nsIStreamConverter uses InitialCaps in idl instead of interCaps;trivial
+classic privacy dialog icon is a modern picture;trivial
+no license block in nss/cms/pk11util/pk11table.c;trivial
+"""View Stored Cookies"" button needs a better name";trivial
+nsIProxy should be cvs removed;trivial
+Unused variable 'i' in pk11_DestroySessionObjectData(), lib/softoken/pkcs11u.c;trivial
+`Resolving host xyz.foo.bar...' should be `Looking up xyz.foo.bar...';trivial
+Apply NS_HIDDEN to necko net_ helper functions;trivial
+Useless/unreachable stale code from 1999 in GlobalWindowImpl::SetTimeoutOrInterval;trivial
+Mismatched new[]/delete in nsTextFrame.cpp;trivial
+view-source on blank page shows <html><body></body></html>;trivial
+signtool sources are a MESS - no single coding style;trivial
+Various invalid XBL documents due to extraneous text;trivial
+Uninitialized mChangedList in nsPermissionManager;trivial
+redirect_loop.{xul,dtd} seems unused;trivial
+[FIX]no newline with preformatted text when there is quotation mark at the end of the line;trivial
+Assertion in CNavDTD.cpp (htmlparser code) when loading netscape.com;trivial
+"Typo in new ""privacy level"" cookie dialog - explicity";trivial
+Scrolling using gray area of scroll bar should move to pointer location;trivial
+Double clicking outside bounds box of field still selects text;trivial
+Cookie Manager. The table grid line is not aligned with header;trivial
+progressListener.QueryInterface should not throw NS_NOINTERFACE for nsISupports;trivial
+Use proper minus character for XML document tree display;trivial
+add back whitespace after colon in about:cache extended display;trivial
+GetService klookandfeel instead of CreateInstance;trivial
+"Thunderbird prefs.js mentions ""browser""";trivial
+"when ""Regional Options / General"" locale is set to ""Serbian (Latin)"" or ""Serbian (Cyrillic)"" wrong display of date in Page Info (Ctrl + J)";trivial
+/Users/timeless/mozilla/embedding/components/printingui/src/mac/nsPrintingPromptServiceX.cpp:67: warning: `const char*kPrintProgressDialogURL' defined but not used;trivial
+/Users/timeless/mozilla/layout/html/base/src/nsObjectFrame.cpp:3931: warning: `void ConvertTwipsToPixels(nsPresContext&, nsRect&, nsRect&)' defined but not  used;trivial
+Text in cookie confirmation dialog doesn't wrap;trivial
+Why is the error reporting accumulating a second expectation?;trivial
+Return code from Peek saved but not checked in nsScanner::ReadUntil;trivial
+LL_INIT(0, -1) is wrong;trivial
+Dead code removal in htmlparser/src/nsElementTable.cpp;trivial
+compiler warnings in pki3hack on Solaris AMD64;trivial
+Duplicate #define of MAX_POLLING_INTERVAL;trivial
+###!!! ASSERTION: Form control has a frame, but it's not a form frame;trivial
+tidy up popup blocking code;trivial
+Peculiar code in DivideBCBorderSize;trivial
+[FIX] warnings when compiling nsDOMCSSDeclaration.cpp ('cl' only I think);trivial
+Rename two of three buf local variables in nsHttpChannel::SetupTransaction;trivial
+punycode.c:130: warning: signed and unsigned type in conditional expression;trivial
+CERTCertificate.nsCertType is unsigned int but is passed to PR_AtomicSet;trivial
+certutil typo: futuer should be future;trivial
+nsHttpHandler uses nsXPIDLCString for no apparent reason;trivial
+Make PK11_CreateSymKey static;trivial
+Minor tweaks to nsSelection;trivial
+Remove PKCS11_USE_THREADS and PK11_USE_THREADS;trivial
+return NS_ERROR_OUT_OF_MEMORY when NS_NEWXPCOM fails;trivial
+bad line in nsCacheService.cpp;trivial
+pk11_getKeyFromList can call PORT_Alloc instead of PORT_ZAlloc;trivial
+Remove the PKCS11_STATIC_ATTRIBUTES macro;trivial
+Unnecessary private exports from lib/softoken;trivial
+Array.join(undefined) should use ',';trivial
+Bad parsing of ]> in CDATA in view source;trivial
+r:\mozilla\layout\generic\nsBlockFrame.h(628) : warning C4099: 'nsBlockFrame::nsAutoOOFFrameList' : type name first seen using 'struct' now seen using 'class';trivial
+"In <globalOverlay.js>, (2) ""Warning: function goQuitApplication does not always return a value""";trivial
+GC old code?;trivial
+Remove nssBestCertificate related dead code;trivial
+nsCSSParser.cpp:935 Comparison between signed and unsigned integer expressions;trivial
+nsDocumentViewer.cpp:1329 unused variable `PRBool updateHistory';trivial
+editline can add non-unique lines to history;trivial
+please reuse the cached Length() value;trivial
+secport.h comment confusion;trivial
+Make noAccess/allAccess/sameOrigin consistently intercaps in the source tree;trivial
+"Hard-coded application name ""Navigator"" in ""Illegal plugin operation"" error message";trivial
+nsStyleSet.cpp: disordered list in comment;trivial
+Assert message inserts bogus newline in XPConnect is being called on a scope without a 'Components' property!\;trivial
+[console] htmlparser must not print to console in opt builds;trivial
+Duplicate include in nsDataObj.cpp;trivial
+canHaveExplicitInherit seems unused;trivial
+Redirected about channel has wrong original URI;trivial
+Size of progress bar in print progress dialog depends on length of page's title;trivial
+SEC_ERROR_INVALID_PASSWORD is defined but not used;trivial
+warning C4047: 'return' : 'foo *' differs in levels of in direction from 'int';trivial
+Integrate warning fix from Adobe for e_pow.c and e_sqrt.c;trivial
+JSLL_UCMP missing from !JS_HAVE_LONG_LONG builds;trivial
+Remove all files in  parser/htmlparser/tools from CVS since they are obsolete (genentities.pl, gentags.pl);trivial
+JS Test Library - remove anchors from jsDriver.pl output;trivial
+Update spidermonkey-n.tests to eliminate obsolete tests;trivial
+Typo in a comment in nsICache.idl;trivial
+cvs remove three dead makefiles;trivial
+duplicate symbol warnings during linking of the root cert module;trivial
+unused variable warnings in QuickDER;trivial
+warning during freebl build on Solaris;trivial
+all.pl should echo the value of BUILD_OPT;trivial
+chardet.alis_charset_detector.title in charsetTitles.properties is waste;trivial
+Fix interface inconsistencies in parser;trivial
+wrong comment in l10n resource pref-addressing.dtd LDAP;trivial
+ssl_V3_SUITES_IMPLEMENTED is off by 3 when the FORTEZZA cipher suites were removed;trivial
+replace PR_CurrentThread with PR_GetCurrentThread;trivial
+directory/xpcom/public/nsLDAP.h should go away;trivial
+"Silence assertion ""found non euro modifier"" in OS/2 debug builds";trivial
+Bogus closing tag syntax comment parsed as an SGML comment;trivial
+plevent.h gives bad advice;trivial
+httpget.c is really hard to read because of indentation and tabs;trivial
+Add Interlingua [ia] to Languages list in Preferences;trivial
+Character spacing bad in Cairo with ClearType enabled;trivial
+Avoid compiler warning in nsFrame::GetSelectionClosestFrame();trivial
+missing error page descriptions;trivial
+"The selection colors are always reversed in non-html editor(when the system color set is ""silver"")";trivial
+Incorrect check of PR_Malloc failure in nsScriptSecurityManager.cpp ligne 3277;trivial
+showAutoscrollMarker code is wrong in special situations;trivial
+Too long string in file not found xul error page isn't wrapped;trivial
+Typo in comment in fix for bug 187772;trivial
+UniversalChardetTest.cpp(65) : warning C4800: 'const PRBool' : forcing value to bool 'true' or 'false' (performance warning);trivial
+remove [noscript] from nsICookieManager2::add;trivial
+idl comment for containsNode is corrupt;trivial
+The undetermined progress bar/meter draws the blue bar outside the left and right borders;trivial
+Remove duplicate string constants in jsnum.c;trivial
+js.mak clean targets fail to clean up pch's;trivial
+Ambiguous documentation for JS_RemoveRoot();trivial
+Comment wrong in nsSelection.cpp;trivial
+Minor string parser coding error in nsIconURI.cpp;trivial
+make NS_IsNativeUTF8 inline where it returns PR_TRUE/FALSE;trivial
+NSS builtin certificate module manufacturer is Netscape;trivial
+remove obsolete mouse wheel code in nsWindow.cpp;trivial
+nsIAboutModule documentation outdated?;trivial
+Duplicate line in ec_GF2m_validate_point;trivial
+word-spacing plus white-space: pre lead to incorrect pref-size;trivial
+Coverity 173, dead code in mozilla/security/nss/lib/softoken/pkcs11c.c;trivial
+Coverity 508, dead code in mozilla/security/nss/lib/softoken/dbmshim.c;trivial
+"Extraneous semicolons cause ""Empty declaration"" compiler warnings";trivial
+Three Array.prototype methods have wrong length;trivial
+[FIX] Don't warn when ALT attr is missing in markup;trivial
+Coverity 506, dead code in mozilla/security/nss/lib/ssl/sslmutex.c;trivial
+update references 140-1 to 140;trivial
+mPrintPreviewObs.QueryInterface should not throw NS_NOINTERFACE for nsISupports;trivial
+Useless null check of ss in ssl3_config_match_init;trivial
+Coverity 171, dead code in mozilla/security/nss/lib/softoken/pcertdb.c;trivial
+Coverity 170, dead code in mozilla/security/nss/lib/freebl/pqg.c;trivial
+Coverity 172, dead code in mozilla/security/nss/lib/softoken/keydb.c;trivial
+item cleanup is unused DEADCODE in SECITEM_AllocItem loser;trivial
+nsslowcert_UpdateSubjectEmailAddr doesn't consistently use emailAddrs as a guard of nemailAddrs guarding emailAddrs[0];trivial
+Leak in NSResOpenTable & NSResCreateTable (dbm/src/nsres.c);trivial
+Coverity 163, dead code in mozilla/security/nss/lib/ssl/ssl3con.c;trivial
+Coverity 681, dead code in mozilla/security/nss/lib/ssl/ssl3con.c;trivial
+Coverity 446, dead code in mozilla/security/nss/lib/certhigh/ocsp.c;trivial
+Coverity 447, dead code in mozilla/security/nss/lib/certhigh/ocsp.c;trivial
+Coverity 411, dead code in mozilla/security/nss/lib/certdb/stanpcertdb.c;trivial
+Javascript strict warnings : function _ does not always return a value;trivial
+"HTTP auth dialog is titled ""Prompt""";trivial
+nsStringBundle is too noisy when given an invalid URL;trivial
+nsZlibAllocator is dead (not used) and can be removed from cvs;trivial
+Very little bug in MatchesBaseURI;trivial
+strict aliasing bugs in mozilla/dbm;trivial
+[Mac] Text selection not per HIG (not selecting entire line);trivial
+scrollbar gets painted slightly funny when scrolling slowly;trivial
+Unused params warnings in nsJSEventListener.cpp;trivial
+warning: `int posix_locale_category[6]' defined but not used in nsLocaleService.cpp;trivial
+Coverity 516, Dead code in mozilla/security/nss/cmd/lib/secutil.c;trivial
+Useless assignment statements in ec_GF2m_pt_mul_mont;trivial
+use of uninitialized data in fipstest;trivial
+Fix code comment above blacklisted ports list in netwerk/;trivial
+init SECItem derTemp in crmf_encode_popoprivkey;trivial
+"necko.properties: Change \"" to "" and 'log into' to 'log in to'";trivial
+Unused variable warning - nsHashPropertyBag.cpp:181;trivial
+[fa-ir] is not mapped to Persian/Iran;trivial
+please stop exporting these crmf_ symbols;trivial
+Workaround for bug 193298 no longer needed in customizeToolbar.js;trivial
+Update misc version strings for NSS 3.11.3 release;trivial
+Update misc version strings for NSPR 4.6.3 release;trivial
+Differentiate Basic and Extended ECC for NSS version string;trivial
+JS regexp trivial cleanups;trivial
+Warning: String literal converted to char* in formal argument aAttr in call to nsFrameUtil::Tag::GetAttr(char*).;trivial
+nsGlobalWindow::*Timeout nsTimeout *next, *prev (shadow) hides PRCListStr::next and hides PRCListStr::prev;trivial
+RegExp: Branch-callback checking could be made slightly more optimal;trivial
+Unconditional reference to conditional function;trivial
+hopefully useless null check of out it in JAR_find_next;trivial
+TestVersionComparator.cpp: Warning: String literal converted to char* in assignment.;trivial
+stop including nsTableCellFrame.h;trivial
+jsfile.c: JSFILE_CHECK_{OPEN|CLOSED} warning messages are switched;trivial
+nsJSChannel::AsyncOpen needs help [was: WARNING in nsInputStreamChannel.cpp];trivial
+On Windows, ReadSystemFiles reads 21 files as opposed to 10 files in C:\WINDOWS\system32.;trivial
+compiler warning in unix_rand;trivial
+dsa.c should use the macros defined in secmpi.h;trivial
+suspicious cast in prnetdb on Solaris AMD64;trivial
+Code cleaning for nsTextFrame.cpp;trivial
+README.txt should be updated;trivial
+Korean and Simplified Chinese font uninstallable;trivial
+Clean up the USE_PTHREADS related code in coreconf/SunOS5.mk.;trivial
+Signed-unsigned comparison in nsVoidArray.cpp;trivial
+Simplify the NSS version string definition.;trivial
+Tooltips in OS X need to not be banana-yellow;trivial
+nsImageDocument image scaling should never scale a dimension to 0px;trivial
+SetDelayCaretOverExistingSelection is unused;trivial
+Remove obsolete and unusable null check from XPCCallContext;trivial
+JavaScript strict warning in richlistbox.xml;trivial
+Take advantage of old yes/no constant in nsIPromptService;trivial
+Incorrect spelling in Delete E-Mail Certificates;trivial
+[FIX]Right part of focus outline of empty listbox is not visible;trivial
+put maps in alphabetical order;trivial
+sub status undefined in js/tests/mklistpage.pl;trivial
+JavaScript Tests - update test template copyright;trivial
+Change nsIEditor to remove readonly on transactionManager;trivial
+nsIPref should have @status DEPRECATED;trivial
+nsSVGUtils.h mis-forward-declares struct gfxMatrix as a class;trivial
+Unused variables in xpccomponents.cpp (cause compiler warnings);trivial
+"""variable X hides argument"" strict warning is slightly misleading";trivial
+"Set NSPR31_LIB_PREFIX to empty explicitly for ""WIN95"" and ""WINCE"" builds";trivial
+Compile warnings nsWebBrowserPersist.cpp;trivial
+An absolutely positioned DIV with centered alignment adds extra space around the block elements it contains;trivial
+Nested Marquee tags not supported.;trivial
+Uppercase the VK_* bits for consistency with the rest of the codebase;trivial
+Table row's VALIGN is inconsistent when DHTML rewrites innerHTML of table cells;trivial
+JavaScript Tests - miscellaneous updates 20070228;trivial
+[FIX][reflow branch] Right hand side of empty select is slightly cut off;trivial
+The NSPR and NSS versions in org/mozilla/jss/CryptoManager.java are out of date.;trivial
+moz-border-radius rendering artifact;trivial
+JavaScript Tests - ecma_3/Date/15.9.5.6.js uses incorrect TestCase signature;trivial
+Mistyped assignment in tree.xml;trivial
+Three root CA certs don't have explicit CKA_TRUST_STEP_UP_APPROVED flags;trivial
+Components.utils.import reports NS_ERROR_FAILURE when the file not exists;trivial
+Line breaks normalized twice;trivial
+<datepicker>, <timepicker> warning: assignment to undefined variable newval;trivial
+When memory cache is disabled, no-store pages are not displayed at all;trivial
+cid and comment don't match;trivial
+style nits in the content prefs service;trivial
+Emacs modeline comment missing from MathML header files.;trivial
+[ps] Overline/Strikethrough prints too low;trivial
+Broken link to Netscape Cookie Specification page in cookies.txt file;trivial
+Backwards assertion checks in XPCNativeScriptableInfo::Construct;trivial
+Remove unnecessary NSS_ENABLE_ECC defines from manifest.mn;trivial
+Print() contains a useless variable;trivial
+Incorrect interpretation of LFCR after opening tag;trivial
+aRuleDetail parameters to nsRuleNode::Compute*Data don't need to be references;trivial
+Add check for lastError in test_storage_progresshandler.js;trivial
+nsXPCWrappedJSClass::DebugDump leaks an xptiInterfaceInfo;trivial
+MathML missing fonts dialogue contatins extra space character (Camino-only);trivial
+about:plugins includes a link to netscape;trivial
+Silly var use in exitPrintPreview();trivial
+Make about:logo work again in Toolkit apps;trivial
+Make the JS shell use the latest version;trivial
+Double backslash in sysDir filenames causes problems on OS/2;trivial
+Remove orphaned comment in nsFrame::BoxReflow;trivial
+Small follow-up optimization in nsSpaceManager.cpp;trivial
+Remove GetAlphaBytesPerRow from imgContainer.cpp;trivial
+OCSP_Global.monitor is leaked on shutdown;trivial
+Break friendship between imgContainer and nsGIFDecoder2;trivial
+PKIX_Shutdown is not called by nssinit.c;trivial
+Remove unused function DER_Decode;trivial
+"""Type Manifest File:"" spewed to console on launch.";trivial
+[Mac] Text in Remember Password Dialog is too close to the top-left corner;trivial
+XPCOMUtils spews uuids when registering components;trivial
+"console spewage: ""(all right -- a generic module!)""";trivial
+nsXULPopupManager.h:124: warning: ‘DirectionFromKeyCode_lr_tb’ defined but not used;trivial
+JavaScript Tests - update public-failures.txt 2007-10-17;trivial
+Binding prototype is not unhooked at document teardown;trivial
+Fix the incorrect function prototypes of SSL handshake callbacks;trivial
+Adding an empty optgroup to an empty select using DOM results in extra space;trivial
+Fix miscellaneous compiler warnings in nss/cmd;trivial
+Remove obsolete code from PNG decoder;trivial
+remove obsolete file: modules/libimg/png/pngasmrd.h;trivial
+Including jsapi.h generates many warnings with certain compiler configurations (e.g. gcc 3.4 -Wstrict-prototypes);trivial
+Review nsIPrintSettings.paperSize;trivial
+Remove 2 obsolete <newserver.*> files, or other left-overs;trivial
+imgIEncoder documentation is wrong;trivial
+JavaScript Tests - update tests due to fallout from bug 353116;trivial
+typo in submit.log by Crash reporter;trivial
+"browser ignores MARQUEE BEHAVIOR = ""SLIDE""";trivial
+about:license should contain license information for Breakpad;trivial
+Some animated gifs animate in Print Preview if looping is set to once;trivial
+Minor dictionary tweaks;trivial
+"JavaScript Tests - handle ""race"" in some Date tests";trivial
+"<textbox type=""number""> spin buttons look wrong with some GTK themes";trivial
+Benign parameter mismatch;trivial
+JavaScript Tests - known-failures.pl should ignore trailing spaces;trivial
+Odd alignment of radio button internal elements on Page Setup dialog;trivial
+"""Attempt to use inaccessible property Error in parsing value for property"" is confusing wording";trivial
+Update libpng to version 1.2.24;trivial
+remove sha.c and sha.h from lib/freebl;trivial
+Warnings in nsSVGPathElement.cpp;trivial
+can't copy from report window in crash reporter dialog;trivial
+Page Up and Page Down do not hide cursor;trivial
+GC hazard in js.c;trivial
+GTK print dialog has incorrect filename extension for Print to File;trivial
+Window border in Customize Toolbar;trivial
+"Redundant |if| around ""Line frames should all be continuation placeholders"" assertion";trivial
+"""Remove crashes"" prompt is missing a period";trivial
+Fix a _MSC_VER typo in sha512.c, and use SEC_BEGIN_PROTOS/SEC_END_PROTOS in secport.h;trivial
+Spelling of arch(a)eo- root words in  English/US dictionary is inconsistent;trivial
+Word 'axe' is not in dictionary;trivial
+VC 2005 warnings need fixing;trivial
+C++ comments in jsarray.c;trivial
+fixing bad English in jsgc.c comments;trivial
+Misindented else-clause code in generator expression decompiler code;trivial
+Redundant STYLE_STACK_DEPTH, STYLE_CURRENT_STACK macros;trivial
+Case mismatch between nsIURI and nsIUri in nsIPrincipal.idl;trivial
+lib/util can't be built stand-alone.;trivial
+Google reader search results have strange red line and broken border around them;trivial
+menus should have Menu, PopupMenu or DropdownMenu window type;trivial
+"""XPConnect is being called on a scope without a 'Components' property!"" assertion message is ridiculously long";trivial
+Rename nsIAccessibleHyperLink::anchorsCount to nsiAccessibleHyperLink::anchorCount for better consistency.;trivial
+Using underline hint at painting the strikeout line of Quirks mode;trivial
+GTK fires spurious drag exit event after a drop;trivial
+Remove description from application accessible;trivial
+áéíóúàèìòùÁÉÍÓÚÀÈÌÒÙ in text causes universal AD to display in Big5;trivial
+"certdata.perl generates a warning about a variable ""used only once""";trivial
+Rename cell-index string property to table-cell-index;trivial
+JavaScript Tests - update public-failures.txt;trivial
+Improve comment for PR_FileDesc2NativeHandle in pprio.h.;trivial
+Fix the GCC compiler warnings in lib/util and lib/freebl;trivial
+Coverity 321, dead code in mozilla/security/nss/lib/pk11wrap/pk11cert.c;trivial
+Coverity 1150 - dead code in ocsp_CreateCertID;trivial
+Tree children in Sidebar and Library are indented too far.;trivial
+Duplicated code in |PR_snprintf()| and |PR_vsnprintf()|;trivial
+pk11_config_name and pk11_config_strings leaked on shutdown;trivial
+Memory leaks on error paths in devutil.c;trivial
+[BLOCK] cells with <br> alone considered empty;trivial
+Remove _malloc_options abuse;trivial
+JavaScript Tests - correct test typos;trivial
+Convert toolkit application/x-javascript to application/javascript;trivial
+In <nsComponentManager.cpp>, do |s/perisistant/persistent/g|;trivial
+text-decoration:blink still blinks in print preview;trivial
+A few minor nits in <nsStringBundle.cpp>;trivial
+lousy error msg when try encrypting with signing-only cert;trivial
+Extra semicolon in SeqDatabase makes static analysis tool suspicious;trivial
+"Remove the obsolete 2nd parameter from |nsIStringBundleService::createBundle(...)| ""JS"" callers";trivial
+update layout/generic/punct_marks.ccmap to unicode 5.0;trivial
+SVG text outline does not change thickness;trivial
+"remove "" ."" from ""No chrome package registered"" error message";trivial
+basetext doesn't claim to implement nsIDOMXULLabeledControlElement;trivial
+Documentation on string operations misses the name of the header file;trivial
+Eliminate dead function CERT_CertPackageType;trivial
+Documentation on formatted printing misses the name of the header file;trivial
+Circular dependency in makefile.ref;trivial
+js/tests/ecma_2/Exceptions/function-001.js is bogus;trivial
+Crash/Error Reporter, Email field not disabled after submission;trivial
+javascript strict warnings in addressbook.js;trivial
+Compact folder dialog has a daft window name;trivial
+"Message folder pane shows folder size in ""MB"", but also in ""kb"" (all lowercase)";trivial
+msgKey isn't used in nsMailboxProtocol::DoneReadingMessage;trivial
+charset parameter in attached vCards should be utf-8, not utf8;trivial
+remove unused variables;trivial
+Reply to news message, no Subject in compose window;trivial
+When there is new mail, message shown in console has typo;trivial
+There's no default pref for format=flowed;trivial
+Reduce the number of warnings while compiling Mozilla;trivial
+Add an explaining comment to mail.identity.default.bcc_*;trivial
+cvs remove  pref-messages.dtd;trivial
+Remove unused files;trivial
+nsMsgSendReport.cpp:224: warning: cast to pointer from integer of different size;trivial
+askSendFormat.xul dialog is still a <window>;trivial
+"mail composer statusbar has ""hole"" where progress indicator used to be";trivial
+UI: Too much space b/w To: selector and address card;trivial
+Various cleanup ideas for msgcompose:5 logging.;trivial
+Spellcheck: Recheck button doesn't enable Change To text field.;trivial
+"Problem with ""fast"" composition and aborted sends";trivial
+"""Message has not been Sent"" is grammatically incorrect";trivial
+Style buttons should remain pushed down;trivial
+String constants in mork should be char arrays;trivial
+nsMsgThread::GetFirstUnreadChild code path returns uninitialized value;trivial
+"missing ""to"" at viewLog.dtd";trivial
+"In <FilterEditor.js>, ""Warning: assignment to undeclared variable gChangeJunkScoreCheckbox""";trivial
+messages deleted by filter are 'unread' in trash;trivial
+Make the filter dialog size in proportion to the font size;trivial
+"Poor grammar in filter rules dialog: ""For incoming messages that:""";trivial
+Some buttons for  filters are mostly off the window on intial use of Filters dialog;trivial
+focus problem for filters dialog if invoked after prefs;trivial
+Typo of 'unsolicited' as 'unsolicted' in Junk Filter dialog.;trivial
+vi control characters added to string accidentally;trivial
+Minor UI Nits on Filter Log dialog;trivial
+"""Mark read"" should be ""Mark Read""";trivial
+importProgress dialog is unused and can be removed;trivial
+Useless conversion from char to PRUnichar following a truncation to char;trivial
+importMsgs.properties cleanup (remove unused strings + fix capitalization);trivial
+MessengerSetDefaultCharacterSet should be named MessengerSetForcedCharacterSet;trivial
+Mail/News: Date Time in English format in changed quote start;trivial
+Warning ``assignment to undeclared variable ...'' in nsLDAPPrefsService.js;trivial
+LDAP should be in capital letters;trivial
+"Obsolete localization note ""showSidebarMenu"" in messenger.dtd";trivial
+Unnecessary entry in DTD;trivial
+"Last references to ""Netscape"" in imapMsgs.properties file";trivial
+Shouldn't use FindCharInSet when searching for one char;trivial
+incorrect use of assertions with UTF-8 checking;trivial
+Clean possible leaks of exdata in mimetpfl.cpp;trivial
+stream converter tidy up;trivial
+"shouldn't just use ""@netscape.com"" in Content-ID";trivial
+error in log string;trivial
+Artifacts produced when resizing left window pane in Messenger.;trivial
+'lock' icon is 'opened' after secure IMAP transaction;trivial
+Wrong download file size in MB is reported;trivial
+'cancel' hidden if filename too big;trivial
+"""don't ask me again"" misalignment";trivial
+Download Manager options (open, remove, cancel, et. al.) give no visual feedback when clicked or hovered over with the mouse.;trivial
+Incorrect 'o' underlined on Options button;trivial
+"Clean Up button tooltip should say ""and"", not ""or""";trivial
+Access key for Clean Up should be C, not A;trivial
+"Text labels for ""All files downloaded to:"" and folder name are misaligned";trivial
+Awkward UI text for showing nonexistent files;trivial
+download sidebar: some downloads are sticky and at 0% next session.;trivial
+Percent sign (%) missing in download-sidebar;trivial
+"default theme is badly named ""Mozilla Firebird (default)""";trivial
+Theme Man - Text on mouseover (tooltips) says extensions;trivial
+Theme Manager's Use Theme button's tooltip contains a fullstop;trivial
+"Inconsistent Naming: ""Preferences"" or ""Options"" in Extension Manager";trivial
+Extension-specific dialogs should pop up centered;trivial
+findBar.js uses numbers when it should be using constants;trivial
+"Firefox 1.0 pre release: pressing RETURN in empty search field should not print ""Phrase not found""";trivial
+Improve button labels for Confirm Password Change dialog;trivial
+useless expression in nsUpdateService.js;trivial
+"""Updates"" in status bar tooltip should not be capitalized";trivial
+"""Changing the default values"" in about:config warning doesn't make a whole lot of sense";trivial
+Remove  IIDS.h (was: Warning: Item()/NamedItem() hides inherited virtual function);trivial
+[console] dom must not print to console for opt builds;trivial
+nsGenericHTMLElement::GetAttr is messy and causes compiler warnings;trivial
+CTL shouldn't use quotes for modulename;trivial
+nsBidiPresUtils::FormatUnicodeText can return uninitialized nsresult;trivial
+better constness in mozilla/dom;trivial
+Bring comments in nsRenderingContextWin.cpp in line with the code;trivial
+BGCOLOR does not work without a # char in the color code on table which is output dynamically using getElementByID function and innerHTML property;trivial
+unused variables gDumpFileNameCnt, gDumpLOFileNameCnt in nsDocumentViewer.cpp;trivial
+"Session history size (number of pages)"" Pref -> Navigator -> History should be ""Number of pages in session history";trivial
+nsIScriptGlobalObjectOwner.getScriptGlobalObject() should be non-scriptable;trivial
+<title></title> generates two title change notifications;trivial
+new bookmark/bookmark properties dialog should stay LTR when UI is right to left;trivial
+regExport accesses argv[1] before checking argc==1;trivial
+protected recursion triggers ASSERTION: failed to load URL: 'NS_SUCCEEDED(rv)', file r:/mozilla/content/html/content/src/nsGenericHTMLElement.cpp, line 3469;trivial
+Setting table's tHead or tFoot to wrong type of table section does weird things;trivial
+"Java XPIDL backend should translate PRBool as ""boolean""";trivial
+Java xpidl backend doesn't use interCaps.;trivial
+the memory allocated via g_malloc() should be freed via g_free().;trivial
+Unused variable `PRInt32 cnt' in nsSHistory::CompareFrames;trivial
+Remove XPT_PARAMDESCRIPTOR_SIZE;trivial
+nsDOMString.h is safe for non-internal API;trivial
+[XBL] Regression: Can't navigate in menus with arrow keys;trivial
+XPmenus/menuitems have too much padding;trivial
+Underlining of accesskey in <titledbutton> too long;trivial
+Win+R in Windows doesn't cause context menus to dismiss;trivial
+keyboard shortcuts in menus should be aligned;trivial
+Typo in nsXULDocument.cpp (DOCTYTPE -> DOCTYPE);trivial
+post-RTM, should replace all instances of http://www.w3.org/TR/REC-html40 URI in our XUL with correct XHTML URI;trivial
+Menu items do not render on top of the windows task bar;trivial
+Menu highlight by ALT key should be cleared by next key event;trivial
+XBL conflicts with XUL outlinercol-image class name;trivial
+Gray vertical splitter isn't;trivial
+Disabled menulist or menulist with a <menupopup> with no child menuitems should not display a menu.;trivial
+Typo in chrome registration error;trivial
+Make scrolling menus (e.g. bookmarks) scroll using mousewheel;trivial
+"nsAppRunner.cpp still refers to ""components.ini"" in comment";trivial
+Comment why BoxFrame debug code is not #if DEBUG;trivial
+startup warning at nsChromeRegistry.cpp, line 1249;trivial
+Can't use Enter key in outliner columnpicker;trivial
+DND bookmark: slight vertical offsets of the feedback line;trivial
+nsContentTestNode.cpp breaks 64-bit builds on AIX;trivial
+Strange shift+click and ctrl+click behaviour in single-selection listbox;trivial
+layout/xul/base/src/grid/nsGrid.cpp reorder variables;trivial
+javascript strict warnings in select.xml and tree.xml;trivial
+trivial code changes to nsXULElement.cpp;trivial
+"Remove extraneous seltype=""multiple"" attributes of <tree>s in xul";trivial
+Cleanup warnings in xul..grid;trivial
+<dialog>s don't need trailing <separator>s;trivial
+nsMenuPopupFrame.cpp:1142:9: warning: multi-line comment;trivial
+<xul:dialog> should be able to initially disable the accept button;trivial
+Get rid of window title hacks;trivial
+Context menu appears top left of page when using keyboard;trivial
+Remove useless tborient, tbalign and prefixhidden attributes;trivial
+"XUL <tooltip noautohide=""true""> isn't working in FF 3.x";trivial
+Poor wording in form manager prefs;trivial
+missing access keys for Personal panel;trivial
+"EM: ""will be installed the next time you restart Firefox"" needs grammar check";trivial
+"change ""Get More Extensions"" to ""Get Extensions""";trivial
+"""close tab"" and ""close find toolbar"" button does not have a border creating button behaviour";trivial
+View source window does not have resize box when the window has both scrollbar;trivial
+Find Toolbar's close button is too far to the right;trivial
+Port |Bug 183419 – Message Filter dialog and Search dialogs (Message, Address) need close facilities (was buttons)| to Thunderbird;trivial
+"Remove ""comments only"" <msgHdrViewAddresses.js>";trivial
+Installing extensions with guids with a trailing / cause an unknown error.;trivial
+Tweak No Preview text in AMO pane;trivial
+stackTraceFunctionFormat(aFunctionName)  as typo  error;trivial
+"Context menu of an Extension in EM should say ""Find Update"" instead of ""Find Updates""";trivial
+extensions.js not using defined constant;trivial
+PREF_APP_EXTENSIONS_VERSION is unused in nsUpdateService.js.in;trivial
+minor formatting nits in Login Manager source code;trivial
+minor cleanup of login manager logging;trivial
+Addon manager's plug-in descriptions are garbage text (mojibake);trivial
+wording of text in automatic updates dialog after new update has been downloaded;trivial
+Comments in default mailnews prefs is wrong.;trivial
+id: searchResultListBox appears twice in SearchDialog.xul;trivial
+Extensions Installation icon looks poor/aliased;trivial
+Unnecessary warnings when opening a local .eml file;trivial
+Consolidate UpdateSummaryTotals into nsMsgDBFolder;trivial
+incorrect text in extension installation prompt;trivial
+Blank description not restored when re-enabling a description-less extension;trivial
+context menu issues after canceling uninstallation of extension;trivial
+"Uninstalling an extension while doing a ""Find Updates"" don't update the status text";trivial
+"Extension manager writes ""Install completed successfully"" even if not true";trivial
+extensions.properties unused string installAdoonPickerTitle;trivial
+Update not found notification should have regular close button.;trivial
+"""No updates were found"" bar should be dismissed when you change view";trivial
+EM general code cleanup;trivial
+Clean up abCommon.js;trivial
+migrate parameter to DIR_AddNewAddressBook is always false.;trivial
+"""Organisation"" should be spelled ""Organization"" in the alert for empty fields in Address Book.";trivial
+[Mac OS X] add-ons update window says to click 'Finish' when button is labeled 'Done';trivial
+Nits in passwordmgr comments;trivial
+String literal converted to char* in formal argument name, in assignment, and in call;trivial
+nsISHistory required for View Source (undefined for Thunderbird);trivial
+weird nsCOMPtr<> construction in nsAddrDatabase ctor;trivial
+"""dialog has no properties"" error in the JavaScript console after closing download attachment dialog";trivial
+"In <MsgComposeCommands.js>, ""Warning: assignment to undeclared variable destUri""";trivial
+"When an update has been downloaded, dialog text refers to a ""Later"" button, should be ""Not Now""";trivial
+When upgrading an extension the installed version number is displayed until the upgrade has been completed by a restart.;trivial
+Incorrect license boilerplate for download manager schema migration test code;trivial
+"Download statusbar tooltip says ""Double click to open..."" but single click works";trivial
+Typo in a comment in nsLoginManagerPrompter.js;trivial
+remove unnecessary CSS stanza from downloads.css ?;trivial
+Password notification bar needs icon;trivial
+CVS remove mozilla/toolkit/components/downloads/src/old.cpp;trivial
+download controls should be buttons, not links;trivial
+Importing an address book mentions importing from a program instead of importing from a file.;trivial
+Change 'Remove' in download manager to 'Remove From List';trivial
+Remove session-logout code from networking;trivial
+Software update (green) icon displayed/appears/flashes directly next to Help during start;trivial
+Grammar error in add-on installation dialog;trivial
+xbl / xul namespace foo in popup.xml;trivial
+Redundant factory object in nsExtensionManager.js;trivial
+'Add-ons' should not be capitalized in offlineUpdateMsg;trivial
+"Bad information text ""Firefox may check periodically for new updates""";trivial
+Add-ons aren't sorted correctly in Add-ons manager (problem with non-ascii chars);trivial
+Nits in <TestHashtables.cpp>;trivial
+(some) Security Manager (PKI) files seem to reference <contextHelp.js> uselessly;trivial
+Remove obsolete XP_MAC code;trivial
+missing keyword 'public' in xpcom/glue/nsAutoLock.h;trivial
+Fix the GCC compiler warnings in nss/lib;trivial
+PK11_CreateMergeLog() declaration causes gcc warning when compiling with -Wstrict-prototypes;trivial
+Wrong region code for Moldavia in languages.properties;trivial
+Unused var in customizeCharset.js;trivial
+Code Cleanup and Possible Perf Increase in xptiInterfaceInfoManager::BuildFileList;trivial
+Splitter in Update Information window can be moved all the way left/right;trivial
+both form manager dialogs have the same title;trivial
+WalletNotification key value is obsolete;trivial
+NS_INTERFACE_TABLE_INHERITED10 defined twice;trivial
+Remove JS_STATIC_DLL_CALLBACK and JS_DLL_CALLBACK from the tree;trivial
+editline.c:1038: warning: implicit declaration of function `getpid';trivial
+Remove some nsIDocument QIs from txMozillaTextOutput.cpp;trivial
+"Rename the ""static"" text attribute to ""auto-generated""";trivial
+Confusing comment, bogus indentation in jsobj.cpp;trivial
+TM: Inconsistent spacing in tracer statistics message;trivial
+"In </toolkit/*>, ""use a xul <stringbundle/> instead of including the strres.js code""";trivial
+JavaScript Tests - GLOBAL should be computed in shell tests;trivial
+JavaScript Tests - gczeal should be guarded;trivial
+Details link has ugly focus while downloading an update;trivial
+XUL tab widgets are rendered incorrectly on GTK;trivial
+nsParseMailbox.cpp:1813: warning: unused variable ‘numFolders’;trivial
+Minor fixes for recent WINCE changes to DBM;trivial
+Remove obsolete <mailnews/mapi/old/*>;trivial
+NS_THEME_SCROLLBAR_GRIPPER_* should get its state from its parent;trivial
+The find bar close button is 1px too high;trivial
+Page Setup Box changes size when switching between Portrait/Landscape;trivial
+Certificate Exception dialog logs scary looking exception, even though nothing's wrong;trivial
+Kill VISUALSELECTION code;trivial
+Remove leftover(!?) TPATH_LEN;trivial
+reduce narrow windows API calls in xpfe;trivial
+<nsDataObj*.*>: update some variables which don't need to be pointers;trivial
+Kill OLD_SELECTION code;trivial
+Remove two unused members of nsTypedSelection and their accessors;trivial
+Useless border rules for input[type=image] in quirk.css;trivial
+Decide what to do with <TestPipes.cpp> |#if 0|'ed code;trivial
+Duplicate shadowing code in nsStreamConverter::Init;trivial
+"</intl/strres/tests/strres-test.xul>: ""This file needs a rewrite""";trivial
+Remove Dead Code in nsWidgetSupport.cpp/h;trivial
+remove obsolete tabstrip-box rule from pinstripe's tabbox.css;trivial
+s/functionto/function to/ in crmffut.h;trivial
+Plain readonly textboxes should have a transparent background;trivial
+mpp_pprime (Miller-Rabin probabilistic primality test) may choose 0 or 1 as the random integer;trivial
+uninitialised value in devutil.c::create_object();trivial
+dead assignment in devutil.c::nssSlotArray_Clone();trivial
+Fix the comments about PR_EnumerateAddrInfo and PR_GetCanonNameFromAddrInfo;trivial
+quiet gloda logged debug output on category gloda.NS when indexing;trivial
+Incorrect use of NSS_USE_64 in lib/libpkix/pkix_pl_nss/system/pkix_pl_object.c;trivial
+"scrollbar arrows rendered incorrectly with <meta http-equiv=""MSThemeCompatible"" content=""no""/>";trivial
+gCallbacksEnabled in prefapi.cpp is unused and should be killed;trivial
+XUL test template has typo in comment: s/resuls/results/;trivial
+"In <test_one.sh>, document new ""check-one"" call mode too";trivial
+TAB stop column not correct for <PRE> when image on the line;trivial
+"Change ""Remove Reports"" to ""Remove All Reports""";trivial
+Contributed improvement to security/nss/lib/freebl/mpi/mp_comba.c;trivial
+IsAttributeMapped appears in many SVG class definitions with NS_IMETHODIMP_ instead of NS_IMETHOD_;trivial
+Borders around folder icons in directory listings (e.g. when viewing FTP sites);trivial
+Remove heap allocated nsSVGLength in nsSVGUtils::CoordToFloat;trivial
+Unnecessary virtual on several methods in nsSVGSVGElement;trivial
+waste localization note in pref-receipts.dtd;trivial
+Remove unused interface mozIStorageDataSet;trivial
+better constness in mailnews/imap;trivial
+No update on progress dialog - copying to sent folder (imap server);trivial
+remove useless test from nsImapProtocol::ProcessCurrentURL;trivial
+Poorly written code in nsImapMailFolder.cpp;trivial
+Typo: M$ for MS in a comment in nsSmtpProtocol.cpp;trivial
+Need names for outgoing SMTP servers (for multiple SMTP users on same server & same port number);trivial
+remove obsolete pref network.hosts.nntp_server;trivial
+User profile selection window cropped;trivial
+Remove LoadLibraryW and CP_UTF8 emulation for Windows 9x in prlink.c.;trivial
+Remove remaining XP_MAC code from /mailnews;trivial
+fancy_links_p in MimeDisplayOptions is unused;trivial
+toString deprecation comment seems out of place;trivial
+atEndOfSession define in cookieAcceptDialog.properties should be capitalize;trivial
+warning fix : ns/js/jsj/jsStubs.c;trivial
+NPAPI scrolling event constants out of sync between nsplugindefs.h and npapi.h;trivial
+prng_fips1861.c redefines the macro BSIZE on HP-UX;trivial
+Merge TableExists and IndexExists, and replace nsCString with nsCAutoString;trivial
+Remove (empty) watcomfx.h from nss;trivial
+Fix specific spelling errors in NSS;trivial
+findbar-textbox binding incorrectly assigned in theme files;trivial
+The slash in empty element tags in XML are red in view source;trivial
+IsDebuggerPresent doesn't need to be dynamically loaded any more;trivial
+spidermonkey-n-1.9.2.tests typo;trivial
+</xpcom/base/nsError.h> NS_SUCCEEDED() code cleanup;trivial
+Remove lib/freebl/mapfile.Solaris;trivial
+Make Core reftest/crashtest make targets available;trivial
+"""Phonetic"" labels are miss-aligned";trivial
+Menu items suffer from vertical alignment problems on Windows;trivial
+Files added by Red Hat recently have missing texts in license headers.;trivial
+right margin of close button in notification bar is necessary;trivial
+nsCSSScanner: cleanup of EatWhiteSpace and removal of EatNewline;trivial
+Remove obsolete build options MOZILLA_SECURITY_BUILD and MOZILLA_BSAFE_BUILD;trivial
+Remove obsoleted 'CompletionNotifier::cancel()';trivial
+nsComponentManagerImpl::HashContractID() reenters mMon;trivial
+TraceMonkey: In one instance, _err is set directly rather than by using setError.;trivial
+Remove Win16 reference from jdatadst.c;trivial
+Legacy XUL attribute 'xulkey';trivial
+Fix style nitpicks from bug 485576;trivial
+Better documentation for signature/vCard attributes in nsIMsgIdentity.idl;trivial
+Mochitest leakThreshold should default to 0;trivial
+Update misc version strings for JSS release;trivial
+Possible uninitialized variable use in pt_RecvFrom();trivial
+RSS Feed properties, retention policy incorrect label;trivial
+"In <newsblog.js>, 2 ""Warning: trailing comma is not legal in ECMA-262 object initializers""";trivial
+form autocomplete (and Firefox search bar) items are sorted case sensitively (A-Za-z);trivial
+NS_ENSURE_TRUE(NS_SUCCEEDED(),) used needlessy in some places;trivial
+Don't rely on button names in <passwordmgr/test/*>;trivial
+TraceMonkey: ARM BKPT instructions are not properly encoded.;trivial
+Win16 support should be deleted from NSS;trivial
+Inconsistent comment for hiding pages in nsNavHistory;trivial
+Typographical errors, compiler warnings in new thread synchronization code;trivial
+fix intl warnings;trivial
+better constness in intl;trivial
+Hiding toolbar after update check leaves a grey gap;trivial
+GetPDA method in src/shell/js.cpp returns n copies of the first entry;trivial
+Convert toolkit/components/passwordmgr/test/browser/browser_passwordmgrdlg.js to *nix line endings;trivial
+Fix lib/freebl/win_rand.c warnings;trivial
+fixing xpcshell error message;trivial
+Make test only if --enable-tests option;trivial
+test_bug364461.xul sporadic failures | Did not receive all expected events;trivial
+move testserver into mozilla/tools as an optional tool and then remove it from there;trivial
+Spellchecker doesn't handle well word preceded by an apostrophe (french);trivial
+[SeaMonkey] Remove SUITE_USING_XPFE_DM remnants;trivial
+"line 129: of the test -- in the xul, property ""orient"" is misspelled ""oreint""";trivial
+Whitespace cleanup customizeToolbar.{js|xul} files;trivial
+"wrong icon for ""close"" button in ""about {addon}"" dialog";trivial
+Notification bar close button is too big, description isn't vertically centered;trivial
+Application dropdown in download dialog is stretched;trivial
+some inner button margins ignore the chrome direction;trivial
+remove obsolete ifSetAttribute method;trivial
+Fixing warning in universalchardet array subscript has type 'char';trivial
+remove reference to obsolete userAction attribute;trivial
+searchParam getter depends on bug 232598;trivial
+"""because the server has disabled login"" is horribly bad error message";trivial
+Remove CSSNameSpaceID();trivial
+"nsCSSFrameConstructor: Remove unused ""IsRootElementFrame""";trivial
+TraceMonkey: The ARM-specific Assembler::BL method is never called.;trivial
+Define |enum JSTraceType| and stop overloading JSVAL_* for trace-time types;trivial
+Update top-level README.txt in CVS;trivial
+"<nsAutoLock.cpp>: 2 ""warning: unused variable status""";trivial
+TM: warnings in jsxdrapi.cpp;trivial
+"Remove extra ""the"" from core readme";trivial
+ipcService::~ipcService() ASSERTION: no xpcom-shutdown event??: 'mTransport == nsnull' is incorrect;trivial
+please rename mozipcd to mozilla-ipcd so it doesn't break shell autocompletion;trivial
+please fix some of the misspellings in JSS;trivial
+[HTML5] Address code style comments from timeless;trivial
+don't implement static functions in headers;trivial
+fix warnings in qcms;trivial
+Remove Win16 reference from config.mk;trivial
+Remove WIN16 (support) code, in js/src;trivial
+Remove jpeg/jpegOS2.def;trivial
+Remove unused XBL binding searchTerm;trivial
+coreconf.dep doesn't need to contain the NSS version number;trivial
+"Remove useless |#include ""nsILocale[Service|].h""|";trivial
+JavaScript Tests - update slow-n-*.tests;trivial
+RISC OS nspr support refinement;trivial
+Remove unused *_TIMER macros in CNavDTD and nsViewSourceHTML;trivial
+Remove dead code from shareglue.js;trivial
+Remove MSVC6 support from the tree, in netwerk;trivial
+JavaScript Tests - include new 1.9.3 branch exclusion file.;trivial
+fold nkcache REQUIRES into necko;trivial
+Update NSS version to 3.12.4.5 Beta;trivial
+autoconf.mk.in: Remove useless MOZ_TOOLKIT_REGISTRY_CFLAGS;trivial
+"Remove ""Fake Account"" support from MailNews Core";trivial
+Control reaches end of non-void function nsBlockFrame::FindTrailingClear();trivial
+Replace NS_ASSERTION(0, ...) by NS_ERROR(...) in mozilla-central;trivial
+Remove unused make variable DSO_LDFLAGS;trivial
+Replace NS_ASSERTION(0, ...) by NS_ERROR(...) in comm-central;trivial
+nsCSSScanner: Simplify IsDigit;trivial
+Install button's tooltip worded incorrectly;trivial
+Assignment to undeclared variable dragAfter warning.;trivial
+compilation warning with MinGW32 in pratom.h;trivial
+mozIStorageFunction should be a [function];trivial
+/mozilla/layout/mathml/tests/ : xml pages are not W3C-valid;trivial
+"Inconsistent representation of ""All"" for new autosync_max_age_days preference";trivial
+Reference to non-existing twisty-clsd.gif and twisty-open.gif in pinstripe's tree.css;trivial
+Updating cairo reverted bug 445087;trivial
+SECKEY_EncodeDERSubjectPublicKeyInfo and PK11_DEREncodePublicKey are duplicate;trivial
+test_bug343416.xul TEST-UNEXPECTED-FAIL on my Windows 2000;trivial
+Move messengerdnd.js to suite/;trivial
+Assorted findbar nits;trivial
+Crash report links in about:crashes should have display:block;trivial
+use smart getters in View Source window;trivial
+"Text in column picker ""restore natural order"" is unclear to user";trivial
+xpcshell-test: test_storage_mozStorage_4.js fails with 'strict' & 'werror' on;trivial
+Remove ancient and unused inline-edit-base and buttonleft-ile bindings;trivial
+stop dispatching the UpdatedScrollButtonsDisabledState event;trivial
+Remove ARM-specific code from jstracer.cpp.;trivial
+Remove unused helper function IsMenuPopup from nsContainerFrame.cpp;trivial
+"Add ""deprecated"" comments to key.h and pk11func.h";trivial
+Remove static declaration from functions in TestHarness header file;trivial
+Typo in libfishsound/README_MOZILLA;trivial
+In nsCSSDeclaration, check unit against eCSSUnit_None, instead of checking value against nsCSSValue(eCSSUnit_None);trivial
+Fix typos in npapi.h;trivial
+nsIApplicationCacheService::getGroups count outparam should be optional;trivial
+nsIPluginHost::getPluginTags aPluginCount out param should be optional;trivial
+^L characters in comm-central source cause parsing errors with DXR;trivial
+Port |Bug 520339 - Remove leftovers from MOZ_COMPONENTLIB| to comm-central;trivial
+nsIScriptableUnicodeConverter::convertToByteArray aLen out param should be optional;trivial
+Unsafe LIKE warning wrongly references mozIStorageConnection::escapeStringForLIKE;trivial
+Convert toolkit application/x-javascript to application/javascript (take 2);trivial
+Remove the ContinueParsing() method;trivial
+pangox.h includes should be removed;trivial
+Remove workaround for bug 426930 as the stock icon has been fixed;trivial
+"Faststripe uses obsolete ""empty"" attribute";trivial
+"""grippy"" mouseover effects inconsistent in Suiterunner";trivial
+Square characters in menus and tab titles;trivial
+"''usemap'' attribute for IMG tags work without a needed ""#"" before inline maps.";trivial
+Switch application/x-javascript to application/javascript, MailNews Core part;trivial
+Unnecessary resize grippy appears after exiting full screen mode;trivial
+Remove the no longer needed zliballoc chunk optimizations.;trivial
+Incorrect comment in GetTextRunBoundingMetrics?;trivial
+use depth first search in nsXULTemplateBuilder::DetermineMemberVariable;trivial
+Stream loader should use exposed allocator to provide adoptable memory;trivial
+attach.js is unused and can be removed;trivial
+Clean up the makefiles in lib/ckfw/builtins;trivial
+Move common makefile code in if and else to the outside;trivial
+Port |Bug 517417 - access violation: while compiling xulrunner tries to test for Mercurial repositories above its build dir| to comm-central;trivial
+Add Nelson's newsgroup posting on arenas as comments to secport.c;trivial
+FF3 cuts off the end of the last letter of a link;trivial
+/content/ unit tests fail on JavaScript 'strict' mode;trivial
+some necko unit tests fail or hang with 'strict' & 'werror' on;trivial
+remove unused gToolboxIconSize;trivial
+Remove last Makefile.win file from comm-central;trivial
+Port |Bug 515792 - build system runs identical 'hg identify' command too many times| to comm-central;trivial
+set javascript.options.jit.chrome true in browser tests;trivial
+Port bug 528263 and bug 529441 to comm-central;trivial
+lib/dev does not need to include headers from lib/ckfw;trivial
+Rename functions or variables to avoid duplicate symbols in fully static builds;trivial
+With xcompmgr running (X composite extension manager), autoscroll results in rendering errors on pages that do NOT contain iframes.;trivial
+smil reftest comment has the wrong bug number;trivial
+Simplify nsBlockFrame::PullFrame/PullFrameFrom;trivial
+xpcshell-tests: test_autocomplete.js fails when 'strict' & 'werror' is on;trivial
+Port |Bug 537369 - Failed to build with --enable-dtrace for 64bit library| to comm-central;trivial
+Line layout should not assert about long lines that may occur naturally;trivial
+The SVG <script> element should respect the aFromParser flag on NS_NewElement();trivial
+Port |Bug 448602 - Have a way to enumerate event listeners| to comm-central (apps);trivial
+Inline mailSessionContractID string/value;trivial
+Remove ANSI fallback code in nsMessengerWinIntegration.cpp;trivial
+"Fix typos in ""basic"" SDK sample plugin";trivial
+nssinit.c doesn't need to include ssl.h and sslproto.h.;trivial
+Port |Bug 539378 - Remove MOZ_BITS macro from tree| to comm-central;trivial
+more details link on update screen opens in a new window not a tab;trivial
+Port |Bug 501586 - Remove the last vestiges of MOZ_MILESTONE_RELEASE| to comm-central;trivial
+Remove unused header file plresolv.h from CVS;trivial
+Port |Bug 435923 - Remove BUILD_OFFICIAL in favor of MOZILLA_OFFICIAL| to comm-central;trivial
+Port |Bug 473180 - remove TARGET_DEVICE = emulator| to comm-central;trivial
+Port |Bug 499632 - Remove run_viewer target| to comm-central;trivial
+Port |Bug 477170 - Removing Windows 95 in configure.in| to comm-central;trivial
+Port |Bug 508720 - Remove less than 4 for GCC Version in Mac| to comm-central;trivial
+Port |Bug 472801 - Enabling updater no longer requires iconv| to comm-central;trivial
+Port |Bug 463982 - Drop configure support for cairo-mac widget toolkit| to comm-central;trivial
+Port |Bug 462004 - JavaScript shell should provide line editing facilities| to comm-central;trivial
+"Update license blocks to use ""Mozilla Foundation"" instead of ""Mozilla Corporation"", comm-central part";trivial
+Port |Bug 540038 - add warning if configure or config.status are out of date| to comm-central;trivial
+Remove unused toolbarmode and buttonstyle attributes;trivial
+Assignment to undeclared variable eventItem;trivial
+Port |Bug 472165 - WinMobile Build Requires Tools In PATH Variable| to comm-central;trivial
+Assertion misplaced after code additions above a disconnected #ifdefed else branch;trivial
+Some /mailnews/local/src/nsLocalMailFolder.cpp cleanup;trivial
+Remove remaining Classic Mac OS code;trivial
+Port changeset 22f5d7ee604f and changeset 8510b43aa883 to comm-central;trivial
+Port |Bug 477679 - default to -Ox for windows ce optimization flag| to comm-central;trivial
+Restore NS_PRINTING and use it in packaging;trivial
+Port |Bug 504822 - Remove XBM support from Mozilla| to comm-central;trivial
+Port |Bug 478443 -- Alter makefiles slightly to make pymake happy| to comm-central;trivial
+Port bug 488608 and bug 490325 to comm-central;trivial
+Port |Bug 498330 -- make distclean doesn't work with --disable-compile-environment| to comm-central;trivial
+Misalignment in --help command line;trivial
+Port |Bug 520030 - crash on sites with @font-face used| to comm-central;trivial
+Explicitly unsupport building without SVG in comm-central;trivial
+Misalignment in --help command line;trivial
+Port |Bug 536440 - HOST_AR should not be overridden in configure| to comm-central;trivial
+javascript strict warnings in AccountWizard.js;trivial
+Get jsreftests on mozilla-1.9.2;trivial
+type mismatch between prototype and implementation of _PR_MD_CLOSE_DIR;trivial
+Port |Bug 216462 - (smil) Implement SVG (SMIL) Animation| to comm-central, configure part;trivial
+Port |Bug 517355 - Restore OJI, Liveconnect and the JEP on the 1.9.2 branch on OS X| to comm-central (apps);trivial
+Remove item-grayscale.png;trivial
+Wrong comment in the npruntime sample plugin source code;trivial
+Move dropmark-nav.png from global/ to help/;trivial
+document gloda's test framework helper messageGenerator.js and share it with the world;trivial
+Remove remnant MOZ_PERF_METRICS;trivial
+Port |Bug 482156 - Get rid of (unnecessary) LIBGNOME dependency| and related follow-ups to comm-central;trivial
+Tabs in extensions/universalchardet/tests/CharsetDetectionTests.js;trivial
+Title of common dialogs no longer bold on Mac;trivial
+Multi-line assertion that makes jsfunfuzz sad;trivial
+"fixing ""keepAtoms can be used uninitialized"" warning for  js_GC()";trivial
+Port |Bug 514131 - Kill xpcom/obsolete| to comm-central;trivial
+Port |Bug 422771 - reduce narrow windows API calls in browser| to comm-central;trivial
+Port |Bug 483856 - Use $(CURDIR) to make pymake happy| to comm-central;trivial
+fix xpconnect signed warnings;trivial
+Port |Bug 454256 - --enable-static firefox builds should error in configure| to comm-central;trivial
+Resync' config/static-checking-config.mk (etc) from m-c;trivial
+warning C4702: unreachable code (3x) in dlmalloc.c;trivial
+useless null check of hashBuf in ssl3_ComputeECDHKeyHash;trivial
+useless null check of dbkey.data in DeleteDBCertEntry;trivial
+useless null check of global_salt in nsslowkey_GetPWCheckEntry;trivial
+useless null check of params in nsc_parameter_gen;trivial
+Port |Bug 508861 - [electrolysis] Build/ship the C++ runtime with MSVC/jemalloc| to comm-central. (SeaMonkey packaging fix only);trivial
+Port |Bug 509319 - Enable FIPS throws uncaught exception in toggleFIPS| to comm-central;trivial
+Remove MOZ_VALGRIND from comm-central;trivial
+Port |Bug 495224 - Builds involving symlinks in the source dir fail to find config/config.mk| to comm-central;trivial
+Port |Bug 422986 -- make -j2 -f client.mk profiledbuild fails| to comm-central;trivial
+DocumentViewerImpl::PageHide shouldn't use NS_ERROR for a valid case;trivial
+toolbarbutton-icon shouldn't have a margin if the toolbarbutton doesn't have a label;trivial
+Port |Bug 550468 - Fix support for Pango font engine on Qt platform| to comm-central;trivial
+Port |Bug 467862 - Build system should support building both a static and a shared library from the same Makefile| to comm-central;trivial
+"Remove obsolete ""MOZ_WIDGET_TOOLKIT =/!= mac"" checks, in comm-central";trivial
+"Fix NSS build warnings: ""format not a string literal and no format arguments""";trivial
+Port |Bug 460913 - Installer shouldn't copy xulrunner files into Firefox install directory| to comm-central;trivial
+"""print.use_native_print_dialog"" preferences is pointless";trivial
+[Tracking] Resync' configure.in between c-1.9.1 and m-1.9.1;trivial
+Port |Bug 518124 - Package content_canvas.xpt| to comm-central (apps);trivial
+[FIX]FF/TB do not respect .gtkrc for password characters;trivial
+Port |Bug 480967 - Don't leak MSYS paths into makefiles| to comm-central;trivial
+"""No chrome package registered for chrome://..."" in Error Console";trivial
+"Wrong error message, mistyped ""version"" reported in place of french accent used";trivial
+Whitespace resync' c-c .../locales/Makefile.in with bug 496196;trivial
+Port |Bug 363485 - Build break in JavaXPCOM when building with MSYS| to comm-central;trivial
+Port |Bug 494826 - Compile SQLite with SQLITE_DEBUG defined| to comm-central;trivial
+Alt+Tab sometimes causes the menubar to unhide briefly;trivial
+OBJ_SCOPE(obj) is unused in TraceRecorder::setProp;trivial
+Software update reports transfer speed in bytes per second;trivial
+Don't need to decode policy OID in CERTPolicyInfo;trivial
+nsNPAPIPluginInstance mRunning is initialized out of order;trivial
+Moving FILE_ILLEGAL_CHARACTERS from nsCRT.h to nsCRTGlue.h for frozen linkages;trivial
+Port |Bug 469443 - Form Manager Storage should be a JavaScript-based component| to comm-central (apps);trivial
+Change status of nsIRecyclingAllocator;trivial
+Remove perl script layout/mathml/mathml-css.pl;trivial
+Fix warning: ‘virtual nsresult nsBox::GetMargin(nsMargin&)’ was hidden [...] by ‘void nsTableOuterFrame::GetMargin;trivial
+Build warnings about unused variables in WebGLContextValidate.cpp;trivial
+"build warning: ""nsLayoutDebugCLH.cpp:65: warning: unused variable ‘found’""";trivial
+firefox 3.6.3 displays comments in AOL webmail headings;trivial
+Port MOZ_IPC support to comm-central;trivial
+Comm-central contains a MoreFilesX dependency, but is obsolete on Gecko1.9.2 and later;trivial
+Resync' client.py on c-1.9.1 after bug 508955 and bug 538528;trivial
+Copy bug 511967 .../locales/Makefile.in changes to comm-central;trivial
+Use do_QueryObject;trivial
+Port |Bug 515748 - differentiate between wince and winmo| to comm-central;trivial
+Port |Bug 538269 - Set HOST_AR_FLAGS when HOST_AR is set| to comm-central;trivial
+warning: unused variable item in TypeInState::RemovePropFromSetList;trivial
+"Typo: ""provded"" instead of ""provided""";trivial
+"""aMethods is not defined"" in XPIProvider.callBootstrapMethod()";trivial
+Remove the lib/pki1 directory from CVS;trivial
+Spell offset with an s especially nsHTMLEditor::AddPositioningOffet;trivial
+fix deprecated conversion and comparison between signed and unsigned in testplugin/nptest.cpp;trivial
+Remove unneeded QIs from implementations of nsIDOMCSSRule::GetParentStyleSheet;trivial
+Change nsCOMPtr<nsMediaList> to nsRefPtr<nsMediaList>;trivial
+Port |Bug 530667 - (SQLite3.6.22) Upgrade to SQLite 3.6.22| to comm-central;trivial
+nsMsgRDFDataSource::Cleanup should not call nsIObserverService::removeObserver;trivial
+Bug 454108 (Hunspell upgrade) created an unused variable (corr) in extensions/spellcheck/hunspell/src/hunspell.cpp;trivial
+Silence hunspell warnings;trivial
+Hierarchy is not spelled correctly in some files (eg. heirarchy);trivial
+Spellcheck incorrectly flags properly spelled words and not misspelled ones;trivial
+"Spell checker declares the word ""analyses"" misspelled.";trivial
+Some important words missing from spell checker (transgender, intersex);trivial
+"Type in the term ""Darfur"" anywhere on Firefox and it comes up with red dots as if it is spelled wrong.  It is not.";trivial
+"Thunderbird spell checker wrongly thinks mementoes should be spelled ""momentoes"".";trivial
+Spell check language selection uses check marks instead of radio buttons;trivial
+sec_pkcs12_decoder_safe_bag_update is forward declared after its implementation;trivial
+warning: comparison between signed and unsigned integer expressions in mozTXTToHTMLConv;trivial
+warning: comparison between signed and unsigned integer expressions in nsDirIndexParser::ParseFormat;trivial
+Don't unnecessarily inherit from nsISupports (vtable bloat);trivial
+trim unnecessary bytes from standard request headers.;trivial
+about:cache ships XHTML tag soup;trivial
+Bug 538388 introduced tabs in find-leakers.pl;trivial
+default video dimensions do not follow standard;trivial
+Move nsIFormSubmission.h to nsFormSubmission.h;trivial
+Shouldn't treat NS_HexToRGB, NS_ColorNameToRGB as nsresult;trivial
+Remove unused declaration of nsGenericHTMLElement::Shutdown;trivial
+Use the HTMLElement interface for more elements;trivial
+Sort nsEditPropertyAtomList.h;trivial
+Extension folder is recreated after its removal from Extensions\{ec8030f7-c20a-464f-9b0e-13a3a9e97384} directory;trivial
+Make nsGenericHTMLElement::ParseDivAlignValue static;trivial
+Part 2: Correct misspellings in source code;trivial
+ReservedSlotIndexOK and js_GetReservedSlot-limit are unused in nondebug builds;trivial
+warning: functions defined but not used in xpcmodule.cpp;trivial
+useless casts in VideoData::Create;trivial
+JavaScript Tests - retire jsDriver.pl and friends;trivial
+Outdated comments in XPCOMUtils.jsm after Bug 568691;trivial
+nsAttrValue::ParseColor doesn't need a document parameter anymore;trivial
+Remove unused deviceType from nsIHttpProtocolHandler;trivial
+[HTML5] Split HILO_ACCEL into a separate class;trivial
+Address book comment cleanup;trivial
+_pr_cpu_affinity_mask defined as PRInt32 and PRUInt32;trivial
+Expose DumpObject as a shell function;trivial
+Use Services.* throughout LightweightThemeManager.jsm, plus some other cleanup;trivial
+[Pinstripe] Make findbar-textbox slightly transparent in lwthemes;trivial
+Unused nsCOMPtr<nsIInputStream> input in nsInputStreamWrapper::LazyInit();trivial
+Reorder the HTML5 tokenizer's states to make it easier to optionally partition the tokenizer loop into two methods;trivial
+warning: unused variable ‘tmp_domain’ in PR_Socket;trivial
+Dialog for importing your certificates in Certificate Manager has wrong title;trivial
+Fix a number of build warnings in accessible/;trivial
+Reference to non-existing background-image in pinstripes listbox.css;trivial
+Replace MOZ_DISABLE_VISTA_SDK_REQUIREMENTS in comm-central;trivial
+[win7] UI issue when Aero Border Padding set to 0 instead of 4 (default);trivial
+Remove remnant MOZ_PROFILE_MODULES;trivial
+Tooltips always-on-top when apple-tab'ing away;trivial
+"""Phrase not found"" find bar status message is misaligned";trivial
+"Remove question mark from ""Undo?"" link";trivial
+Weird box outlining webpage;trivial
+remove JAR_cert_attribute declaration;trivial
+"""Check for updates"" needs to be ""Check for Updates"" for manual updates in the details pane";trivial
+Remove nsIDOMHTMLVoidCallback.idl;trivial
+Software Installation dialog reports wrong number of items to be installed;trivial
+Ctrl Mousewheel up (away from me) should make font bigger;trivial
+"""Save to Disk"" option needs to be more clear";trivial
+Use GTK icons for error/warning/info;trivial
+status bar disappears after changing theme from Windows 7 Aero to Windows 7 Basic when using Firefox Menu;trivial
+[vista] corners of tooltips not transparent (opacity wrong);trivial
+End-of-life Python 2.4 for build support, in c-c;trivial
+Add read() as a synonym for snarf() in the js shell;trivial
+Port |Bug 511761 - Only use compatibility.ini (not .autoreg, or stat()s) to invalidate fastloads and other caches| to comm-central (apps);trivial
+"Fix ""a the"" in comments (for NSS code)";trivial
+"Fix ""a the"" in comments (in MailNews Core:Backend)";trivial
+Remove Win16 reference from nsImapProtocol.cpp;trivial
+"strange entity-names in newsblog.properties (""subsribe"" instead of ""subscribe"") (Thunderbird part)";trivial
+Fix typo: |explaination| -> |explanation|;trivial
+Minefield shows bogus tooltip on Context Menu top item;trivial
+Fix JM build warnings on ARM;trivial
+Port |Bug 532645 - Upgrade libpng to version 1.4.0| to comm-central;trivial
+Port |Bug 480735 - Startup timeline| to comm-central;trivial
+Bye bye anonymous namespaces;trivial
+Menu separator should be hidden when there is only one item in the context menu;trivial
+Yellow triangle appearing in the Windows tray instead of new mail icon;trivial
+some minor test cleanup;trivial
+Clean up configure.in;trivial
+"""path data parse error"" should not be an assertion";trivial
+[HTML5] Named character names should use Java String and a dedicated type in C++;trivial
+MSVC jsscope.h(211) : warning C4307: '+' : integral constant overflow;trivial
+Update crashreporter.ini to include more correct punctuation;trivial
+Caption buttons should only be pressed when they're also hovered;trivial
+Rename JSString::MUTABLE to JSString::EXTENSIBLE;trivial
+Remove CAIRO_HAS_DDRAW_SURFACE/CAIRO_DDRAW_USE_GL dead code;trivial
+Port PYTHON_VERSION check to c-c configure.in;trivial
+Add-on icon moves when showing release notes in add-on manager;trivial
+Extensions/themes About window background color should follow operating system appearance;trivial
+ntgc.c: typo in assignment;trivial
+unused variable textStyle in nsTableCellFrame::VerticallyAlignChild;trivial
+Fix addon list border on Linux;trivial
+While hovering over menu, popup shows briefly as 2px*2px on first load;trivial
+ZWNJ and ZWJ affect letterspacing;trivial
+Patch that makes color parsing faster;trivial
+SimpleTest.showReport(): add a separator from the test content;trivial
+Remove MOZ_BITS, in LDAP C-SDK;trivial
+warning: ‘nsresult nsCaseConversionImp2Constructor(nsISupports*, const nsIID&, void**)’ defined but not used;trivial
+ZWJ may affect the font of the following character;trivial
+CRs in nsMsgXFViewThread.cpp nsIMailboxUrl.idl certFetchingStatus.js mimecms.cpp;trivial
+Remove stray disablechrome attribute;trivial
+nsIPresShell.h causes very many warnings on Windows whose system locale is non-Western;trivial
+large screenshots cause the description to be squashed;trivial
+mozJSComponentLoader.cpp:351: warning: ‘nsresult ReadScriptFromStream(JSContext*, nsIObjectInputStream*, JSScript**)’ defined but not used (and same with WriteScriptToStream);trivial
+warning fix : ns/nsprpub/pr/tests/parent.c;trivial
+Unimplemented CERT_DecodeCertificate should be removed from cert.h;trivial
+Remove unused member - nsHttpConnection:mLock;trivial
+CRs in nsIHttpAuthenticator.idl nsHttpAuthCache.cpp;trivial
+Use strchr() instead of strstr() in NSS code;trivial
+Download manager shows decimal digit for bytes when file below 100 bytes;trivial
+White-on-yellow close button is hard to see (missing-plugin infobar);trivial
+CRs in NSSErrorsService.h NSSErrorsService.cpp;trivial
+Remove duplicated aero variants of passwordmgr icons.;trivial
+"Add-ons ""Loading ..."" notification has very noticeable blurred / badly anti-aliased corners.";trivial
+Attachment header <fieldset> in the wrong spot for inline text attachments;trivial
+Fix a typo in xpcom/tests/TestStrings.cpp:test_strip_chars;trivial
+"Fix ""a the"" in comments";trivial
+Allow ToInteger to take an nsresult* parameter;trivial
+"""Document"" that test_txtctrl.xul uses a deprecated 'timed' textbox (too)";trivial
+loopfilter.h uses C++ // comments in C;trivial
+Remove ToInteger workarounds;trivial
+Remove unused properties from XPCOMUtils;trivial
+Correct misspellings in NSS source code;trivial
+Malformed install.rdf causes wrong filename (like install-qx4..rdf) to be displayed in the error message;trivial
+URL's hardcoded in extensions.js;trivial
+A11y should use nsImageMapUtils;trivial
+Remove obsolete comment from security/nss/lib/freebl/sha512.c;trivial
+missing-glyph is not at atom;trivial
+Remove spaces at end of lines in prtypes.h;trivial
+"Replace ""ASSERTION FAILED"" message with ""Assertion failure"" in assembler";trivial
+Make AppendElementStart, AppendElementEnd take Element;trivial
+"about:support's extensions are not sorted, unlike in the Add-Ons ""page""";trivial
+nsRawReader::DecodeVideoFrame should use nsAutoArrayPtr;trivial
+Remove instances of MOZ_META_COMPONENT and META_COMPONENT from comm-central;trivial
+Most -moz- computed styles not available in DOM Inspector;trivial
+Stop trying to package the tests in proxies/, since proxies/ doesn't exist;trivial
+JavaScript alert messages do not display an OK button if the alert message is too long.;trivial
+Remove outdated instances of META_COMPONENT from mozilla-central;trivial
+Last updated date misplaced in search results;trivial
+Remove nsIDOMDOMConfiguration, Document.domConfig;trivial
+Remove superfluous $(OS_ARCH) filter-outs from js/src/Makefile.in (bug 647389 follow-up);trivial
+"build warning: ""WebGLContextGL.cpp:2968: warning: unused variable ‘argPixelsLen’""";trivial
+Throw NOT_SUPPORTED_ERR instead of SYNTAX_ERR when calling cx.create{Linear|Radial}Gradient with non-finite values;trivial
+Throw INDEX_SIZE_ERR instead of SYNTAX_ERR when calling CanvasGradient.addColorStop with non-finite values;trivial
+Missing a private statement in nsAudioStreamRemote class;trivial
+Weird ReentrantMonitor name in AudioChild class;trivial
+Remove MOZ_DECL_CTOR_COUNTER;trivial
+Remove layout/html;trivial
+Fixing warnings in toolkit components (places and commandline);trivial
+Port |Bug 585020 - Remove build time option to disable svg| to comm-central;trivial
+Move remainders of webshell into /docshell/base;trivial
+Disabled menu items need more three-dimensional appearance;trivial
+getContext() calls SetCanvasElement twice;trivial
+gfxContext::UserToDevice has incorrect comment;trivial
+javascript tests - remove all Sisyphus and Antediluvian cruft;trivial
+Move nsMediaDocument and subclasses into the mozilla::dom namespace;trivial
+minor typo, missing 'this.';trivial
+Selecting text at a ligature boundary causes the ligatures to be broken;trivial
+Remove MOZ_SVG conditions in the tree;trivial
+Useless use of PromiseFlatString;trivial
+Remove NULL-check before delete;trivial
+NewURI does larger allocations than needed;trivial
+"Issue with ""Get Add-ons"" selected result's background-repeat value";trivial
+"""###!!! WARNING: NS_ENSURE_TRUE(compMgr) failed, file r:/mozilla/dbg-i686-pc-cygwin/xpcom/build/nsComponentManagerUtils.cpp, line 90""";trivial
+"crash [@ pk11_DoKeys] ""arg"" Pointer dereferenced before NULL check";trivial
+Useless use of PromiseFlatCString;trivial
+Profile name are blank in the listbox of Profile manager when scroll the listbox by mouse wheel.;trivial
+Typo in nsWebShellWindow::ConstrainToOpenerScreen;trivial
+"""Warning: assignment to undeclared variable arrayIndex"" when toggling a pref in about:config";trivial
+Useless uses of PromiseFlatCString;trivial
+Useless uses of PromiseFlatCString;trivial
+Remove deprecated attributes and empty <mrow/>'s in mozilla/src/layout/mathml/tests/;trivial
+Clean up duplicated function in imgLoader.cpp;trivial
+Make about:licence work again, or remove the vestiges of it (about:license is not affected);trivial
+Win32 buttons do not enter hover state when both focused and hovered (or: hover state should take precedence over focused);trivial
+Useless use of PromiseFlatString;trivial
+GCC compiler warnings in NSS 3.12.4;trivial
+Workaround for Bug 133527 no longer needed in components/alerts/resources/content/alert.js;trivial
+###!!! ASSERTION: Shutdown called when mLibrary is null?: 'mLibrary';trivial
+###!!! ASSERTION: mSensor should be null.  Startup called twice?: '!mSensor';trivial
+Fix error message typos (CERT_PKIXVerifyChain) in cmd/vfychain/vfychain.c;trivial
+Make it more obvious which bits in JSObject::flags are up for grabs;trivial
+warning: unused variable 'oldValue' in nsMathMLmpaddedFrame::UpdateValue;trivial
+"test_URIs.js doesn't test protocol-relative URIs (""//site/foo/bar"")";trivial
+chrome links should never be red;trivial
+Remove unused Accept_Charset atom;trivial
+Increase limit for thread number in ssltunnel;trivial
+Some unconditionally reserved words are reserved only in strict code;trivial
+Apply |s/entires/entries/g|;trivial
+pldhash: for the table at address 0x0x8aee608, the given entrySize of 28 probably favors chaining over double hashing.;trivial
+[console] gtk widgets must not print to console in opt builds;trivial
+Don't show entry divisor for last entry in location bar autocomplete;trivial
+Find bar focus ring color doesn't respect OS setting;trivial
+Useless assertion [@ nsContentUtils::MaybeFireNodeRemoved] when calling insertAdjacentHTML;trivial
+Change comment about deferred release...;trivial
+Update Ruben Arakelyan's email address in the PSL;trivial
+stream is unused in nsBuiltinDecoderStateMachine::LoadMetadata();trivial
+Please remove dead code interface:  nsIBaseStream;trivial
+replace nsString() nsAutoString() and friends with EmptyC?String();trivial
+Remove nsAHtml5FragmentParser;trivial
+Useless use of PromiseFlatCString;trivial
+Move aboutcrashes_utils.js to head.js;trivial
+nsMacCharset.cpp looks obsolete;trivial
+Should disabled menu-items get highlighted?;trivial
+Remove some DirectDraw left overs;trivial
+Remove a duplicate #ifdef/if pair in vm/Stack.cpp.;trivial
+Useless use of PromiseFlatCString;trivial
+Don't use already_AddRefed::get in nsAccessible::GetURI;trivial
+HasPotentialResource should use HasAttr, not GetAttr;trivial
+Make TraceVis compile and run again.;trivial
+Useless uses of PromiseFlatString;trivial
+"""Firefox is already running, but is not responding"" window has no icon";trivial
+Assignment to a DebugOnly variable is automatically elided in non-debug builds.;trivial
+Convert #ifdef DEBUG variables in jsgc to DebugOnly;trivial
+Document the effect of non-null mLSHE on subframe entries in session history;trivial
+Remove nsIDocument::mShellIsHidden;trivial
+Cleanup nsIFrame::GetParentStyleContextFrame and related code;trivial
+Useless uses of PromiseFlatCString;trivial
+Use native button appearance for colorpicker buttons;trivial
+Remove nsSVGUtils:: from nsSVGUtils methods;trivial
+miscellaneous warnings about main;trivial
+Remove directory www.mozilla.org/projects/mathml/screenshots/;trivial
+Remove aCanBePercent parameter from nsAttrValue::ParseSpecialIntValue;trivial
+Update add-ons manager main controls for Firefox nav bar styling changes;trivial
+"don't hardcode ""KB""/""MB"" in MailNews";trivial
+Squelch unused name warnings in Nitro in release builds;trivial
+Remove FaviconLoadListener References;trivial
+Miscellaneous cleanups of JPAKE code;trivial
+Unnecessary nsresult rv declaration in nsFileChannel::OpenContentStream;trivial
+Fix a typo in xpcom/base/nsIErrorService.idl;trivial
+Cleanup of Bug 464088: Option to build NSS without dbm;trivial
+inserting ellipsis to VERY long string (Length>MAX_INT) works wrong by integer overflow.;trivial
+s/int/PRInt32/ in nsHtml5TokenizerCppSupplement.h;trivial
+nsImportAddressBooks.cpp: 1 s/ImportMailThread/ImportAddressThread/;trivial
+Add easier to use reset method to CallReceiver;trivial
+responseType not set when using XHR to retrieve XML;trivial
+some mistakes in comment;trivial
+msgReadSMIMEOverlay.xul: 1 s/observes/command/;trivial
+Reduce border radii of header buttons and the search field to match Firefox nav bar changes;trivial
+Hg remove toolkit/empty-file;trivial
+Remove nsViewSourceHTML.cpp/h from the tree;trivial
+mimeiimg.h: update comment about supported types;trivial
+Add MOZ_DELETE to a bunch of deliberately-not-implemented methods;trivial
+JS_ASSERT_IF prints extra parens on failure;trivial
+Remove some WINCE leftovers in comm-central;trivial
+"Unnecessary ""not derived from nsISupports"" warnings for XPCOM pseudo-enums";trivial
+Remove nsIParserFilter from the tree;trivial
+Remove nsICharsetDetectionAdaptor from the tree;trivial
+Port |Bug 526451 - allow to build gconf and gnomevfs/gio support independently| to comm-central;trivial
+clean up HTTP header field name constants in nsHttpAtomList.h;trivial
+Remove REQUIRES from comm-central;trivial
+"Entity ""props.policy.label"" [ @ cookieAcceptDialog.dtd ] is unused and should be removed";trivial
+/gfx/cairo/cairo/test/Makefile.in: Remove useless lines;trivial
+browser_select_compatoverrides.js leaks selectAddons.xul;trivial
+"Mozilla Crash Reporter should not display all options but ""Close Window""";trivial
+"Fix ""unusued"" spelling";trivial
+Incompatible extension warning needs different text for app incompatibility than version incompatibility;trivial
+contentAreaUtils.js: getTargetFile leaks gDownloadLastDir into the global scope;trivial
+use PRInt32 for variable containing return value of FindChar in nsMsgDBFolder.cpp;trivial
+Instructions in account wizard not platform dependent;trivial
+hunspell/README_en_US.txt and hunspell/README_mozilla.txt have DOS newline characters;trivial
+mIsOpen in nsAutoCompleteController.cpp is useless;trivial
+Use an enum to pass flag value to InitArrayElements;trivial
+"test_bug_511615.html: correct the spelling of ""privledged""";trivial
+Remove WindowDraggingElement's redundant 'window' argument;trivial
+"Fix a documentation error in specialpowersAPI.js: pushPrefEnv() param is ""clear"" not ""remove""";trivial
+SEC_ERROR_REVOKED_CERTIFICATE message has typo;trivial
+Fix a few tests that miss a space before reporting expected value;trivial
+Remove dead code in lib/certdb/crl.c;trivial
+Chrome file doesn't exist: .../chrome/toolkit/content/global/autocomplete.css;trivial
+Don't warn when startup crash tracking returns NS_ERROR_NOT_AVAILABLE;trivial
+"Fix bad usage of ""it's"" (and other misc typos) in comments";trivial
+Checking RSS feeds with no Subscriptions results in always-on progress meter;trivial
+xpcom/tests/TestDeque.cpp:55:19: warning: ‘sTestDeque’ defined but not used [-Wunused-variable];trivial
+Fix a comment typo (filter => digest) in lib/pkcs12/p12d.c;trivial
+op_noacc.c: In function `main': 94: warning: control reaches end of non-void function;trivial
+Replace 0x0a by nsCRT::LF, 0x0d by nsCRT::CR;trivial
+Remove unused 'gIMAPService' const/var in (IMAP) tests;trivial
+missing semi-colon in DownloadUtils.jsm;trivial
+Multiple Identities dialogue should have a Close instead of an OK button;trivial
+"""Warning: Ignoring obsolete chrome registration modifier 'xpcnativewrappers=no'"" message in error console should not contain the prefix ""Warning""";trivial
+avoid exceptions in file-utils.js when dismissing file picker dialog;trivial
+Port |Bug 473411 - the rule for DIST_FILES should create dist/bin| to comm-central;trivial
+configure.in: remove useless SANITY_CHECKING_FEATURE and XCB_SURFACE_FEATURE;trivial
+Replace last 2 references to nsCRT::strlen(), in Imap code;trivial
+[OS X] keyboard shortcuts with symbols not shown in menus;trivial
+[patch] Fix clang warning in sslcon.c;trivial
+memory leak in crlutil.c;trivial
+convert mailnews/addrbook/ to Services.jsm and MailServices.js;trivial
+feed-subscriptions.js: remove/replace (commented out) call to removed GetFolderDatasource();trivial
+Move js::StringBuffer into js/src/vm/StringBuffer{-inl.h,.cpp};trivial
+Remove unused functions in <nsMsgI18N.*>;trivial
+Remove MSVC6 support from Cairo Readme;trivial
+Remove error codes for proxies;trivial
+Some shell help() messages have extra periods;trivial
+signed/unsigned warnings in pk11wrap;trivial
+convert mailnews/addrbook/test to Services.jsm and MailServices.js;trivial
+Remove some nigh-useless configuration bits from jsversion.h;trivial
+Merge 'class nsQuickSortComparator' into 'nsTArray';trivial
+Mark nsIHTMLContentSink as obsolete;trivial
+Fix/Clean-up 'security.enable_java' preference references;trivial
+"Fix ""beause"" spelling in /security/nss/lib/pk11wrap/pk11auth.c";trivial
+"Fix include paths in <script type=""application/javascript"" src=""amUtils.js""/> to 'chrome://messenger/content/amUtils.js'";trivial
+convert mailnews/news/content/ to MailServices.js;trivial
+"Fix ""beause"" spelling";trivial
+Port Bug 593768 and Bug 701628;trivial
+Further cleanups in /mozilla/editor/libeditor/html/nsHTMLDataTransfer.cpp found in bug 368758;trivial
+fix compiler warnings in mailnews/base/src/nsMsgDBView.cpp;trivial
+Update .asia listing in PSL comment;trivial
+Declaring variables on the beginning of a line confuses cvs diff -p;trivial
+const/non-const warnings in lib/certdb/stanpcertdb.c;trivial
+Typo in http://mxr.mozilla.org/comm-central/source/mailnews/addrbook/src/nsAbAutoCompleteSearch.js#147;trivial
+fix usage of resource://gre/modules/mailServices.js across comm-central. It should be resource:///modules/mailServices.js;trivial
+"""ASSERTION: 2nd pass should never guess wrong"" in TextOverflow::ExamineLineFrames";trivial
+nsHttpChannel.cpp: warning C4244: 'argument' : conversion from 'double' to 'PRTime', possible loss of data;trivial
+Suppress warning warning C4355: 'this' : used in base member initializer list in nsHttpChannel::nsHttpChannel;trivial
+Avoid signed/unsigned comparisons in tools/profiler;trivial
+nsHttpChannel wraps the aOffset value it passes to its stream listener instead of clamping it;trivial
+change Comments to roles::ROLENAME;trivial
+Remove opportunistic caching support from nsHttpChannel;trivial
+Suppress warning warning C4355: 'this' : used in base member initializer list in HttpChannelChild and FTPChannelChild;trivial
+this._indexedDB is undefined in SettingsManager.js;trivial
+Turn off the debug mode by default on SmsDatabaseService.js;trivial
+Turn off the debug mode by default for dom/wifi;trivial
+Turn off the debug mode by default for dom/system/gonk/systemlibs.js;trivial
+Document skipping Places tests because the Private Browsing service is unavailable;trivial
+convert mailnews/base/search/content/ to Services.jsm and MailServices.js;trivial
+TelemetryHistogramType returns failure for HISTOGRAM_FLAG;trivial
+nsCRT::strlen(const char *) should go away;trivial
+'border-image' shorthand should not accept odd trailing slash;trivial
+Update stale comments for PK11_DefaultArray and ssl3_DecodeError;trivial
+"Fix ""does't"" spelling";trivial
+remove console noise for external attachments that cannot be found;trivial
+Use Services.prompt instead of gPromptService in Toolkit;trivial
+remove Services.prefs.getBranch(null) occurrence in Toolkit browser.xml;trivial
+remove Services.prefs.getBranch(null) occurrences in Toolkit;trivial
+h character located at the beginning of toolkit/content/license.html before the doctype;trivial
+convert smtpEditOverlay.js and SmtpServerEdit.js to Services.jsm and MailServices.js;trivial
+Typo in nsIMsgMessageService.idl;trivial
+NSS_FindCertKEAType and ssl_FindCertKEAType are the same;trivial
+editor/libeditor/text/tests/test_bug569988.html ran additional tests after finish() was called;trivial
+Remove obsolete comment about nsCRT::mem* functions in nsCRT.h;trivial
+warning: ‘res’ may be used uninitialized in nsHTMLAbsPosition.cpp;trivial
+Current Aero implementation is using default Aero borders in main window;trivial
+"no tooltip text for ""send later"" button - ""send"" button is OK";trivial
+nsXBLBinding::GetInsertionPointsFor is now infallible;trivial
+libSSL cleanup to make code inspection and reasoning easier;trivial
+Arrow panel shadow is cut off on XP;trivial
+Use rest arguments where possible;trivial
+"Various ""…deprecated for NSScrollWheel. Please use…"" messages to console on first trackpad scroll";trivial
+[OS.File] More bugs to fix;trivial
+Crash when dumping layers in the console;trivial
+PRIORITY_CRITICAL_HIGH notification bar on Windows and Linux is ugly solid red;trivial
+White text shadow for lightweight themes with dark text looks weird;trivial
+deprecated conversion from string constant to char* in nsAuthSambaNTLM::SpawnNTLMAuthHelper;trivial
+Use binaryname=CurrentTimeMoz annotation rather than #undef GetCurrentTime to address Windows macro idiocy;trivial
+B2G MMS: support email addressing model;trivial
+Should remove unused wrap length value in nsMsgAttachmentHandler::UrlExit;trivial
+Use macros instead of text literal for transfer-encoding;trivial
+EncNoDeclaration string contains a grammatical error;trivial
+gfxHarfBuzzShaper.cpp:1197:21: warning: variable ‘prevGlyphCharIndex’ set but not used [-Wunused-but-set-variable];trivial
+nsHTMLScrollFrame::ReflowScrolledFrame() redundantly passes NS_FRAME_NO_MOVE_VIEW with NS_FRAME_NO_MOVE_FRAME (which already includes the _VIEW bit);trivial
+Code cleanup in nsMathMLChar;trivial
+GC: Use arenaListsToSweep to queue arenas for background as well as foreground sweeping;trivial
+[quirk.css]DD not in DL should have text-indent, not margin;trivial
+debug method PrintImageDecoders() in imgLoader should be removed (Doesn't work and is confusing);trivial
+Use Services.prefs instead of preferences-service, in Mailnews Core test files;trivial
+sliding alert (nsIAlertsService) should dismiss itself when clicked;trivial
+[OS.File] read and write should accept a default length;trivial
+nsHTMLEditor::RemoveStyleInside may (still) process the passed-in node even when aChildrenOnly is set;trivial
+misleading comment about .purgecaches and debug builds;trivial
+use proper accessor functions for getting list rows instead of open-coding them in mail/base/content/FilterListDialog.js;trivial
+convert mailnews/base/prefs/content/accountUtils.js to Services.jsm and MailServices.js;trivial
+Remove extraneous trailing whitespace from language.properties and langGroups.properties;trivial
+"Unspecialize Trash folder for IMAP ""Mark as Deleted"" & ""Remove Immediately"" modes";trivial
+CERT_CompareName should take const input parameters;trivial
+Replace manual isObject() check with NonNullObject in ParallelArray ops and refactor reporting errors;trivial
+move HTTP convenience functions to nsHttp;trivial
+remove remaining PRInt32/PRUint32 usages in comm-central;trivial
+Stop the cipher suite and compression method search for loop when the target is seen;trivial
+clang's -Wtautological-constant-out-of-range-compare warns on prnetdb.c;trivial
+Silence [-Wunused-private-field] warnings in mailnews/;trivial
+Silence some [-Wunused-variable] warnings in mailnews/;trivial
+Silence remaining[-Wunused-variable] / [-Wunused-private-field] warnings in mailnews/;trivial
+"the News ""Download headers"" dialog should use a numeric field for the number of headers to download.";trivial
+Fix incorrect spellings of success(ful) in test output;trivial
+Ensure nsresult is unsigned;trivial
+Remove signed nsresult hacks;trivial
+Minor mfbt/SHA1.* style cleanups, nits;trivial
+Remove remaining printfs from content/media;trivial
+Remove printf from MediaStreamGraphImpl::FinishStream;trivial
+Removed the unused variables in pk11_TokenKeyGenWithFlagsAndKeyType;trivial
+convert mailnews/base/prefs/content/am-junk.js to Services.jsm;trivial
+tweak outdated code in mail/base/content/FilterListDialog.js;trivial
+dbFrozen is an intermediate variable that should just go away;trivial
+utilmod.c does not need to include pkcs11t.h and secitem.h;trivial
+IonMonkey: Fix some ARM-specific uber-nits.;trivial
+remove unused folderTargetPopup class and binding;trivial
+convert mailnews/extensions/smime to Services.jsm;trivial
+Remove WinCE code from NSS;trivial
+Reverse the sense of the ss->getClientAuthData test in ssl3_HandleCertificateRequest;trivial
+nssutil_escapeQuotes adds 2 to the allocation size redundantly;trivial
+Fix the comments in the patch for bug 734492;trivial
+"odd ""left"" and ""right"" arrow images in the ""Previous"" / ""Next"" buttons in the table properties dialog";trivial
+"Remove ""string.h"" includes from /content/svg";trivial
+"Fix whitespace issues in nsFrameSetFrame.cpp (remove trailing whitespace, & fix mis-indented ""aPresContext"" function-params)";trivial
+The dbType parameter of nssutil_ReadSecmodDB, nssutil_AddSecmodDB, nssutil_DeleteSecmodDB, and nssutil_ReleaseSecmodDBData is unused;trivial
+Delete unused JOF_TYPE_IS_EXTENDED_JUMP;trivial
+Update more NSS declarations to have const parameters;trivial
+Remove the PR_ prefix for a few PR_[U]INT32_MAX that has been added since bug 791906;trivial
+Replace nsresult equality tests with macros;trivial
+"fix ""warning: comparison between signed and unsigned integer expressions [-Wsign-compare]"" in nsMailApp.cpp and nsSuiteApp.cpp";trivial
+fix some signed/unsigned comparison problems and compile warnings in nsMsgFilterList.cpp;trivial
+Remove nsISupportsArray usage from nsIMsgFilterService::applyFiltersToFolders and nsMsgFilterAfterTheFact::nsMsgFilterAfterTheFact;trivial
+Use nsMsgFolderFlags::SpecialUse constant instead of enumerating all the individual values at various places;trivial
+Drop support for Solaris versions older than Solaris 8 (SunOS 5.8);trivial
+"""ASSERTION: value should always be stored and non-empty when state set""";trivial
+Don't use -I/usr/dt/include -I/usr/openwin/include on Solaris;trivial
+Typo in message for both CSP headers;trivial
+Remove remaining XP_MAC code from /directory;trivial
+Remove Windows CE support, in LDAP C-SDK;trivial
+convert nsMsgMailNewsUrl::m_cachedMemCacheEntries from nsISupportsArray to nsCOMArray;trivial
+Typo in message for both CSP headers;trivial
+Wrong parameter name for fEAlert method in nsIImapServerSink interface;trivial
+Remove dead remotedesc/localdesc messages and events from sipcc;trivial
+nsHTMLTagList.h documentation has some sentences that lack periods at the end;trivial
+Minor nsPlaceholderFrame code cleanup;trivial
+nsCSSKeywordList.h violates its rules;trivial
+Declare loop-iterator variables in the 'for' statement for better scoping, in nsTextFrameThebes.cpp;trivial
+nsFrameIterator constructor should use init list to initialize its variables;trivial
+Make nsLineLayout::NewPerFrameData() allocation infallible;trivial
+Make nsLineLayout::NewPerSpanData() allocation infallible.;trivial
+Fix -Wunused-private-field warning: remove unused private member variable nsPKCS12Blob::mTmpFilePath;trivial
+Make JS_GetStringCharsZ call JS_GetStringCharsZAndLength;trivial
+Fix two benign data races around nsTArray::sEmptyHdr;trivial
+Adjust Autophone UnitTest chunking;trivial
+Change fails-if(Android) javascript date tests to random-if(Android).;trivial
+"QCMS enums ""repeated"" in gfxPlatform.cpp";trivial
+Update the HTML parser translation for post-PRBool era;trivial
+four white pixel around progress bar in download manager;trivial
+Remove fix-macosx-stack.pl (obsoleted by .py);trivial
+stray extensions.newAddons pref reference in nsBrowserGlue.js;trivial
+'unused variable' warnings in gfx/2d/Blur.cpp;trivial
+In <pluginInstallerDatasource.js>, useless |const RDF_NS|;trivial
+Convert nsMsgCompose::BuildMailListArray nsISupportsArray argument to something better;trivial
+Remove unused parameters in nsNetUtil.h methods;trivial
+do some trivial optimisations in mailnews/base/utils/folderUtils.jsm;trivial
+Remove obsolete NS_FRAME_INVALIDATE_ON_MOVE flag;trivial
+"<nsSidebar.js> |function srGetStrBundle()|: replace it by a getter, maybe simply ""inline/remove"" it";trivial
+README is invalid html;trivial
+Unused variable rv in MakeOrSetMinidumpPath() in nsAppRunner.cpp;trivial
+The comment of filter method seems wrong;trivial
+Code cleanup for Bug 172051 - Add localizable error messages for NSS error codes;trivial
+Code cleanup for Bug 172051 - remove unneeded headers in lib/nss/nssinit.c;trivial
+Shouldn't nsIDOMNavigator's reference to preference() be updated;trivial
+Minor nsBlockFrame::AddFrames() cleanup;trivial
+Make nsListBoxBodyFrame::RemoveChildFrame assertions fatal;trivial
+Make nsContainerFrame::SetPropTableFrames return void since it's infallible.;trivial
+Use or remove '#ifdef HAVE_PORT' code;trivial
+Incorrect error message for CSP in X-Content-Security-Policy header using allow directive;trivial
+Can we remove JS_MapGCRoots?;trivial
+Minor nsAbsoluteContainingBlock code cleanup;trivial
+Fix lib/pk11wrap/pk11merge.c warnings;trivial
+Remove unused nsDisplayTransform ctor;trivial
+Dispatching an event that's already being dispatched should throw InvalidStateError;trivial
+remove nsISupportsArray from mailnews/extensions/mailviews/src/nsMsgMailViewList.cpp;trivial
+fix some compiler warnings in mailnews/imap/src/nsImap*.cpp;trivial
+ASSERTION: This function was called on two disconnected nodes!;trivial
+fsmdef.c sends back the wrong error for create answer;trivial
+remove some obsolete constructs in /mailnews;trivial
+do not needlessly preprocess some mail/ files;trivial
+Code cleanup in lib/freebl/ecl/ecp_256.c;trivial
+Update documentation comment for CheckArg in nsAppRunner.cpp;trivial
+PJS: Fix inlineDump handling of MParDump;trivial
+Remove ToInteger workarounds, in mozilla-central;trivial
+[HTML5] Uncomment head attribute test in content/html/document/test/test_bug324378.html;trivial
+Skip content/canvas/crashtests/789933-1.html, gfx/tests/crashtests/385228-1.svg, image/test/crashtests/694165-1.xhtml for Android;trivial
+Remove unused function SEC_Init;trivial
+Remove the .cvsignore files;trivial
+Debug check in MacroAssembler-x64.h is ineffective;trivial
+Autophone - using logger.warning instead of synonym logger.warn;trivial
+Autophone - serve jobs in lifo order;trivial
+Autophone - ignore encoding errors when composing notification emails;trivial
+CSP dev console warnings and errors look the same.;trivial
+Fix coding style problems in nss/lib/certhigh/ocsp.c;trivial
+Clean up certificate_status message processing in libssl;trivial
+tdcache.c:704:49: warning: comparison between ‘PRStatus’ and ‘enum _SECStatus’ [-Wenum-compare];trivial
+test_xhr_implicit_cancel.html is() calls miss their msg parameter;trivial
+Remove a bunch of obsolete files from js/src/tests;trivial
+nsToolkitCompsCID.h: unduplicate NS_AUTOCOMPLETECONTROLLER_CONTRACTID;trivial
+OdinMonkey: Improve a few type errors;trivial
+Remove OOM checks for the result of NewLineBox now that PresArena allocations are infallible;trivial
+remove unused knowsSearchNntpExtension and allowsPosting attributes from nsIMsgFolder;trivial
+Garbage in security/nss/lib/freebl/mpi/README;trivial
+typo in certutil help, --soruce-prefix;trivial
+"Change ""= 0"" assignments for ptrs in nsHttpChannel to ""= nullptr""";trivial
+remove some obsolete code from comm-central;trivial
+Update the default value of 'GVN' option in jsshell's usage.;trivial
+"""thunderbird -version"" outputs an extra space";trivial
+With overlapped overlay scrollbars on 10.8, horizontal scrollbar should appear above vertical on hover;trivial
+Rename TextureSource::ReleaseTexture into TextureSource::UnbindTexture;trivial
+rawArray: unreferenced local variable in nsNSSCertificateDB.cpp;trivial
+Do not display total compilation time when asm.js is successfully compiled, in a --enable-more-deterministic shell;trivial
+Make TextureFlags constant names all caps and prepend TEXTURE_ in CompositorTypes.h;trivial
+WebSMS: remove navigator.mozSms;trivial
+Tweaking CSP violation message logging;trivial
+B2G RIL: remove deprecated interface methods/attributes from nsIRadioInterface;trivial
+eChildToUserSpace transform wrong for inner svg elements;trivial
+Convert layout/style to MOZ_STATIC_ASSERT;trivial
+Update the default value of 'Range Analysis' option in jsshell's usage.;trivial
+Typing about:Addons into the url bar loads the add-ons manager but doesn't hide the address bar (the test is case sensitive);trivial
+[HTML5] Uncomment assertion in test_bug418464.html;trivial
+CSP should restrict EventSource using the connect-src directive;trivial
+Remove the workaround for jsapi-tests on Android;trivial
+"B2G RIL: JavaScript Error: ""Error: Don't know about this message type: undefined"" {file: ""jar:file:///system/b2g/omni.ja!/components/RadioInterfaceLayer.js"" line: 1159}";trivial
+"Image title should use ""×"", not ""x"".";trivial
+CSP violation error messages for base restrictions are awful;trivial
+Move CertErrorRunnable from nsNSSIOLayer.cpp;trivial
+Drop the Get prefix on the frame methods GetFirstContinuation, GetLastContinuation, GetFirstInFlow, GetLastInFlow and also on nsLayoutUtils::GetLastContinuationWithChild, because they never return null.;trivial
+Make layout/style/nsFontFaceLoader.* follow layout code style;trivial
+Compiler warning: not enough actual parameters for macro 'ENSURE_NOT_CHILD_PROCESS_;trivial
+Rename cx->names().classPrototype to cx->names().prototype;trivial
+MediaPipeline.h(86) : warning C4355: 'this' : used in base member initializer list (also line 520);trivial
+Unused message JSMSG_NAME_AFTER_FOR_PAREN;trivial
+Rename the PRErrorCode variable |status| to |error| in tstclnt.c;trivial
+Fix the declarations of PK11_GetDefaultArray and PK11_UpdateSlotAttribute;trivial
+mark unused folder flags in nsMsgFolderFlags.idl;trivial
+"There should be a colon after ""You have chosen to open"" in download window";trivial
+Remove TRACK_BLTEST_BUG define;trivial
+Remove nsIPluginTagInfo::getDocumentEncoding();trivial
+"sort entries in the ""Trust junk mail headers set by"" menulist";trivial
+Fix -Wunused-function warnings in js/;trivial
+Get telemetry for non-default Cyrillic encodings;trivial
+js/src/jit/FixedList.h: warning: field 'length_' will be initialized after field 'list_' [-Wreorder];trivial
+Arrow of Edit Bookmarks Panel is missing after toggling the expanded folder view;trivial
+Figure out if g_type_init is needed;trivial
+The CTCP time response is calling the wrong property when localizing;trivial
+QUIT command with no message causes an error.;trivial
+IRC /topic help text is incorrect.;trivial
+Use the XMPP icons from chat/ instead of purple/;trivial
+MPL 2.0 for random purple/ files;trivial
+Remove libpurple's pretentious /wallops help message;trivial
+Remove purple specific property from prplIChatRoomFieldValues;trivial
+Refer to channel passwords not keys for IRC;trivial
+Update /mode command syntax;trivial
+Display a correct error message in the conversation when receiving a message type=error stanza;trivial
+Minor cleanup of IRC usernames;trivial
+IRC buddies take longer than other accounts' buddies to be marked as status unknown when disconnecting;trivial
+Unhandled IRC message 321;trivial
+whois replies displayed in conversations should have the noLog flag;trivial
+The topic of a Twitter timeline disappears if you close the conversation;trivial
+Stop including venkman in debug builds;trivial
+irc.js should use lazy getters for localized strings;trivial
+Ci is not defind in ircNonStandard;trivial
+Fix typo in socket.jsm documentation;trivial
+'Unhandled CAP/ISUPPORT messages' warnings are too noisy;trivial
+Warning: received presence stanza for unknown buddy <user's JID with another resource>;trivial
+Max length is incorrect for MONITOR;trivial
+Warning: Unhandled IRC message 042 and 338 when connecting to oftc.net;trivial
+Use defineLazyModuleGetter instead of defineLazyGetter;trivial
+Add explanatory comments to document normalizedNames;trivial
+Support mIRC-style italics formatting;trivial
+Redundant if condition within nsMathMLTokenFrame::GetMathMLFrameType();trivial
+"""ASSERTION: Frame passed in not in reflow?"" with very interruptible reflow";trivial
+"ssl_error_bad_cert_domain error message contains extra space: "" , "" instead of "", """;trivial
+extensions/cookie/test should use standard Services.perms;trivial
+Whitelist HTC One X for libstagefright decoding;trivial
+"""xpcom-category-entry-removed"" notification has busted semantics for subject parameter";trivial
+Remove stale comment in nsICharsetConverterManager.idl;trivial
+Typo in gcparam() error message;trivial
+reference to undefined property options.compression;trivial
+Replace all use of jsval with JS::Value and all uses of *_TO_JSVAL/JSVAL_TO_*/JSVAL_IS_* with the appropriate JS::Value methods;trivial
+Rename SVGPathDataAndOwner to SVGPathDataAndInfo for consistency;trivial
+Typo fix in media/mtransport/logging.h;trivial
+Cleanup #defines in nsNSSComponent.cpp and change them to static consts;trivial
+security/manager/ssl/src/nsNSSCallbacks.cpp: [-Wunused-variable] unused variable 'isResumedSession';trivial
+Annotate SMIL GenericValueParser class / subclasses as MOZ_STACK_CLASS;trivial
+Remove redundant check in HTMLInputElement::IsValidEmailAddress;trivial
+PeerConnection set*Description callbacks can be overwritten prematurely;trivial
+Remove the CR ('\r') characters in nss/lib/ssl/sslenum.c;trivial
+Delete unreachable code in ssl_DestroySID and ssl_LookupSID lib/ssl/sslnonce.c;trivial
+remove dead code from findbar.xml;trivial
+PresShell::SetDisplayPort is dead code, remove it;trivial
+Clean up dead code from dom/workers/RuntimeService.cpp after removal of heuristic detection from the File API;trivial
+Remove unused mMemoryPressureObserver variable in CompositorChild.h;trivial
+Remove prtypes.h inclusions from intl/;trivial
+Remove traces of x-sun-unicode-india-0;trivial
+HTTP cache v2: wrong log at CacheEntry::ReopenTruncated;trivial
+Remove 0 byte dbm/Makefile.in;trivial
+cleanup some unused includes in .idl files of comm-central;trivial
+Fix error HTTP response in test_partially_cached_content.html;trivial
+Clean up some XMPP code;trivial
+Improve logs at CacheStorageService::AddStorageEntry when CacheEntry's file is doomed;trivial
+In JS strict mode, |if (a = b && c == d)| compiles as |if (a == (b && c == d))|;trivial
+remove unused includes of the obsolete nsISupportsArray and nsIEnumerator in /mozilla;trivial
+"""warning C4005: 'FILE_ILLEGAL_CHARACTERS' : macro redefinition""";trivial
+|nsCOMPtr|: do we still care about VC++4.2?  and if not, can we remove this comment;trivial
+Invalid comment in nsIFrame.h;trivial
+nsIOutlinerBoxObject::GetPageCount() is misnamed;trivial
+Align attribute not working inside Button element;trivial
+ftp(HTML) - HTML correctness;trivial
+[BC] HTML border attribute partially overrides CSS settings  (border-collapse);trivial
+Three headers contain an old comment for crypto.h;trivial
+BuildForwardInner in pkixbuild.cpp does not use its stapledOCSPResponse parameter;trivial
+CheckKeyUsage in pkixcheck.cpp in mozilla::pkix does not use its isTrustAnchor parameter;trivial
+Fix tests that try to use the 'telephone' input type instead of the 'tel' input type;trivial
+change default style for nsIAlertsService when clickable;trivial
+Use new nsIMsgIncomingServer.protocolInfo attribute where useful;trivial
+Comments still refer to no longer existing |CanEffectlesslyCallLookupGenericOnObject| symbol.;trivial
+Remove T.61-8bit;trivial
+Clang Static Analysis: useless declaration in NSPR;trivial
+Length property of the (Weak){Map,Set} constructors should be 1;trivial
+Javascript engine throws nonexistent errors in a webpage (FIXED BY BUG 927245);trivial
+Useless assignment to 'remainingISize';trivial
+Use ssl3_AppendHandshakeNumber to send a zero-length SID;trivial
+CERTDB_* flags are signed but always used in unsigned context (signed/unsigned conversion warnings);trivial
+[patch] Fix Typoes in Comments in IonBuilder.cpp;trivial
+[Cosmetic] Move nsHttpChannel::CreateNewURI to a different place in the file;trivial
+merge hex decoding functions throughout mailnews;trivial
+fix a (probably harmless) mistake in nsUrlClassifierDBServiceWorker::IsCanonicalizedIP();trivial
+Cleanup unused cache preferences;trivial
+xpcshell-tests: test_streamupdater hangs with 'strict' & 'werror' on;trivial
+nsUrlClassifierDBService::EnsureThreadStarted() doesn't exist anymore;trivial
+"Report Web Forgery page on google.com mentions ""Firefox 2""";trivial
+PrefixSet restore isn't robust to on-disk corruption;trivial
+non-existant SECOidTag referenced in cryptohi.h?;trivial
+TypeError: anonymous function does not always return a value  @ osfile_shared_front.jsm:551;trivial
+Use mozilla::pkix::der::Input::EnsureLength more consistently;trivial
+appleMailImportMsgs.properties should use string based identifiers rather than numbers;trivial
+smtpServer-SecureAuthentication-Type-* strings seem unused in account manager;trivial
+JavaScript error: about:webrtc, line 312: globalReport.errors is undefined;trivial
+Make nsIFrame::Reflow and friends return 'void';trivial
+JavaScript strict warning: components/storage-mozStorage.js, line 248: assignment to undeclared variable encType;trivial
+Correct -moz-tamil according to Predefined Counter Styles;trivial
+WakeLockListener can unlock screensaver while video is still playing on Windows;trivial
+DispatchCompositionEventRunnable is spelled wrong;trivial
+HTTP cache v2: save some locking in CacheEntry::BackgroundOp;trivial
+Telemetry data for HTTPCONNMGR_UNUSED_SPECULATIVE_CONN isn't tracking correctly;trivial
+Rename mozilla::imagelib namespaces to mozilla::image;trivial
+Clang Static Analysis: Remove never read value to fix a minor warning found by scan-build. r=keeler;trivial
+"Remove unnecessary ""REQUIRES = dbm"" from manifest.mn";trivial
+Remove FlexContainerFrame::MarginComponentForSide(), use nsMargin.Side() instead;trivial
+Trailing whitespace ignored in font names;trivial
+"Remove ""MOZ_BITS == 16"" parts, in dbm";trivial
+"Remove ""MOZ_BITS == 16"" parts, in nsprpub (and m-c)";trivial
+MOZILLA_PKIX_ENUM_CLASS disables warning 4480 for the whole file instead of just for the one enum;trivial
+Clarify value of der::SEQUENCE;trivial
+Remove obsolete TLS cipher suite preferences;trivial
+CERT_DecodeNameConstraintsExtension's encodedConstraints argument should be const SECItem*;trivial
+Allow passing a nsIDOMCSSRule into domUtils.getRule[Line|Column];trivial
+"""Ignore this warning"" button has uncorrect position on about:blocked page with RTL locales";trivial
+[Firefox] removed-files.in: is full-screen-override.css removal actually (always) needed?;trivial
+Replace |.getService() .QueryInterface(iid)| by |.getService(iid)| in comm-central;trivial
+[Moz2Dification] Remove the constructors that use thebes sizes in GLTextureImage.h;trivial
+Remove uses of PR_NOT_REACHED from the mozilla::pkix test suite;trivial
+Replace uses of PR_Abort with uses of abort in the mozilla::pkix test suite;trivial
+Reduce scope of stdio/FILE-related declarations to pkixtestutil.cpp;trivial
+Clean up GL Extension list;trivial
+"Removal of file ""nss/lib/certhigh/certvfypkixprint.c"" from NSS compilation, to remove deadcode.";trivial
+Default normalizedName normalization is too aggressive;trivial
+"Correct misspelling ""verion"" in source code";trivial
+Correct misspellings in source code;trivial
+IonMonkey: Remove the osrStart_ field from MIRGraph;trivial
+Use references instead of pointers for TrustLevel parameters in mozilla::pkix;trivial
+Improve new nsTArray rvalue reference methods;trivial
+Self-host isNaN and isFinite, relying on Number_isNaN and Number_isFinite for implementation;trivial
+about:telemetry page looks broken with dark OS theme;trivial
+"some trivial ""assignment to undeclared variable"" in TB core.";trivial
+Update in-tree libpng documentation to version 1.6.13;trivial
+Fix compiler warnings in lib/softoken/pkcs11c.c;trivial
+octal literals and octal escape sequences are deprecated: components/XULStore.js;trivial
+possibly undefined mRadioChildren property in radio.xml;trivial
+Clean up XPCOM string usage in SSLServerCertVerification.cpp;trivial
+octal literals and octal escape sequences are deprecated: resource://gre/modules/DownloadPaths.jsm;trivial
+Clean up XPCOM string usage in nsDNSService2.cpp;trivial
+pages show up blank - avoid sending blank Accept-Charset header;trivial
+Unhandled IRC message: 396 RPL_HOSTHIDDEN;trivial
+Change VERSION string for IRC;trivial
+Copy Username menu item does not have access key in Saved Passwords box;trivial
+Merge nsIX509Cert2 and nsIX509Cert3 into nsIX509Cert;trivial
+Fix length property for functions exported to self-hosting;trivial
+Fix build warning in mozilla::pkix::IsFatalError;trivial
+Tidy GCRuntime members;trivial
+warning fix : ns/nsprpub/pr/src/threads/combined/pruthr.c;trivial
+errUtils.js::logException shows the same exception to Error console twice;trivial
+Make image/decoders and image/encoders source files comply with Mozilla Coding Style;trivial
+[jsdbg2] Some comments are out of date or unclear;trivial
+Cleanup CompositableTypes;trivial
+disabled of input (type=text) doesn't grey the background;trivial
+"Fix the clang -Wstring-conversion warnings about PR_ASSERT(!""foo"")";trivial
+character encoding of CSP violation report should be explicitly documented.;trivial
+"wrong spelling of ""behavior"" in AnimationCommon.cpp";trivial
+mIsCachable is always true;trivial
+progressbar.py test mode does not work;trivial
+Use HasNonScalingStroke() more;trivial
+Remove unused NS_IS_REFLOW_ERROR macro;trivial
+applying the 'delete' operator to an unqualified name is deprecated in Feed reader;trivial
+fix signed/unsigned comparison warnings in mailnews/local/src/nsLocalUndoTxn.cpp;trivial
+Convert some occurences of ns*Array.IndexOf(elem) != kNotFound to ns*Array.Contains(elem);trivial
+rm unneeded nsCSSPropList.h include from AsyncCompositionManager.h;trivial
+Remove unused remnants of non-standard connectDataConnection from Bug 852908;trivial
+pp.c: warning: too many arguments for format [-Wformat-extra-args];trivial
+pk11cert.c: warning: variable ‘swapNickname’ [and] ‘isFortezzaRootCA’ set but not used [-Wunused-but-set-variable];trivial
+When serializing the 'background' shorthand, put 'background-color' at the beginning of the bottom layer;trivial
+Unnecessary download when retrying;trivial
+pk12util.c: warning: variable ‘fileExist’ set but not used [-Wunused-but-set-variable];trivial
+getMigratedData in ResetProfile.jsm is unused and can be deleted;trivial
+Improve appearance of Advanced settings of an IMAP account;trivial
+pk12util: typo in help screen;trivial
+Remove remaining XP_MAC code from /mozilla/nsprpub;trivial
+Lazy evaluation of pubk->u.ec.size in SECKEY_PublicKeyStrength and SECKEY_PublicKeyStrengthInBits is not thread-safe;trivial
+Fix misspellings of PBKDF2 in lowpbe.c;trivial
+miscellaneous trivial bugs to be fixed in NSS 3.12.x;trivial
+"There's a spurious ""to"" in the mail/ version of smtpAuthChangeEncryptToPlainSsl";trivial
+image zoom cursor does not change after resizing browser window;trivial
+"Clean up ""SyntaxError: test for equality (==) mistyped as assignment (=)"" in messenger/content/addressbook/abResultsPane.js";trivial
+Audio glitches on OpenBSD caused by rounding errors.;trivial
+incorrect compile warnings about errorStringNameForErrorCode() being unused;trivial
+Update comment on SortByZOrder to reflect the code;trivial
+Clang Static Analysis: Remove never read value to fix a minor warning found by scan-build.;trivial
+Fix spelling error in CERTCertificateStr comment in certt.h;trivial
+Explicitly delete copy-constructor & reassignment operator on flexbox stack-allocated helper-structs;trivial
+do away with preprocessing in am-identity-edit.js due to identity.autocompleteToMyDomain;trivial
+unaligned labels in the LDAP server Advanced properties tab;trivial
+Uninitialized member warning in  BufferAlphaColor;trivial
+"Typo in comment: ""suggesteed""";trivial
+Use defaultPrevented instead of the deprecated getPreventDefault() in front-end code;trivial
+chrome://messenger/content/accountUtils.js, line 455: SyntaxError: unreachable code after return statement;trivial
+Documentation error:  Missing infoFlag from the list of Flag constants in a documentation about Error Console.;trivial
+Remove obsolete encoding decoder telemetry probes;trivial
+"Add accesskey to ""Debug"" add-on menu";trivial
+Call PORT_SetError after calling SSL3_SendAlert;trivial
+Documentation Error: NS_ERROR_FILE_TARGET_DOES_NOT_EXIST (0x80520006)     A attempt was made to copy or move a file that does exist.;trivial
+Remove all occurrences of the gfxIntRect and nsIntRect typedefs in gfx code, replace them by gfx::IntRect;trivial
+Finish (almost) killing nsCOMArray from editor;trivial
+Uninitialized member mozilla::layers::FPSCounter::mIteratorIndex in constructor;trivial
+Make image/src source files comply with Mozilla Coding Style;trivial
+Remove unused CopyLogicalToVisual and WriteLogicalToVisual methods from nsBidiPresUtils;trivial
+Add l10n string for SSL_ERROR_WEAK_SERVER_CERT_KEY;trivial
+Fix whitespace in mozlog;trivial
+Remove all occurrences of the gfxIntSize and nsIntSize typedefs in gfx code, replace them by gfx::IntSize;trivial
+remove deprecated for-each-in loops in the account manager and account wizard;trivial
+Bytecode documentation for JSOP_NEWTARGET needs one more indent.;trivial
+Remove the GB2312 and GBK decoders;trivial
+"Add ""psm"" tag for browser_blockHPKP.js";trivial
+mathfont.properties does not need to be preprocessed after Bug 1000745;trivial
+Fix code style violations in Intl.cpp;trivial
+xpcom/idl-parser/ code should follow the flake8 convention;trivial
+Change logging in storage-json.js to avoid string concatenation;trivial
+[trivial] fix some typo in comments.;trivial
+Value stored to 'eTLD' during its initialization is never read in nsEffectiveTLDService::GetBaseDomainInternal;trivial
+Several assertions escaped full conversion to logical coordinates;trivial
+Unnecessary test and assignment in Parser<FullParseHandler>::forStatement;trivial
+Update top protocols list for 1.6;trivial
+Normalize does not exist for UnknownProtocol;trivial
+Replace NO-BREAK SPACE (U+00A0) in mfbt/MacroForEach.h with SPACE (U+0020).;trivial
+Change about:config text box label to Search:;trivial
+Mention two MPL-licensed files in media/libpng/LICENSE;trivial
+Only do supplimental isArray check if WorkAroundDriverBugs;trivial
+error in comment in content/base/src/nsDocument.cpp line 8667;trivial
+New warnings from NSS_3_12_3_BETA2;trivial
+[HTML5] Consolidate strBuf and longStrBuf use in the tokenizer;trivial
+"""Could not get services/features for this server"" should not be a warning";trivial
+Value stored to 'attemptedOptimisticPipeline' is never read in nsHttpConnectionMgr::TryDispatchTransaction;trivial
+Remove Symbol_isRegExp from CommonPropertyNames.h.;trivial
+refresh layout in the SMTP manager pane in the Account manager;trivial
+nsNntpIncomingServer.cpp(1660): warning C4146: unary minus operator applied to unsigned type, result still unsigned;trivial
+nsMsgUtils.cpp(512): warning C4305: '=': truncation from 'double' to 'float';trivial
+nsMsgFolderDataSource.cpp(2456): warning C4804: '>': unsafe use of type 'bool' in operation;trivial
+Address some pylint complaints about pycert.py and pykey.py;trivial
+Wrong format in bytecode documentation comment in Opcodes.h.;trivial
+Remove else after return from Parser<ParseHandler>::maybeParseDirective.;trivial
+"typeof ""foo"" != ""undefined"" tests are always true";trivial
+Unregistering IRC handlers doesn't work;trivial
+Indent Return receipts options in account manager;trivial
+The XML error page has a yellow background but does not specify foreground color;trivial
+Incorrect comment in ssl3_HandleCertificateStatus;trivial
+"Fix compiler warnings: ""unused variable"" and ""defined but not used""";trivial
+MInor styling issues in about:profiles;trivial
+quiet build warnings - casting pointers to 32bit ints and printf'ing non const pointers;trivial
+"The Create Profile Wizard says ""Click Done ..."" when the button is called ""Finish"" and ""Click Finish ..."" when the button is called ""Done""";trivial
+Fix comment typo s/MOOUSEMOVE/MOUSEMOVE/;trivial
+Correct comment in mozISpellCheckingEngine.idl after removal of spellcheck-dictionary-update notification;trivial
+[css-grid] Use Unicode ellipsis in error messages;trivial
+Unused variable in nsSmtpProtocol::SendDataResponse;trivial
+"""You don't have any add-ons of this type installed"" doesn't disappear as it should";trivial
+Move hidefor attribute from IDLE checkbox to surrounding vbox;trivial
+Access key conflict for new IDLE checkbox in IMAP Server Settings;trivial
+remove unused PREF_EM_UPDATE_INTERVAL;trivial
+Compiler warning: unused |foundServer| variable and removing extra check;trivial
+Sort PSM xpcshell.ini and fix --tag psm to actually run all tests;trivial
+HiDPI clear icon required for in-content preferences;trivial
+Kill off nsDOMWindowUtils::FindElementWithViewId;trivial
+Misleading comment on js::Fifo;trivial
+messenger.properties should use string based identifiers rather than numbers;trivial
+Only have one implementation of JSDOUBLE_IS_NaN, not two-via-ifdefs;trivial
+Use 'MakeUnique' instead of 'new' to populate UniquePtr variable in AddCSSValuePair;trivial
+Expired certificate warning: date in message unclear.;trivial
+Fix some trivial -Wextra warnings in /mailnews;trivial
+Fix some nsGridContainerFrame.h/cpp compile errors in non-unified build;trivial
+Remove unused ca_list member of the SSL3HandshakeState struct.;trivial
+Assert in VBRI header parsing not properly checking frame sync;trivial
+fix some compile warnings in /mailnews;trivial
+Cleanup grid item iterator Reset() calls;trivial
+[e10s] AppProcessChecker.cpp have DEUBG typo preventing DEBUG messages;trivial
+Add HTML5 <!DOCTYPE>  declaration to MathML tests;trivial
+Windows end-of-lines in dom/media/test/test_gmp_playback.html;trivial
+Figure out what nsReferencedElement::Reset should do if nsContentUtils::ConvertStringFromEncoding fails;trivial
+Wrong/missing comment for localization note notADeceptiveSite, notAnAttack;trivial
+Rename nsIFrame::eUseAutoHeight to eUseAutoBSize;trivial
+[IMM] When there is only composition string in editor, canceling the composition causes painting caret at odd position (right-most of the editor);trivial
+Use ES6 method syntax in LoginManagerContent.jsm;trivial
+Remove OS X 10.6-10.8-Specific Sandboxing Code;trivial
+ClearType parameters info to about:support are wrongly formatted;trivial
+Fix two comment typos in prprf.c;trivial
+modernize mailnews/import/content/importDialog.js;trivial
+Standalone audio looks broken after hiding controls;trivial
+Remove trailing whitespace from nsCSSParser & add missing includes and namespaces relying on unification;trivial
+Should not use a loop to get a single item from a set;trivial
+LL_INIT warning: signed shift result (0x8000000000000000) sets the sign bit of the shift expression's type ('long long') and becomes negative [-Wshift-sign-overflow];trivial
+optimize and consolidate searching for the wanted ID in the pageElements array in AccountManager.js;trivial
+"remove last ""for each"" loop in chat/ in comm-central";trivial
+"Fix ""warning C4018: '<': signed/unsigned mismatch"" in mailnews/import and mailnews/mapi";trivial
+some files in mailnews/jsaccount/src have Windows line endings (CRLF);trivial
+do not check for user and host fields on accounts that do not have them in AccountManager.js;trivial
+Address some compilation maybe-uninitialized warnings;trivial
+Move enabling ARM-NEON PNG support from old-configure.in to libpng/moz.build;trivial
+SkFontHost_cairo.cpp:763:15: warning: reference cannot be bound to dereferenced null pointer in well-defined C++ code;trivial
+Some values in Cocoa's TextInputHandler log isn't outputted as 0 when it is 0;trivial
+"Message ""This MIME attachment is stored separately from the message"" for feed enclosures (podcasts) is not localized";trivial
+"On about:support, ""Profile Directory"" should be ""Profile Folder""";trivial
+Wrap long lines in nsPNGDecoder;trivial
+"Remove ""else"" after return in ConvertScalar.";trivial
+Explain why user referrer trimming policy can be overriden;trivial
+remove obsolete argument from calls to nsIFile.contains() in TB;trivial
+spelling mistake in GamepadManager.h comment;trivial
+clean-up string-iterator-surfaces.js;trivial
+Make use of the new 10.12 constant NSVisualEffectMaterialSelection;trivial
+Incorrect LIR type names in Ion logs;trivial
+Check trailing spaces in string firstLastFormat in TB AB;trivial
+remove unused svgBindings.xml file;trivial
+properly localize plurals of number of matches in Addressbook search;trivial
+Error in properly localized plurals of number of matches in Addressbook search;trivial
+Minor cleanup in property_database.js for display:contents;trivial
+Unused BUILTIN_ROOTS_MODULE_DEFAULT_NAME constant should be removed;trivial
+bad use of plurals in mailnews/base/content/newmailalert.js;trivial
+Noticed in Bug 1265881 Error: TypeError: temp is null Source File: chrome://global/content/bindings/preferences.xml Line: 1227;trivial
+Failure in 2.0.0/conformance2/glsl3/shader-with-invalid-characters.html;trivial
+Typo in PREF_BRANCH_LOG for JSAccountUtils.jsm;trivial
+Stop using tail_ files in xpcshell: use do_register_cleanup() instead, in MailNews;trivial
+Stop using tail_ files in xpcshell: use do_register_cleanup() instead, in Core and Toolkit;trivial
+Stop using tail_ files in xpcshell: use do_register_cleanup() instead;trivial
+IONFLAGS=logs Does not work on Win32;trivial
+FTP time/date data incorrect;trivial
+change CSS file comments from // to /* */;trivial
+switch to JS case in d&d/clipboard idl files;trivial
+<form></form> not responding to CSS padding/margin;trivial
+Remove unused resource://gre/modules/sqlite/sqlite_internal.js;trivial
+Remove layout.css.display-contents.enabled pref;trivial
+'ex' is not defined in TelemetryModules.jsm - logging would be incorrect;trivial
+convert nsIArray.QueryElementAt() to do_QueryElementAt() in mailnews;trivial
+The help command should trim its argument;trivial
+Build should disable D3D9 layer if d3d9.h not found;trivial
+Remove JSEXN_NONE from documentation comment in js.msg;trivial
+convert some QueryInterface(NS_GET_IID(), ) occurrences to do_QueryInterface() in mailnews;trivial
+certificate import success message looks like an error (warning icon by alert() function);trivial
+fix compile warnings in ldap/xpcom;trivial
+Refactor Ion.cpp::IsCallOpcode to be clearer;trivial
+Ion: Fix IONFLAGS=help message;trivial
+"js/src/old-configure reports ""grep: invalid option"" on Windows";trivial
+gfx/2d/2d.h should not include gfxPrefs.h;trivial
+2048-bit primes are now valid for DSA certificates;trivial
+"coverity report: Non-static class member ""mState"" is not initialized in this constructor nor in any functions that it calls.";trivial
+Coverity report: nsGridContainerFrame::​nsGridContainerFrame(nsStyleContext *): A scalar field is not initialized by the constructor;trivial
+Remove NS_STDCALL_FUNCPROTO;trivial
+"Printing ""OK"" to console(terminal) is not OK";trivial
+"""Warning: unrecognized command line flag -foreground"" on launch";trivial
+GCRuntime::gcIfNeededPerAllocation is a misleading name;trivial
+GetPlaceholderContainer does a useless do_QueryFrame() call;trivial
+Remove an unnecessary friend declaration in FrameProperties;trivial
+fix indent in nsMsgDatabase::RemoveHdrFromCache;trivial
+Should use REPLACEMENT CHARACTER instead of KATAKANA MIDDLE DOT for unmapped bytes in Shift_JIS;trivial
+Remove ISO-8859-1 as a Gecko-canonical encoding;trivial
+FramePropertyTable is still mentioned in a couple of places;trivial
+[QA] Block Playback feature tracking bug;trivial
+Remove nsRange::SetEnableGravitationOnElementRemoval() since it's now dead code;trivial
+Factor ThreadHangStats classes out of Telemetry.cpp;trivial
+mark some things as const;trivial
+warning: 'roundingError' may be used uninitialized in this function;trivial
+Consider renaming nsRange::mStartParent/mEndParent to mStartContainer/mEndContainer;trivial
+clicking on applet or flash after context menu opens, does not close context menu;trivial
+Remove unused import in about:telemetry;trivial
+[jsdbg2] Debugger.Frame.prototype.script makes unnecessary checks;trivial
+xpcom/typelib/ code should follow the flake8 convention;trivial
+userContent.css gets blocked with sandbox level 3 on Linux;trivial
+IonBuilder::ensureDefiniteTypeSet is not used;trivial
+syntax highlighting in source view omits ampersands;trivial
+memory leak of filename into layout/printing/nsPrintEngine.cpp;trivial
+use FOLDER_SUFFIX constant where possible;trivial
+Remove ISO8601DateUtils.jsm;trivial
+MOZ_RELEASE_ASSERT on nsHtml5StreamParser::mStreamState;trivial
+Typo in cryptox function name;trivial
+Inheritance logic in HasAuthorSpecifiedRules is slightly wrong for text-shadow;trivial
+Remove dynamic_cast from about:webrtc code;trivial
+Document all ISO-8601 date parsing extensions;trivial
+Clean up license blocks & mode lines in /layout;trivial
+remove last remaining charset passing to encodeMimePartIIStr_UTF8;trivial
+"mishandled exception message for ""No such file or directory""";trivial
+Add nsIFrame::PresShell() for convenient access to the shell;trivial
+Fix JS_OOM_BREAKPOINT on MSVC;trivial
+Correct misspellings in source code (old);trivial
+xpfe's autocomplete.xml should not depend on bug 232598;trivial
+JsepSessionImpl should not create remote tracks when negotiation fails;trivial
+[css-grid] Add a couple of ItemState bits to Dump(), and make an ItemState assertion stricter (DEBUG-only changes);trivial
+some small nsCSSFrameConstructor improvements;trivial
+Remove nsDidReflowStatus;trivial
+Remove unused preference security.ui.enable;trivial
+Remove directory mozilla/src/layout/mathml/doc;trivial
+"""Run All Tests"" button is not keyboard accessible";trivial
+Trivial fix in layout/style/test/test_css_cross_domain.html;trivial
+Rename MayBeAsynchronouslyScrolled;trivial
+Rename gc/Iteration files one more time;trivial
+"VK_RETURN key (13) wrongly labelled ""Return"" on Windows and Linux, should be labelled ""Enter"" (e.g. to display ""Ctrl+Enter"" keyboard shortcut correctly for File | Send Now)";trivial
+Remove jscpucfg.h;trivial
+IonMonkey: Move CodeGenerator::ToOutValue into jit/shared/CodeGenerator-shared-inl.h;trivial
+Move a few public headers from js/src into js/public;trivial
+Correct some -webkit-fill to -webkit-fill-available in tests;trivial
+txExprLexer::parse: Value stored to 'start' is never read;trivial
+wrong comment for MAGIC_NUMBER in lz4.js;trivial
+Fix typo in DOMSVGPoint constructor;trivial
+Useless NS_ENSURE_TRUE in editor/libeditor/TextEditorDataTransfer.cpp;trivial
+simplify selection detection in SMTP list editor in Account manager;trivial
+Use codespell to fix spelling in SVG code;trivial
+remove some unneeded includes in /mailnews;trivial
+nsIFrame::BuildDisplayListForChild: Value stored to 'wrapListASR' during its initialization is never read;trivial
+Add tests to the AutoCounter and RuntimeAutoCounter;trivial
+Remove workarounds for VS2010 from js/src/jit;trivial
+One t in detach;trivial
+Remove usage of |#ifdef PR_LOGGING| from ldap and mailnews;trivial
+WorkerPrivate::DispatchPrivate is unnecessary;trivial
+toolkit/forgetaboutsite/ should use 'Toolkit::Data Sanitization' as bugzilla product and component;trivial
+js/src/frontend/BytecodeEmitter.cpp: Value stored to 'caseCount' is never read;trivial
+NS_ENSURE warning when popstate.dat does not exist;trivial
+"Fix -Wtype-limits ""comparison of unsigned expression >= 0 is always true"" warning in XPFE";trivial
+CRs in aboutCacheEntry.css aboutCache.css LightweightThemeConsumer.jsm actions.dtd;trivial
+Eliminate last nsFileSpec and nsIFileSpec (references) from Core;trivial
+Do not add source note for useless expressions;trivial
+[css-grid] Use LogicalAxis/LogicalSide more;trivial
+don't use legacy .Count() on nsIArray in c-c;trivial
+remove some unneeded includes in /mailnews;trivial
+Deleting via keyboard doesn't work.;trivial
+Remove obsolete Sunbird installer stub from comm-central;trivial
+Make GetWidgetBorder/GetWidgetPadding return LayoutDeviceIntMargin;trivial
+remove old osx 10.6 references in manifest files;trivial
+remove old osx 10.6 references in manifest files;trivial
+Unnecessary cast between JSObject* and JSFunction* in CreateFunctionPrototype;trivial
+remove old osx 10.6 references in manifest files;trivial
+nsDragDropEventStatus type is not used;trivial
+Make IfThenElseEmitter methods clearer and fix comment;trivial
+Make nsITheme::GetWidgetBorder return the border directly instead of using an out-param;trivial
+[css-grid] Make AlignJustifyContent slightly more friendly to axis-independent code;trivial
+[css-grid] Remove a redundant ResolveGapToLength call;trivial
+in c-c, use constants from interfaces instead of hardcoding them in JS where possible;trivial
+warning fix : ns/nsprpub/pr/src/threads/combined/prulock.c;trivial
+Assert that PresArena is only used on the main thread;trivial
+JS::GetValueZone(const Value& value) declared but never defined;trivial
+Make CSSAlignUtils use the accessors from bug 1468089;trivial
+Missing `mach run` command in documentation;trivial
+Intermittent crash during browser_gcli_pref.js | application timed out after 330 seconds with no output [@ libxul.so@0x134131f];trivial
+Typos in localization comments for developer tools in Firefox 18;trivial
+protocol.js actors produce the wrong error message when receiving a misformed packet;trivial
+Clean up redundancy in logMessage() for the Console;trivial
+Error bubbles for multiline messages in console look silly;trivial
+Highlighter close button has a bogus hover state on Windows;trivial
+Tests: Synthesizing mouse click may fail on smaller screens;trivial
+Possible to get Web Console into unclosable state;trivial
+Web console close button pressed state is one pixel off (vertically and horizontally);trivial
+Remove non-functional resizer from the style inspector;trivial
+Properly align layout elements in net inspector when horizontal scrolling is needed;trivial
+Remove the line separating the tooltip contents and the tooltip arrow;trivial
+Autocomplete in the Web Console isn't fully cleared on ctrl+backspace;trivial
+Web console's copying adds extra newline between groups.;trivial
+"[css] ""Reload"" buttons in devtools are black while other buttons are lightgray";trivial
+Typo in gclicommands.properties: 'atributes' instead of 'attributes;trivial
+"Fix typo which prevented accesskey in console's ""Open in sidebar"" context menu entry to be applied";trivial
+typos in gclicommands.properties;trivial
+Web Console cleanup: HUD_createController() should be HS_createController();trivial
+Typos/Errors in gclicommands.properties: Comments always talk about 'step over';trivial
+'Shift' in tooltip for color swatch should have an uppercase 'S';trivial
+l10n note for withBlock says it's for localScope;trivial
+Breakpoint icon not vertically centered on line;trivial
+CSS Class names for scopes shouldn't have spaces;trivial
+DebugProtocolTypes should be deleted;trivial
+CSS validation errors in toolbox.css;trivial
+DoubleClicking Event Listeners button (ev) should respect the number of clicks;trivial
+The code area in event listener popup is sometimes too narrow compared to width of popup itself.;trivial
+[RTL] devtools-sidebar-alltabs (overflow dropmarker) is placed wrong in RTL locales;trivial
+Remove unneeded keyboard handler;trivial
+Last event listener entry in event listeners tooltip has unnecessary border-bottom;trivial
+Titles in sidebar aren't cropped and cross borders between tabs (titles are to long in some locales);trivial
+Refine a punctuation in emptyPresetList;trivial
+Drag and drop in Inspector doesn't work for comment nodes (and text nodes);trivial
+The cursor remains an open hand when rotate point is clicked [Shape tool];trivial
+Change text style in filter field to look like in other fields;trivial
+Box model is off-center;trivial
+[Devtools] Network monitor permanent scrollbar;trivial
+Waiting in netmonitor -> timings isn't visible on dark theme;trivial
+clean strings & refine l10n comment for performanceUI;trivial
+"""Start Recording Performance"" and ""Take snapshot"" buttons are black-on-black";trivial
+"openLinkNewTab.label should be ""Open Link in New Tab""";trivial
+Style Editor search box shouldn't be round on Linux;trivial
+ToolboxStyleEditor.tooltip=CSS Stylesheets Editor shouldn't duplicate 'Stylesheets';trivial
+When formatting minified CSS files don't add line-break in Data uris;trivial
+Add missing type in events API schema examples from the WebExtensions docs;trivial
+"contentScripts.register JSON API schema should not use ""additionalProperties""";trivial
+Nit: some misleading helper names in WPT webrtc;trivial
+scope is never used in JS_NextProperty;trivial
+deadcode in nsBoxObject::GetOffsetRect;trivial
+FuzzOneInvalidCaseConversion could check result of CaseInsensitiveCompare/CharByCharCompareEqual;trivial
+my_proto is unused in testClassGetter_isCalled;trivial
+Hopefully useless null check in PresShell::SetIsActive for mDocument or [@ PresShell::UpdateImageLockingState | PresShell::SetIsActive];trivial
+nsAStreamCopier::Process can use sourceCondition, sinkCondition uninitialized if someone cancels the copy early;trivial
+Please cache GetOpactiy() in ContainerLayerOGL::RenderLayer;trivial
+useless null check in nsSVGGlyphFrame::IsAbsolutelyPositioned;trivial
+unreachable code in nsZipReaderCache::GetZip;trivial
+streamParse leaks ToNewCString(globalStream);trivial
+WebGLContext::VertexAttribPointer compares WebGLuint stride < 0;trivial
+unreachable code in nsPluginHost::PostURL;trivial
+deadcode in nsOggReader::FindEndTime if !codecState;trivial
+useless dereference of str for *str++ in RecordToken;trivial
+PRUint32 countU < 0 is useless in nsHTMLEditor::AddNewStyleSheetToList;trivial
+auto_dirac leaks info when dirac_parse_info fails;trivial
+unreachable branch in js_InflateUTF8StringToBuffer;trivial
+useless initialization of src in WebGLContext::DOMElementToImageSurface;trivial
+nsMediaDecoder::nsMediaDecoder doesn't initialize mFramerate;trivial
+Coverity CID 748633 Logically dead code In nsFrameSelection::​DeleteFromDocument();trivial
+unreachable code in nsPlatformCharset::GetDefaultCharsetForLocale if HAVE_LANGINFO_CODESET;trivial
+ThreadData::StartTracking should use #else;trivial
+Uninitialized members in mozilla::layers::TextRenderer constructor;trivial
+useless null check in nsPrintEngine::SetupToPrintContent;trivial
+nativeBindings is unused in nsXBLWindowKeyHandler::WalkHandlers;trivial
+Possible null pointer dereference in BasicLayerManager::PaintSelfOrChildren;trivial
+places/tests/cpp/mock_Link.h doesn't initialize mRegistered and mContent;trivial
+ContainerLayerOGL::ContainerLayerOGL doesn't use mTexture;trivial
+case eCSSEditableProperty_NONE is unreachable in nsHTMLCSSUtils::GetCSSPropertyAtom;trivial
+useless null check of first in nsXULPopupManager::Rollup;trivial
+useless null check of fd in nsComponentManagerImpl::WritePersistentRegistry;trivial
+Coverity complains that QName null checks argv after asserting it can't be null;trivial
+XPCConvert::JSValToXPCException is too cautious;trivial
+Coverity complains that js_ErrorToException dereferences reportp before null checking;trivial
+Coverity doesn't like ReportError in jscntxt because it pretends reportp could be null;trivial
+nsContinueDespiteCertError's default case should set rv;trivial
+Coverity doesn't like main in xpt_link because it pretends header could be null;trivial
+deadcode in nsCSSFrameConstructor::ConstructMathMLFrame, isReplaced will not be true;trivial
+Useless null check of aNewLeftNode in nsEditor::SplitNode;trivial
+Coverity doesn't think obj_eval should null check caller->pc;trivial
+Useless null check of shell in NPP_SetWindow;trivial
+Useless null check of aOwner in nsPluginHostImpl::InstantiateEmbeddedPlugin;trivial
+Hopefully useless null check in nsPluginStreamListenerPeer::Initialize;trivial
+imgCache::Init leaks imgCache if do_GetService fails;trivial
+Useless null check of aUri in txMozillaXSLTProcessor::LoadStyleSheet;trivial
+remove the charset argument of encodeMimePartIIStr_UTF8 in MIME;trivial
+remove CRLF line endings in /mail files;trivial
+[BinAST] BinSource-auto.cpp: argument name 'YYY' in comment does not match parameter name 'XXX';trivial
+TypeError: asm.js type error: asm.js Atomics only enabled when asmjs.atomics.enable is set;trivial
+Graphical problem at start up browser window on Ubuntu12.04.;trivial
+Simplify dead code paths related to JSOP_NEWINIT;trivial
+Documentation for JS shell's 'newGlobal' function is out of date;trivial
+InterpreterStack::resumeGeneratorCallFrame should not call JSFunction::getOrCreateScript;trivial
+Refactor evalWithDebugger in the webconsole actor;trivial
+Remove remaining references to nsCSSRuleProcessor since it has been removed;trivial
+We need up-to-date artwork for the icons of loading-images and broken-images;trivial
+Linked images have a blue border in default style sheet;trivial
+Image appears corrupted when dragged;trivial
+reloading images does not update title;trivial
+TestInlineFrame out of date;trivial
+warnings are lying in PresShell::Observe;trivial
+more data could be const in content;trivial
+Code added in bug 338122 doesn't actually enforce document equality;trivial
+In <nsStyleStruct.cpp>, [Unused variable `nsIFrame*parentFrame'];trivial
+Remove unnecessary includes and forward declarations of nsIPresShell and nsPresContext;trivial
+JavaScript strict warning: chrome://layoutdebug/content/layoutdebug.js, ... trailing comma is not legal in ECMA-262 object initializers;trivial
+Bug 284320 created an unused variable (aPresContext) in layout/generic/nsFrameFrame.cpp;trivial
+Remove compiler warnings;trivial
+ua.css should now be installed (symlinked) rather than copied;trivial
+Get/FormatLocalizedString should use nsXPIDLString;trivial
+CRs in nsTimeRanges.cpp PaintTracker.cpp PaintTracker.h;trivial
+nsTextFrameThebes misuses memset;trivial
+warning: unused variable `PRUnichar nullChar' in nsNodeInfo::Equals;trivial
+Remove SendStatusNotification/nsIPrintStatusCallback;trivial
+Remove some layout warnings;trivial
+nsCSSFrameConstructor::ContentRemoved has a hopefully useless DEBUG oversafe null check of parentFrame;trivial
+Redundant #define's in nsObjectFrame.cpp;trivial
+CSS Error in layout/doc/obsolete/layout.css;trivial
+ignores CSS onmouseover events for links when going directly onto a link from a frame which partly covers that link;trivial
+"setAttribute(""src"") does not load iframe document";trivial
+r:\mozilla\layout\html\document\src\nsframeframe.cpp(632) : warning C4715: 'ConvertOverflow' : not all control paths return a value;trivial
+frame control;trivial
+[console] view must not print to console in opt builds;trivial
+nsIClipView unused;trivial
+unused variable scrolledViewFlags in nsScrollPortView.cpp;trivial
+I do not see the middle part of the page after the download is finished;trivial
+Visual ghosting/trailing on moving DOM elements during animation;trivial
+does not properly refresh borders;trivial
+[infinite loop] bugs - nsViewManager.cpp;trivial
+Form in left alinged table flashes in wrong spot when you click a form button;trivial
+use mozilla::IsAsciiDigit and mozilla::AsciiAlphanumericToNumber;trivial
+Application window top border edge missing on Windows 10;trivial
+bool nsImapProtocol::CheckNewMail() never called and internal variable never used;trivial
+Compare FF60 with FF63 Talos results;trivial
+Baseline Inspector may compute the wrong return type of a URSH;trivial
+Web Payment IDL files have missing w3c copyright;trivial
+Fixing overly clever conditional in AddOperation;trivial
+MerchantValidationEvent.complete() must throw InvalidStateError;trivial
+Assorted small cleanups;trivial
+assertion when Thunderbird is being offline;trivial
+warning: unreachable pattern for animation-play_state;trivial
+Use AutoCleanLinkedList in flexbox code (rather than custom AutoFlexLineListClearer class);trivial
+Remove XUL nsProgressMeterFrame;trivial
+"Typo in tests ""reqeustPayerPhone"" should be ""requestPayerPhone""";trivial
+.contentView is unnecessary;trivial
+remove currencySystem from PaymentRequest;trivial
+Make the <textarea> rule in layout/style/res/forms.css a little clearer in intent;trivial
+Rename `PayerErrorFields` to `PayerErrors`;trivial
+Drop support for PaymentItem.type when removed from spec;trivial
+Update code comment about change object structure;trivial
+remove some unneeded includes in mailnews/;trivial
+remove some unneeded includes in mailnews/;trivial
+Fix a few baseline alignment tests that makes bogus assumptions about line-height metrics;trivial
+Remove some unused functions in nsIMsgDBView and nsIMsgHeaderParser;trivial
+Remove unused labels in CacheIRCompiler::emitGuardIsInt32;trivial
+fix some Javascript errors in Thunderbird's xpcshell tests;trivial
+"combo boxes crop their longest string, in e.g. ""Set as background image"" dialog, ""When Firefox Starts..."" preferences menu, & about:permissions";trivial
+"Fixup jit-tests marked ""slow"" (remove expression closure, update to latest APIs, etc)";trivial
+Remove/Replace leftover WRAP_MALLOC_* in NSS;trivial
+"Remove ""double spacing"" in SSLerrs.h and SECerrs.h strings";trivial
+Remove DEVTOOLS_FLEXINSPECTOR_ELEMENT_TYPE_DISPLAYED histogram;trivial
+cleanup logic in mailnews/base/content/dateFormat.js;trivial
+nsDocumentViewer.cpp: Value stored to 'height' is never read;trivial
+TrackUnionStream.cpp: Value stored to 'inputTrackEndPoint' is never read;trivial
+Add removal notice to settings panel for panels to be removed;trivial
+Remove the functionality to mark rules as selected;trivial
+remove some unused references to RDF in cpp files;trivial
+The editor pane of debugger is not cleared (1px line remained) when the file is closed;trivial
+"Remove a few unnecessary #include ""nsCSSFrameConstructor.h""";trivial
+[FIX]const nsAFlatString& GetDocumentTitle() const. May return null. oh really?;trivial
+[FIX]NS_ScriptErrorReporter would use rv uninitialized if !message && !report;trivial
+"Action of setTimeout(""..."",Infinity) is inconsistent  between MS Win(timeout not fire) and Linux(timeout fires as if Infinity==0)";trivial
+In nsIMutationObserver.h, document how the user should attach observers;trivial
+typo in Console::ShouldIncludeStackrace method name;trivial
+BrowserTestUtils.waitForNewWindow parameter in dom/tests/browser/browser_noopener.js is wrong;trivial
+Add license boilerplates to xul-document-load reftests;trivial
+Remove unnecessary friend class mozilla::AutoRestore<bool> from nsContentUtils;trivial
+never show this dialog again may be too confusing for end user;trivial
+uncaught exception in dom/base/test/test_viewsource_forbidden_in_object.html;trivial
+remove new lines from the div class in the CC log;trivial
+nsDocument.cpp: remove bug 595708 workaround, obsoleted by bug 610936;trivial
+CSS2PropertiesBinding.h:141:1: warning: no newline at end of file [-pedantic,-Wnewline-eof];trivial
+src attribute on <style> makes styles not apply;trivial
+Replace IsNodeOfType(eHTML) checks with namespace checks;trivial
+"5,200 instances of ""NS_ENSURE_TRUE(domDoc && target) failed"" and associated warnings emitted from dom/base/nsContentUtils.cpp during linux64 debug testing";trivial
+Bug 590422 landed CR/LF changes in nsGlobalWindow.cpp;trivial
+nsScriptLoader should use nsRefPtr to hold nsScriptLoadRequest;trivial
+Fix test for 570341 to support keep-alive connections;trivial
+"The error message for incomplete image loading contains a grammar error (extra comma in ""The image cannot be displayed, because it contains errors"")";trivial
+Turn aFromParser, mParserCreated, etc. from PRUint32 + #defines into an enum;trivial
+Remove nsIScriptLoader.;trivial
+Remove nsIDOMDocumentRange;trivial
+Remove nsIDOMDocumentTraversal;trivial
+Remove nsIDOMDocumentEvent;trivial
+Various #include improvements;trivial
+Useless uses of PromiseFlat(C)String;trivial
+UseDB() result ignored when creating new nsDOMStorageItem;trivial
+"Object.getOwnPropertyDescriptor(NodeList.prototype, ""length"") throws";trivial
+Missing include guards in nsTimeRange class;trivial
+Should (content instanceof ChromeWindow) not be true?;trivial
+Typo in errNonSpaceInTable key of dom/chrome/layout/htmlparser.properties;trivial
+Error in errStrayStartTag key of dom/chrome/layout/htmlparser.properties;trivial
+Python code in dom/bindings should follow the flake8 convention;trivial
+Rename nsPLDOMEvent to nsAsyncDOMEvent;trivial
+"Incorrect error message for NS_ERROR_DOM_NOT_SUPPORTED_ERR: ""Object cannot be created in this context""";trivial
+optimization for 'rare' oom check;trivial
+There should be only one nsGkAtoms creature;trivial
+initialize mUsageDelta in nsInMemoryStorage()'s constructor;trivial
+nsAttrAndChildArray::GrowBy worries coverity;trivial
+nsCanvasRenderingContext2D::Restore checks to see if unsigned mSaveCount is negative;trivial
+nsSMILAnimationFunction::ScaleIntervalProgress Comparing unsigned less than zero is never true;trivial
+mEnabled is never used in CSPService;trivial
+useless check of !data.index in nsContentUtils::ReparentClonedObjectToScope;trivial
+"Script warning should use the brand name instead of ""mozilla""";trivial
+Remove special cases for expected test failures for control characters when parsing JSON;trivial
+"W3C DOM syntax: ""setDOMAttribute"" vs. ""setAttribute"" problem";trivial
+testing out combobox default hoarkage;trivial
+[CODE]DOM1 Errata: Should get rid of HTMLBlockquoteElement;trivial
+a.replaceChild(b, b) does not remove and re-insert the affected node;trivial
+IDB IDL files pull in jsapi.h when they want jspubtd.h;trivial
+Rename mContent -> mElement in implementations of nsIContentSerializer;trivial
+"!!! Object's nsIClassInfo lies about it's interfaces!!! s.b. ""its""";trivial
+Default mailto form subject should be localizable;trivial
+GetSubmissionFromForm caches the wrong doc;trivial
+[FIXr]contextmenu of about:config does not close when create a new preference name;trivial
+Remove unused method nsMouseWheelTransaction::IsAccelerationEnabled();trivial
+WARNING: NS_ENSURE_TRUE(aContent) failed: file nsFrameManager.cpp, line 346;trivial
+Don't include nsIFrameTraversal.h in content/events/src/nsEventStateManager.cpp;trivial
+Cursor blinks frenziedly when mouse sweeps over links;trivial
+Text zoom with scroll mouse doesn't obey minimum/maximum zoom properly (momentary exceed allowed);trivial
+warning: comma at end of enumerator list (nsTabFocusModel);trivial
+FORWARD_NULL deref of mPresContext in nsEventStateManager::GetEventTarget;trivial
+[console] uriloader must not print to console in opt builds;trivial
+ANSI disallows enum casts - make explicit in HistoryView.cpp;trivial
+"Toolbar widgets don't respond to a ""re-mouseover""";trivial
+table caption's title attribute does not pop up if mouse not over the text (but over the box);trivial
+home/end keys should not affect horizontal scrolling;trivial
+Caret browser dialogue box is potentially confusing to new users;trivial
+Alt+Space depresses focused checkbox or button, if focus is on checkbox or button;trivial
+`File' > `Save As...' should have 'A' as access key, not 'S';trivial
+Auxiliary Accesskeys Case Corrections;trivial
+Capitalize accesskey for Pro_p_ortional in fonts preferences;trivial
+Capitalize accesskey for Tex_t_ in colors preferences;trivial
+Capitalize accesskey for Downloa_d_ More in content packs prefs;trivial
+Capitalize accesskey for More Infor_m_ation in smart browsing preferences;trivial
+Capitalize accesskeys in forms preferences;trivial
+Capitalize accesskeys in cache preferences;trivial
+"'Reload Frame' has _second_ ""r"" as the underlined accessor key";trivial
+Remove shared modules from the shader editor, audio editor, and canvas.;trivial
+Remove some leftover references to RDF in comments of c-c;trivial
+MoofParser: Delete useless declaration;trivial
+Remove '=='/'!=' 'PR_FALSE'/'PR_TRUE';trivial
+Remove a useless UA sheet rule;trivial
+nsHTTP.cpp: Value stored to 'input' is never read;trivial
+Remove a note about <li value> style mapping that is no longer true;trivial
+De-dupe passwordmgr's `checkACForm` function;trivial
+Resurrect the display-contents-shadow-dom-1.html reftest as a WPT;trivial
+Fix wrong reference to 'netscape' in TB's filter string;trivial
+"UI confusing when check checkbox  ""Search for fix""";trivial
+softoken/sdb.c: Logically dead code;trivial
+File -> Upload File needs an access key;trivial
+Focused buttons in Debugger panel can't be pressed with Spacebar;trivial
+Use nextFile() when iterating nsIDirectoryEnumerator in JS of comm-central;trivial
+Port |Bug 232488 – importMsgs.properties cleanup (remove unused strings + fix capitalization)| to TB;trivial
+Remove NS_HIDDEN usage in comm-central?;trivial
+"1 last |#include ""MoreFilesExtras.h""| to remove";trivial
+Unused rv in nsMsgWindow::CloseWindow();trivial
+Store JS string buffers in the data heap;trivial
+"about:support ""ClearType Parameters"" duplicates";trivial
+Simplify rect.Inflate(someLength, someLength) calls to use single-param version;trivial
+Remove almost-unused EGLUtils.h;trivial
+Make spacing between member functions in CacheIR.h consistent;trivial
+webgl.perf.max-acceptable-fb-status-invals triggers without invalidation;trivial
+addrbookWidgets.xml file is empty;trivial
+remove some unneeded includes in mailnews/;trivial
+Developer tools debugger context menu shortcut missing plus char;trivial
+"""Copy Source Url"" should be changed to ""Copy Source URI""";trivial
+2 items look focused in 'Fonts' window on about:preferences#content;trivial
+Rename JS builtins into js/src/builtin;trivial
+Clang warns about unsequenced code in Pentium Pro workaround;trivial
+"""All Add-ons have been disabled in safe mode"" is misleading in safe mode";trivial
+generate-wrappers-and-manifest.py fails to run on macOS;trivial
+"NVDA Screen Reader doesn't read the ""Never"" option from doorhangers on hover, due to XBL anonymous content in popup-notification";trivial
+typo in SIGBUS / BUS_ADRALN annotation;trivial
+Resync' configure.in between comm-central (= comm-1.9.2) and mozilla-central;trivial
+configure.in: Remove some useless vars, mozilla-* ones are enough;trivial
+Clean up includes in content/media;trivial
+Port |Bug 513924 - remove tons of options from configure| to comm-central;trivial
+Remove --enable-boehm and related code from NSPR;trivial
+Remove webrender::prim_store::image::Image::sub_rect;trivial
+"Mozilla can't be built against system/vendor NSPR with ""nspr.pc"" configuration.";trivial
+Custom Title Bar corners are not transparent on Ubuntu 20.04;trivial
+Resize large images to fit in treeview instead of cropping;trivial
+Disable system titlebar by default on Linux;trivial
+Keep naming of the IMAP files consistent;trivial
+Focus outlines showing up in unwanted places;trivial
+[console] string must not print to console in opt builds;trivial
+bad define inside nsAFlatString.h;trivial
+spelling;trivial
+The gap in browser styles checkbox misses pointer events.;trivial
+"warning: ""/*"" within comment";trivial
