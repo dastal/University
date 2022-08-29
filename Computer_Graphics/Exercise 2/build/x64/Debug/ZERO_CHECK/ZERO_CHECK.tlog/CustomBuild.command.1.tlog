@@ -1,0 +1,10 @@
+^C:\USERS\DAS\DOCUMENTS\GITHUB\COMPUTER_GRAPHICS\EXERCISE 2\BUILD\CMAKEFILES\E9E3C32064A976B99D426327BEEEA723\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/das/Documents/GitHub/Computer_Graphics/Exercise 2" "-BC:/Users/das/Documents/GitHub/Computer_Graphics/Exercise 2/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/das/Documents/GitHub/Computer_Graphics/Exercise 2/build/glexample2.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

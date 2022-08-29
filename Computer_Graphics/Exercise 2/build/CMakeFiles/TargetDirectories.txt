@@ -1,0 +1,3 @@
+C:/Users/das/Documents/GitHub/Computer_Graphics/Exercise 2/build/CMakeFiles/glexample2.dir
+C:/Users/das/Documents/GitHub/Computer_Graphics/Exercise 2/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/das/Documents/GitHub/Computer_Graphics/Exercise 2/build/CMakeFiles/ZERO_CHECK.dir

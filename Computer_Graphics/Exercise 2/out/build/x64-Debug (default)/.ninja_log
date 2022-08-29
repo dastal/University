@@ -1,0 +1,8 @@
+# ninja log v5
+11	617	620061557	CMakeFiles/glexample2.dir/src/Cube.cpp.obj	15a683cf3bc210b1
+7	620	620061557	CMakeFiles/glexample2.dir/src/Shape.cpp.obj	621a979e923cd8af
+0	628	620061557	CMakeFiles/glexample2.dir/src/GLApp.cpp.obj	a0a9a37027d2a11d
+9	675	620061557	CMakeFiles/glexample2.dir/src/Cuboid.cpp.obj	ae4e5f62807fd4cc
+5	695	620061557	CMakeFiles/glexample2.dir/src/main.cpp.obj	8f96d507b346171
+3	708	620061557	CMakeFiles/glexample2.dir/src/GLExample.cpp.obj	10c9bfc6816cea
+708	1176	620061557	glexample2.exe	dccae96ed82c93c0

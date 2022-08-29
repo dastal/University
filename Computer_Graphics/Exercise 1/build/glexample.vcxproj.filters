@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\das\Documents\GitHub\Computer_Graphics\Exercise 1\src\GLApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\das\Documents\GitHub\Computer_Graphics\Exercise 1\src\GLExample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\das\Documents\GitHub\Computer_Graphics\Exercise 1\src\Model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\das\Documents\GitHub\Computer_Graphics\Exercise 1\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\das\Documents\GitHub\Computer_Graphics\Exercise 1\src\GLApp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\das\Documents\GitHub\Computer_Graphics\Exercise 1\src\GLExample.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\das\Documents\GitHub\Computer_Graphics\Exercise 1\src\GLIncludes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\das\Documents\GitHub\Computer_Graphics\Exercise 1\src\Model.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\das\Documents\GitHub\Computer_Graphics\Exercise 1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{8AEFC2AA-8CEB-331D-ABC7-3B6CF816357E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7727943F-DD34-31E3-AFFC-FBD3995A50C6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
