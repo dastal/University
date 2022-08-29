@@ -1,0 +1,97 @@
+note
+	description: "[
+		Eiffel tests that can be executed by testing tool.
+	]"
+	author: "EiffelStudio test wizard"
+	date: "$Date$"
+	revision: "$Revision$"
+	testing: "type/manual"
+
+class
+	TEST_TOPOLOGICAL_SORT
+
+inherit
+	EQA_TEST_SET
+		redefine
+			on_prepare
+		end
+
+feature {NONE} -- Events
+
+	on_prepare
+			-- <Precursor>
+		do
+			assert ("not_implemented", False)
+		end
+
+feature -- Test routines
+
+	TEST_ELEMENT_TC_16
+			-- Is e one of the elements to be topologically sorted?
+		note
+			testing:  "covers/{TOPOLOGICAL_SORT}"
+		local
+--			el1:ELEMENT
+		do
+--			has_element(e1)
+		end
+
+	TEST_ELEMENT_TC_17
+			-- adds + 1 to x in the successor_list, this means that x has one more successor
+		note
+			testing:  "covers/{TOPOLOGICAL_SORT}"
+		local
+--			x,y: INTEGER
+		do
+--			add_successor(x,y)
+		end
+
+	TEST_ELEMENT_TC_18
+			-- records the element to be topologically sorted
+		note
+			testing:  "covers/{TOPOLOGICAL_SORT}"
+		local
+--			e:STRING
+		do
+--			record_element(e)
+		end
+
+	TEST_ELEMENT_TC_19
+			-- Add the constaint[e,f] to the constraints for the topological sort
+		note
+			testing:  "covers/{TOPOLOGICAL_SORT}"
+		local
+--			e,f:STRING
+		do
+--			record_constraint(e,f:STRING)
+		end
+
+	TEST_ELEMENT_TC_20
+			--Insert into candidates any elements without predecessors.
+		note
+			testing:  "covers/{TOPOLOGICAL_SORT}"
+		do
+--			find_initial_candidates
+
+		end
+
+	TEST_ELEMENT_TC_21
+			--Make information about cycles available to clients
+		note
+			testing:  "covers/{TOPOLOGICAL_SORT}"
+		do
+--			report_cycles
+		end
+
+	TEST_ELEMENT_TC_22
+			-- the actual topological sort algorithm
+		note
+			testing:  "covers/{TOPOLOGICAL_SORT}"
+		local
+--			elements:LINKED_LIST[ELEMENT]
+--			constraints:LINKED_LIST[CONSTRAINT]
+		do
+--			process(elements, constraints)
+		end
+
+end

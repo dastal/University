@@ -1,0 +1,61 @@
+note
+	description: "[
+		Eiffel tests that can be executed by testing tool.
+	]"
+	author: "EiffelStudio test wizard"
+	date: "$Date$"
+	revision: "$Revision$"
+	testing: "type/manual"
+
+class
+	TEST_GRAPH
+
+inherit
+	EQA_TEST_SET
+		redefine
+			on_prepare
+		end
+
+feature {NONE} -- Events
+
+	on_prepare
+			-- <Precursor>
+		do
+			assert ("not_implemented", False)
+		end
+
+feature -- Test routines
+
+	TEST_ELEMENT_TC_23
+			-- choose either show_graph (1) or show_cycle feature (2)
+		note
+			testing:  "covers/{GRAPH}"
+		local
+--			constraint_list: LINKED_LIST[CONSTRAINT]
+--			list:LINKED_LIST[STRING]
+		do
+--			choose_graph(1, constraint_list)
+--			choose_graph(2, list)
+		end
+
+	TEST_ELEMENT_TC_24
+			-- graphical visualization of topological sort
+		note
+			testing:  "covers/{GRAPH}"
+		local
+--			list: LINKED_LIST[CONSTRAINT]
+		do
+--			show_graph(list)
+		end
+
+	TEST_ELEMENT_TC_25
+			-- graphical visualization of the cycle
+		note
+			testing:  "covers/{GRAPH}"
+		local
+--			list: LINKED_LIST[STRING]
+		do
+--			show_cycle(list)
+		end
+
+end

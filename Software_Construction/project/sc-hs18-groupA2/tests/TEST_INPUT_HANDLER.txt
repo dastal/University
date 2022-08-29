@@ -1,0 +1,37 @@
+note
+	description: "[
+		Eiffel tests that can be executed by testing tool.
+	]"
+	author: "EiffelStudio test wizard"
+	date: "$Date$"
+	revision: "$Revision$"
+	testing: "type/manual"
+
+class
+	TEST_INPUT_HANDLER
+
+inherit
+	EQA_TEST_SET
+		redefine
+			on_prepare
+		end
+
+feature {NONE} -- Events
+
+	on_prepare
+			-- <Precursor>
+		do
+			assert ("not_implemented", False)
+		end
+
+feature -- Test routines
+
+	TEST_INPUT_HANLDER_TC_01
+			-- read lines of elements and constraints from the console
+		note
+			testing:  "covers/{INPUT_HANDLER}"
+		do
+--			read_elements_and_constraints
+		end
+
+end

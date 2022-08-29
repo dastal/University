@@ -1,0 +1,93 @@
+
+topsort_project: system execution failed.
+Following is the set of recorded exceptions:
+
+******************************** Thread exception *****************************
+In thread           Root thread            0x0 (thread id)
+*******************************************************************************
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+LINKED_LIST         i_th @2                valid_index:                 
+<00000000047297C0>  (From CHAIN)           Precondition violated.        Fail
+-------------------------------------------------------------------------------
+ELEMENT_LIBRARY     loop_constraints @9                                 
+<0000000004729790>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ELEMENT_LIBRARY     run_example @8                                      
+<0000000004729790>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+INPUT_HANDLER       read_elements_and_constraints @87
+<0000000004729478>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+INPUT_HANDLER       input_start @7                                      
+<0000000004729478>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         make @1                                             
+<0000000004729448>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         root's creation                                     
+<0000000004729448>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+
+topsort_project: system execution failed.
+Following is the set of recorded exceptions:
+
+******************************** Thread exception *****************************
+In thread           Root thread            0x0 (thread id)
+*******************************************************************************
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+LINKED_LIST         i_th @2                valid_index:                 
+<000000000455F7C0>  (From CHAIN)           Precondition violated.        Fail
+-------------------------------------------------------------------------------
+ELEMENT_LIBRARY     loop_constraints @8                                 
+<000000000455F790>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ELEMENT_LIBRARY     run_example @8                                      
+<000000000455F790>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+INPUT_HANDLER       read_elements_and_constraints @87
+<000000000455F478>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+INPUT_HANDLER       input_start @7                                      
+<000000000455F478>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         make @1                                             
+<000000000455F448>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         root's creation                                     
+<000000000455F448>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+
+topsort_project: system execution failed.
+Following is the set of recorded exceptions:
+
+******************************** Thread exception *****************************
+In thread           Root thread            0x0 (thread id)
+*******************************************************************************
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+LINKED_LIST         i_th @2                valid_index:                 
+<00000000043E97C0>  (From CHAIN)           Precondition violated.        Fail
+-------------------------------------------------------------------------------
+ELEMENT_LIBRARY     loop_constraints @12                                
+<00000000043E9790>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ELEMENT_LIBRARY     run_example @8                                      
+<00000000043E9790>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+INPUT_HANDLER       read_elements_and_constraints @87
+<00000000043E9478>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+INPUT_HANDLER       input_start @7                                      
+<00000000043E9478>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         make @1                                             
+<00000000043E9448>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         root's creation                                     
+<00000000043E9448>                         Routine failure.              Exit
+-------------------------------------------------------------------------------

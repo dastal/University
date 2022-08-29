@@ -1,0 +1,1326 @@
+abstract	PACKET	make	F958_7104	C1\pa958.c
+abstract	PACKET	make_from_managed_pointer	F958_7105	C1\pa958.c
+abstract	PACKET	count	F958_7106	C1\pa958.c
+abstract	PACKET	element	F958_7107	C1\pa958.c
+abstract	PACKET	at	F958_7108	C1\pa958.c
+abstract	PACKET	valid_position	F958_7109	C1\pa958.c
+abstract	PACKET	put_element	F958_7110	C1\pa958.c
+abstract	PACKET	is_equal	F958_7111	C1\pa958.c
+abstract	PACKET	copy	F958_7112	C1\pa958.c
+abstract	PACKET	data	F958_7113	C1\pa958.c
+topsort_project	GRAPH [INTEGER_32]	choose_graph	F1035_7114	C3\gr1035.c
+topsort_project	GRAPH [INTEGER_32]	show_graph	F1035_7115	C3\gr1035.c
+topsort_project	GRAPH [INTEGER_32]	show_cycle	F1035_7116	C3\gr1035.c
+time	C_DATE	default_create	F960_7119	C1\c_960.c
+time	C_DATE	make_utc	F960_7120	C1\c_960.c
+time	C_DATE	is_utc	F960_7121	C1\c_960.c
+time	C_DATE	update	F960_7122	C1\c_960.c
+time	C_DATE	year_now	F960_7123	C1\c_960.c
+time	C_DATE	month_now	F960_7124	C1\c_960.c
+time	C_DATE	day_now	F960_7125	C1\c_960.c
+time	C_DATE	hour_now	F960_7126	C1\c_960.c
+time	C_DATE	minute_now	F960_7127	C1\c_960.c
+time	C_DATE	second_now	F960_7128	C1\c_960.c
+time	C_DATE	millisecond_now	F960_7129	C1\c_960.c
+time	C_DATE	microseconds_now	F960_7130	C1\c_960.c
+time	C_DATE	gettimeofday	F960_7131	C1\c_960.c
+time	C_DATE	timeval_structure_size	F960_7132	C1\c_960.c
+time	C_DATE	time_t_structure_size	F960_7133	C1\c_960.c
+time	C_DATE	tm_structure_size	F960_7134	C1\c_960.c
+time	C_DATE	get_time	F960_7135	C1\c_960.c
+time	C_DATE	get_micro	F960_7136	C1\c_960.c
+time	C_DATE	internal_item	F960_7137	C1\c_960.c
+time	C_DATE	localtime	F960_7138	C1\c_960.c
+time	C_DATE	gmtime	F960_7139	C1\c_960.c
+time	C_DATE	get_tm_year	F960_7140	C1\c_960.c
+time	C_DATE	get_tm_mon	F960_7141	C1\c_960.c
+time	C_DATE	get_tm_mday	F960_7142	C1\c_960.c
+time	C_DATE	get_tm_hour	F960_7143	C1\c_960.c
+time	C_DATE	get_tm_min	F960_7144	C1\c_960.c
+time	C_DATE	get_tm_sec	F960_7145	C1\c_960.c
+testing	EQA_SYSTEM_PATH	make_empty	F961_7146	C1\eq961.c
+testing	EQA_SYSTEM_PATH	make	F961_7147	C1\eq961.c
+testing	EQA_SYSTEM_PATH	make_from_path	F961_7148	C1\eq961.c
+testing	EQA_SYSTEM_PATH	make_from_path_object	F961_7149	C1\eq961.c
+testing	EQA_SYSTEM_PATH	count	F961_7150	C1\eq961.c
+testing	EQA_SYSTEM_PATH	item	F961_7151	C1\eq961.c
+testing	EQA_SYSTEM_PATH	at	F961_7152	C1\eq961.c
+testing	EQA_SYSTEM_PATH	items	F961_7153	C1\eq961.c
+testing	EQA_SYSTEM_PATH	is_empty	F961_7154	C1\eq961.c
+testing	EQA_SYSTEM_PATH	is_equal	F961_7155	C1\eq961.c
+testing	EQA_SYSTEM_PATH	is_valid_name	F961_7156	C1\eq961.c
+testing	EQA_SYSTEM_PATH	has_valid_names	F961_7157	C1\eq961.c
+testing	EQA_SYSTEM_PATH	extend	F961_7158	C1\eq961.c
+testing	EQA_SYSTEM_PATH	default_names_count	F961_7159	C1\eq961.c
+topsort_project	TOPOLOGICAL_SORT [INTEGER_32]	done	F1034_7160	C3\to1034.c
+topsort_project	TOPOLOGICAL_SORT [INTEGER_32]	count	F1034_7161	C3\to1034.c
+topsort_project	TOPOLOGICAL_SORT [INTEGER_32]	index_of_element	F1034_7162	C3\to1034.c
+topsort_project	TOPOLOGICAL_SORT [INTEGER_32]	element_of_index	F1034_7163	C3\to1034.c
+topsort_project	TOPOLOGICAL_SORT [INTEGER_32]	successors	F1034_7164	C3\to1034.c
+topsort_project	TOPOLOGICAL_SORT [INTEGER_32]	predecessor_count	F1034_7165	C3\to1034.c
+topsort_project	TOPOLOGICAL_SORT [INTEGER_32]	candidates	F1034_7166	C3\to1034.c
+topsort_project	TOPOLOGICAL_SORT [INTEGER_32]	cycle_list	F1034_7167	C3\to1034.c
+topsort_project	TOPOLOGICAL_SORT [INTEGER_32]	cycle_found	F1034_7168	C3\to1034.c
+topsort_project	TOPOLOGICAL_SORT [INTEGER_32]	sorted	F1034_7169	C3\to1034.c
+topsort_project	TOPOLOGICAL_SORT [INTEGER_32]	processed_count	F1034_7170	C3\to1034.c
+topsort_project	TOPOLOGICAL_SORT [INTEGER_32]	has_element	F1034_7171	C3\to1034.c
+topsort_project	TOPOLOGICAL_SORT [INTEGER_32]	add_successor	F1034_7172	C3\to1034.c
+topsort_project	TOPOLOGICAL_SORT [INTEGER_32]	record_element	F1034_7173	C3\to1034.c
+topsort_project	TOPOLOGICAL_SORT [INTEGER_32]	record_constraint	F1034_7174	C3\to1034.c
+topsort_project	TOPOLOGICAL_SORT [INTEGER_32]	find_initial_candidates	F1034_7175	C3\to1034.c
+topsort_project	TOPOLOGICAL_SORT [INTEGER_32]	report_cycles	F1034_7176	C3\to1034.c
+topsort_project	TOPOLOGICAL_SORT [INTEGER_32]	process	F1034_7177	C3\to1034.c
+topsort_project	TOPOLOGICAL_SORT [INTEGER_32]	reset	F1034_7178	C3\to1034.c
+topsort_project	CONSTRAINT	make	F962_7179	C1\co962.c
+topsort_project	CONSTRAINT	el_1	F962_7180	C1\co962.c
+topsort_project	CONSTRAINT	el_2	F962_7181	C1\co962.c
+topsort_project	ELEMENT	make	F963_7182	C1\el963.c
+topsort_project	ELEMENT	name	F963_7183	C1\el963.c
+testing	EQA_TEST_INVOCATION_RESPONSE	make	F964_7184	C1\eq964.c
+testing	EQA_TEST_INVOCATION_RESPONSE	make_exceptional	F964_7185	C1\eq964.c
+testing	EQA_TEST_INVOCATION_RESPONSE	exception	F964_7186	C1\eq964.c
+testing	EQA_TEST_INVOCATION_RESPONSE	internal_exception	F964_7187	C1\eq964.c
+testing	EQA_TEST_INVOCATION_RESPONSE	is_exceptional	F964_7188	C1\eq964.c
+testing	EQA_FILE_SYSTEM	make	F965_7189	C1\eq965.c
+testing	EQA_FILE_SYSTEM	asserter	F965_7190	C1\eq965.c
+testing	EQA_FILE_SYSTEM	copy_file	F965_7191	C1\eq965.c
+testing	EQA_FILE_SYSTEM	build_path	F965_7192	C1\eq965.c
+testing	EQA_FILE_SYSTEM	build_path_from_key	F965_7193	C1\eq965.c
+testing	EQA_FILE_SYSTEM	build_source_path	F965_7194	C1\eq965.c
+testing	EQA_FILE_SYSTEM	build_target_path	F965_7195	C1\eq965.c
+testing	EQA_FILE_SYSTEM	has_same_content_as_string	F965_7196	C1\eq965.c
+testing	EQA_FILE_SYSTEM	has_same_content_as_path	F965_7197	C1\eq965.c
+testing	EQA_FILE_SYSTEM	executable_file_exists	F965_7198	C1\eq965.c
+testing	EQA_FILE_SYSTEM	build_partial_path	F965_7199	C1\eq965.c
+testing	EQA_FILE_SYSTEM	delete_directory_tree	F965_7200	C1\eq965.c
+testing	EQA_FILE_SYSTEM	assert	F965_7201	C1\eq965.c
+testing	EQA_FILE_SYSTEM	source_directory_key	F965_7202	C1\eq965.c
+testing	EQA_FILE_SYSTEM	target_directory_key	F965_7203	C1\eq965.c
+testing	EQA_ASSERTIONS	assert	F966_7204	C1\eq966.c
+testing	EQA_ASSERTIONS	disassert	F966_7205	C1\eq966.c
+testing	EQA_ASSERTIONS	on_violation	F966_7206	C1\eq966.c
+testing	EQA_ASSERTIONS	on_satisfaction	F966_7207	C1\eq966.c
+testing	EQA_ASSERTIONS	last_assertion_failed	F966_7208	C1\eq966.c
+topsort_project	ELEMENT_LIBRARY [INTEGER_32]	ele_lib	F1033_7209	C3\el1033.c
+topsort_project	ELEMENT_LIBRARY [INTEGER_32]	transfer	F1033_7210	C3\el1033.c
+topsort_project	ELEMENT_LIBRARY [INTEGER_32]	add_element	F1033_7211	C3\el1033.c
+topsort_project	ELEMENT_LIBRARY [INTEGER_32]	add_constraint	F1033_7212	C3\el1033.c
+topsort_project	ELEMENT_LIBRARY [INTEGER_32]	list_index	F1033_7213	C3\el1033.c
+topsort_project	ELEMENT_LIBRARY [INTEGER_32]	add_elements_input	F1033_7214	C3\el1033.c
+topsort_project	ELEMENT_LIBRARY [INTEGER_32]	add_constraints_input	F1033_7215	C3\el1033.c
+topsort_project	ELEMENT_LIBRARY [INTEGER_32]	i	F1033_7216	C3\el1033.c
+topsort_project	ELEMENT_LIBRARY [INTEGER_32]	loop_elements	F1033_7217	C3\el1033.c
+topsort_project	ELEMENT_LIBRARY [INTEGER_32]	loop_constraints	F1033_7218	C3\el1033.c
+topsort_project	ELEMENT_LIBRARY [INTEGER_32]	example_1	F1033_7219	C3\el1033.c
+topsort_project	ELEMENT_LIBRARY [INTEGER_32]	example_2	F1033_7220	C3\el1033.c
+topsort_project	ELEMENT_LIBRARY [INTEGER_32]	print_copys	F1033_7221	C3\el1033.c
+topsort_project	ELEMENT_LIBRARY [INTEGER_32]	run_example	F1033_7222	C3\el1033.c
+topsort_project	ELEMENT_LIBRARY [INTEGER_32]	all_elements	F1033_7223	C3\el1033.c
+topsort_project	ELEMENT_LIBRARY [INTEGER_32]	all_constraints	F1033_7224	C3\el1033.c
+topsort_project	ELEMENT_LIBRARY [INTEGER_32]	constraints_found	F1033_7225	C3\el1033.c
+topsort_project	ELEMENT_LIBRARY [INTEGER_32]	amount_found	F1033_7226	C3\el1033.c
+topsort_project	ELEMENT_LIBRARY [INTEGER_32]	input_element	F1033_7227	C3\el1033.c
+topsort_project	ELEMENT_LIBRARY [INTEGER_32]	input_constraint_first	F1033_7228	C3\el1033.c
+topsort_project	ELEMENT_LIBRARY [INTEGER_32]	input_constraint_second	F1033_7229	C3\el1033.c
+topsort_project	ELEMENT_LIBRARY [INTEGER_32]	element_in_list	F1033_7230	C3\el1033.c
+topsort_project	ELEMENT_LIBRARY [INTEGER_32]	constraint_in_list	F1033_7231	C3\el1033.c
+testing	EQA_ENVIRONMENT	item	F967_7232	C1\eq967.c
+testing	EQA_ENVIRONMENT	item_attached	F967_7233	C1\eq967.c
+testing	EQA_ENVIRONMENT	item_not_empty	F967_7234	C1\eq967.c
+testing	EQA_ENVIRONMENT	get	F967_7235	C1\eq967.c
+testing	EQA_ENVIRONMENT	get_attached	F967_7236	C1\eq967.c
+testing	EQA_ENVIRONMENT	get_not_empty	F967_7237	C1\eq967.c
+testing	EQA_ENVIRONMENT	table	F967_7238	C1\eq967.c
+testing	EQA_ENVIRONMENT	put	F967_7239	C1\eq967.c
+testing	EQA_ENVIRONMENT	reset	F967_7240	C1\eq967.c
+testing	EQA_ENVIRONMENT	is_identifier_char	F967_7241	C1\eq967.c
+testing	EQA_ENVIRONMENT	substitute_recursive	F967_7242	C1\eq967.c
+testing	EQA_ENVIRONMENT	substitute	F967_7243	C1\eq967.c
+testing	EQA_ENVIRONMENT	default_table_size	F967_7244	C1\eq967.c
+testing	EQA_ENVIRONMENT	substitute_char	F967_7245	C1\eq967.c
+testing	EQA_ENVIRONMENT	left_group_char	F967_7246	C1\eq967.c
+testing	EQA_ENVIRONMENT	right_group_char	F967_7247	C1\eq967.c
+topsort_project	INPUT_HANDLER [INTEGER_32]	trf	F1032_7248	C3\in1032.c
+topsort_project	INPUT_HANDLER [INTEGER_32]	input_start	F1032_7249	C3\in1032.c
+topsort_project	INPUT_HANDLER [INTEGER_32]	read_elements_and_constraints	F1032_7250	C3\in1032.c
+topsort_project	INPUT_HANDLER [INTEGER_32]	elements_for_input	F1032_7251	C3\in1032.c
+topsort_project	INPUT_HANDLER [INTEGER_32]	constraints_first_element	F1032_7252	C3\in1032.c
+topsort_project	INPUT_HANDLER [INTEGER_32]	constraints_second_element	F1032_7253	C3\in1032.c
+topsort_project	INPUT_HANDLER [INTEGER_32]	constraint_remove_first_element	F1032_7254	C3\in1032.c
+topsort_project	INPUT_HANDLER [INTEGER_32]	constraint_remove_second_element	F1032_7255	C3\in1032.c
+time	DATE_TIME_TOOLS	name	F969_7264	C1\da969.c
+time	DATE_TIME_TOOLS	days_text	F969_7265	C1\da969.c
+time	DATE_TIME_TOOLS	months_text	F969_7266	C1\da969.c
+time	DATE_TIME_TOOLS	long_days_text	F969_7267	C1\da969.c
+time	DATE_TIME_TOOLS	long_months_text	F969_7268	C1\da969.c
+time	DATE_TIME_TOOLS	date_default_format_string	F969_7269	C1\da969.c
+time	DATE_TIME_TOOLS	time_default_format_string	F969_7270	C1\da969.c
+time	DATE_TIME_TOOLS	default_format_string	F969_7271	C1\da969.c
+abstract	SOCKET_ADDRESS	make	F971_7277	C1\so971.c
+abstract	SOCKET_ADDRESS	make_from_separate	F971_7278	C1\so971.c
+abstract	SOCKET_ADDRESS	socket_address	F971_7279	C1\so971.c
+abstract	SOCKET_ADDRESS	count	F971_7280	C1\so971.c
+abstract	SOCKET_ADDRESS	is_equal	F971_7281	C1\so971.c
+abstract	SOCKET_ADDRESS	family	F971_7282	C1\so971.c
+abstract	SOCKET_ADDRESS	set_family	F971_7283	C1\so971.c
+abstract	SOCKET_ADDRESS	copy	F971_7284	C1\so971.c
+abstract	SOCKET_ADDRESS	address_size	F971_7285	C1\so971.c
+abstract	SOCKET_ADDRESS	set_sock_family	F971_7286	C1\so971.c
+abstract	SOCKET_ADDRESS	get_sock_family	F971_7287	C1\so971.c
+abstract	SOCKET_ADDRESS	set_sock_data	F971_7288	C1\so971.c
+abstract	SOCKET_ADDRESS	get_sock_data	F971_7289	C1\so971.c
+abstract	SOCKET_TIMEOUT_UTILITIES	one_second_in_nanoseconds	F972_7290	C1\so972.c
+abstract	SOCKET_TIMEOUT_UTILITIES	max_timeout_ns_value	F972_7291	C1\so972.c
+abstract	SOCKET_TIMEOUT_UTILITIES	nanoseconds_to_seconds	F972_7292	C1\so972.c
+abstract	SOCKET_TIMEOUT_UTILITIES	seconds_to_nanoseconds	F972_7293	C1\so972.c
+abstract	SOCKET_TIMEOUT_UTILITIES	is_valid_timeout_ns	F972_7294	C1\so972.c
+network	ADDRINFO	af_inet	F973_7295	C1\ad973.c
+network	ADDRINFO	af_inet6	F973_7296	C1\ad973.c
+etf	ITP_SHARED_CONSTANTS	start_request_flag	F974_7305	C1\it974.c
+etf	ITP_SHARED_CONSTANTS	quit_request_flag	F974_7306	C1\it974.c
+etf	ITP_SHARED_CONSTANTS	execute_request_flag	F974_7307	C1\it974.c
+etf	ITP_SHARED_CONSTANTS	type_request_flag	F974_7308	C1\it974.c
+etf	ITP_SHARED_CONSTANTS	normal_response_flag	F974_7309	C1\it974.c
+etf	ITP_SHARED_CONSTANTS	invariant_violation_on_entry_response_flag	F974_7310	C1\it974.c
+etf	ITP_SHARED_CONSTANTS	internal_error_respones_flag	F974_7311	C1\it974.c
+testing	EQA_TEST_SET	default_create	F975_7312	C1\eq975.c
+testing	EQA_TEST_SET	asserter	F975_7313	C1\eq975.c
+testing	EQA_TEST_SET	file_system	F975_7314	C1\eq975.c
+testing	EQA_TEST_SET	environment	F975_7315	C1\eq975.c
+testing	EQA_TEST_SET	current_test_name	F975_7316	C1\eq975.c
+testing	EQA_TEST_SET	is_prepared	F975_7317	C1\eq975.c
+testing	EQA_TEST_SET	has_failed	F975_7318	C1\eq975.c
+testing	EQA_TEST_SET	set_asserter	F975_7319	C1\eq975.c
+testing	EQA_TEST_SET	clean	F975_7320	C1\eq975.c
+testing	EQA_TEST_SET	assert_32	F975_7321	C1\eq975.c
+testing	EQA_TEST_SET	assert	F975_7322	C1\eq975.c
+testing	EQA_TEST_SET	on_prepare	F975_7323	C1\eq975.c
+testing	EQA_TEST_SET	on_clean	F975_7324	C1\eq975.c
+testing	EQA_TEST_SET	internal_asserter	F975_7325	C1\eq975.c
+testing	EQA_TEST_SET	new_asserter	F975_7326	C1\eq975.c
+testing	EQA_TEST_SET	new_file_system	F975_7327	C1\eq975.c
+testing	EQA_TEST_SET	test_name_key	F975_7328	C1\eq975.c
+testing	EQA_TEST_SET	testing_directory_key	F975_7329	C1\eq975.c
+testing	EQA_TEST_SET	target_path_key	F975_7330	C1\eq975.c
+testing	EQA_TEST_SET	source_path_key	F975_7331	C1\eq975.c
+topsort_project	TEST_ELEMENT_LIBRARY	el1	F976_7332	C1\te976.c
+topsort_project	TEST_ELEMENT_LIBRARY	el2	F976_7333	C1\te976.c
+topsort_project	TEST_ELEMENT_LIBRARY	el3	F976_7334	C1\te976.c
+topsort_project	TEST_ELEMENT_LIBRARY	constr1	F976_7335	C1\te976.c
+topsort_project	TEST_ELEMENT_LIBRARY	constr2	F976_7336	C1\te976.c
+topsort_project	TEST_ELEMENT_LIBRARY	some_elements	F976_7337	C1\te976.c
+topsort_project	TEST_ELEMENT_LIBRARY	some_constraints	F976_7338	C1\te976.c
+topsort_project	TEST_ELEMENT_LIBRARY	element_string	F976_7339	C1\te976.c
+topsort_project	TEST_ELEMENT_LIBRARY	constraint_first_string	F976_7340	C1\te976.c
+topsort_project	TEST_ELEMENT_LIBRARY	constraint_second_sring	F976_7341	C1\te976.c
+topsort_project	TEST_ELEMENT_LIBRARY	a	F976_7342	C1\te976.c
+topsort_project	TEST_ELEMENT_LIBRARY	b	F976_7343	C1\te976.c
+topsort_project	TEST_ELEMENT_LIBRARY	c	F976_7344	C1\te976.c
+topsort_project	TEST_ELEMENT_LIBRARY	d	F976_7345	C1\te976.c
+topsort_project	TEST_ELEMENT_LIBRARY	e	F976_7346	C1\te976.c
+topsort_project	TEST_ELEMENT_LIBRARY	f	F976_7347	C1\te976.c
+topsort_project	TEST_ELEMENT_LIBRARY	on_prepare	F976_7348	C1\te976.c
+topsort_project	TEST_ELEMENT_LIBRARY	tc_transfer	F976_7349	C1\te976.c
+topsort_project	TEST_ELEMENT_LIBRARY	tc_add_element	F976_7350	C1\te976.c
+topsort_project	TEST_ELEMENT_LIBRARY	tc_add_constraint	F976_7351	C1\te976.c
+topsort_project	TEST_ELEMENT_LIBRARY	tc_add_multiple_elements	F976_7352	C1\te976.c
+topsort_project	TEST_ELEMENT_LIBRARY	tc_add_multiple_constraints	F976_7353	C1\te976.c
+topsort_project	TEST_ELEMENT_LIBRARY	tc_add_elements_input	F976_7354	C1\te976.c
+topsort_project	TEST_ELEMENT_LIBRARY	tc_add_constraints_input	F976_7355	C1\te976.c
+topsort_project	TEST_ELEMENT_LIBRARY	tc_remove_element	F976_7356	C1\te976.c
+topsort_project	TEST_ELEMENT_LIBRARY	tc_remove_constraint	F976_7357	C1\te976.c
+topsort_project	TEST_ELEMENT_LIBRARY	tc_remove_constraints_containing_default	F976_7358	C1\te976.c
+time	CODE_VALIDITY_CHECKER	is_code	F977_7359	C1\co977.c
+time	CODE_VALIDITY_CHECKER	is_day	F977_7360	C1\co977.c
+time	CODE_VALIDITY_CHECKER	is_day0	F977_7361	C1\co977.c
+time	CODE_VALIDITY_CHECKER	is_day_text	F977_7362	C1\co977.c
+time	CODE_VALIDITY_CHECKER	is_year4	F977_7363	C1\co977.c
+time	CODE_VALIDITY_CHECKER	is_year2	F977_7364	C1\co977.c
+time	CODE_VALIDITY_CHECKER	is_month	F977_7365	C1\co977.c
+time	CODE_VALIDITY_CHECKER	is_month0	F977_7366	C1\co977.c
+time	CODE_VALIDITY_CHECKER	is_month_text	F977_7367	C1\co977.c
+time	CODE_VALIDITY_CHECKER	is_hour	F977_7368	C1\co977.c
+time	CODE_VALIDITY_CHECKER	is_hour0	F977_7369	C1\co977.c
+time	CODE_VALIDITY_CHECKER	is_hour12	F977_7370	C1\co977.c
+time	CODE_VALIDITY_CHECKER	is_hour12_0	F977_7371	C1\co977.c
+time	CODE_VALIDITY_CHECKER	is_minute	F977_7372	C1\co977.c
+time	CODE_VALIDITY_CHECKER	is_minute0	F977_7373	C1\co977.c
+time	CODE_VALIDITY_CHECKER	is_second	F977_7374	C1\co977.c
+time	CODE_VALIDITY_CHECKER	is_second0	F977_7375	C1\co977.c
+time	CODE_VALIDITY_CHECKER	is_fractional_second	F977_7376	C1\co977.c
+time	CODE_VALIDITY_CHECKER	is_colon	F977_7377	C1\co977.c
+time	CODE_VALIDITY_CHECKER	is_slash	F977_7378	C1\co977.c
+time	CODE_VALIDITY_CHECKER	is_minus	F977_7379	C1\co977.c
+time	CODE_VALIDITY_CHECKER	is_comma	F977_7380	C1\co977.c
+time	CODE_VALIDITY_CHECKER	is_space	F977_7381	C1\co977.c
+time	CODE_VALIDITY_CHECKER	is_dot	F977_7382	C1\co977.c
+time	CODE_VALIDITY_CHECKER	is_separator	F977_7383	C1\co977.c
+time	CODE_VALIDITY_CHECKER	is_meridiem	F977_7384	C1\co977.c
+time	TIME_UTILITY	mod	F978_7385	C1\ti978.c
+time	TIME_UTILITY	div	F978_7386	C1\ti978.c
+time	TIME_UTILITY	date_time_tools	F978_7387	C1\ti978.c
+time	TIME_UTILITY	default_format_string	F978_7388	C1\ti978.c
+time	TIME_CONSTANTS	seconds_in_minute	F979_7389	C1\ti979.c
+time	TIME_CONSTANTS	seconds_in_hour	F979_7390	C1\ti979.c
+time	TIME_CONSTANTS	seconds_in_day	F979_7391	C1\ti979.c
+time	TIME_CONSTANTS	minutes_in_hour	F979_7392	C1\ti979.c
+time	TIME_CONSTANTS	hours_in_day	F979_7393	C1\ti979.c
+time	TIME_CONSTANTS	time_default_format_string	F979_7394	C1\ti979.c
+time	TIME_VALUE	hour	F981_7404	C1\ti981.c
+time	TIME_VALUE	minute	F981_7405	C1\ti981.c
+time	TIME_VALUE	second	F981_7406	C1\ti981.c
+time	TIME_VALUE	fractional_second	F981_7407	C1\ti981.c
+time	TIME_VALUE	compact_time	F981_7408	C1\ti981.c
+time	TIME_VALUE	fine_second	F981_7409	C1\ti981.c
+time	TIME_VALUE	milli_second	F981_7410	C1\ti981.c
+time	TIME_VALUE	micro_second	F981_7411	C1\ti981.c
+time	TIME_VALUE	nano_second	F981_7412	C1\ti981.c
+time	TIME_VALUE	set_hour	F981_7413	C1\ti981.c
+time	TIME_VALUE	set_minute	F981_7414	C1\ti981.c
+time	TIME_VALUE	set_second	F981_7415	C1\ti981.c
+time	TIME_VALUE	set_fine_second	F981_7416	C1\ti981.c
+time	TIME_VALUE	set_fractionals	F981_7417	C1\ti981.c
+time	TIME_VALUE	hour_mask	F981_7418	C1\ti981.c
+time	TIME_VALUE	minute_mask	F981_7419	C1\ti981.c
+time	TIME_VALUE	second_mask	F981_7420	C1\ti981.c
+time	TIME_VALUE	hour_shift	F981_7421	C1\ti981.c
+time	TIME_VALUE	minute_shift	F981_7422	C1\ti981.c
+time	DATE_CONSTANTS	days_in_week	F982_7423	C1\da982.c
+time	DATE_CONSTANTS	max_weeks_in_year	F982_7424	C1\da982.c
+time	DATE_CONSTANTS	months_in_year	F982_7425	C1\da982.c
+time	DATE_CONSTANTS	days_in_leap_year	F982_7426	C1\da982.c
+time	DATE_CONSTANTS	days_in_non_leap_year	F982_7427	C1\da982.c
+time	DATE_CONSTANTS	days_in_i_th_month	F982_7428	C1\da982.c
+time	DATE_CONSTANTS	date_default_format_string	F982_7429	C1\da982.c
+time	DATE_CONSTANTS	days_text	F982_7430	C1\da982.c
+time	DATE_CONSTANTS	months_text	F982_7431	C1\da982.c
+time	DATE_CONSTANTS	long_days_text	F982_7432	C1\da982.c
+time	DATE_CONSTANTS	long_months_text	F982_7433	C1\da982.c
+time	DATE_CONSTANTS	i_th_leap_year	F982_7434	C1\da982.c
+time	DATE_CONSTANTS	is_leap_year	F982_7435	C1\da982.c
+time	DATE_CONSTANTS	days_in_months	F982_7436	C1\da982.c
+time	DATE_MEASUREMENT	days_in_month	F983_7444	C1\da983.c
+time	DATE_TIME_MEASUREMENT	year	F984_7447	C1\da984.c
+time	DATE_TIME_MEASUREMENT	month	F984_7448	C1\da984.c
+time	DATE_TIME_MEASUREMENT	day	F984_7449	C1\da984.c
+time	DATE_TIME_MEASUREMENT	hour	F984_7450	C1\da984.c
+time	DATE_TIME_MEASUREMENT	minute	F984_7451	C1\da984.c
+time	DATE_TIME_MEASUREMENT	second	F984_7452	C1\da984.c
+time	DATE_TIME_MEASUREMENT	fine_second	F984_7453	C1\da984.c
+time	DATE_TIME_VALUE	date	F985_7454	C1\da985.c
+time	DATE_TIME_VALUE	time	F985_7455	C1\da985.c
+time	DATE_TIME_VALUE	fractional_second	F985_7456	C1\da985.c
+network	INET_PROPERTIES	is_ipv6_available	F987_7458	C1\in987.c
+network	INET_PROPERTIES	is_ipv4_stack_preferred	F987_7459	C1\in987.c
+network	INET_PROPERTIES	set_ipv4_stack_preferred	F987_7460	C1\in987.c
+network	INET_ADDRESS_IMPL_V6	local_host_name	F989_7464	C1\in989.c
+network	INET_ADDRESS_IMPL_V6	any_local_address	F989_7465	C1\in989.c
+network	INET_ADDRESS_IMPL_V6	loopback_address	F989_7466	C1\in989.c
+network	INET_ADDRESS_IMPL_V6	get_local_host_name	F989_7467	C1\in989.c
+network	INET_ADDRESS_IMPL_V4	local_host_name	F990_7468	C2\in990.c
+network	INET_ADDRESS_IMPL_V4	any_local_address	F990_7469	C2\in990.c
+network	INET_ADDRESS_IMPL_V4	loopback_address	F990_7470	C2\in990.c
+network	INET_ADDRESS_IMPL_V4	get_local_host_name	F990_7471	C2\in990.c
+etf	ERL_CONSTANTS	none_type_name	F991_7472	C2\er991.c
+etf	ITP_CONSTANT	make	F992_7473	C2\it992.c
+etf	ITP_CONSTANT	value	F992_7474	C2\it992.c
+etf	ITP_CONSTANT	type_name	F992_7475	C2\it992.c
+etf	ITP_CONSTANT	process	F992_7476	C2\it992.c
+network	INET_ADDRESS	ipv4	F993_7477	C2\in993.c
+network	INET_ADDRESS	ipv6	F993_7478	C2\in993.c
+network	INET_ADDRESS	family	F993_7479	C2\in993.c
+network	INET_ADDRESS	is_equivalent	F993_7480	C2\in993.c
+network	INET_ADDRESS	host_name	F993_7490	C2\in993.c
+network	INET_ADDRESS	internal_host_name	F993_7494	C2\in993.c
+network	INET_ADDRESS	sockaddr_size	F993_7495	C2\in993.c
+network	INET6_ADDRESS	inaddrsz	F994_7496	C2\in994.c
+network	INET6_ADDRESS	make_from_host_and_address	F994_7497	C2\in994.c
+network	INET6_ADDRESS	make_from_host_and_address_and_interface_name	F994_7498	C2\in994.c
+network	INET6_ADDRESS	make_from_host_and_address_and_scope	F994_7499	C2\in994.c
+network	INET6_ADDRESS	make_from_host_and_pointer	F994_7500	C2\in994.c
+network	INET6_ADDRESS	host_address	F994_7501	C2\in994.c
+network	INET6_ADDRESS	is_multicast_address	F994_7502	C2\in994.c
+network	INET6_ADDRESS	is_any_local_address	F994_7503	C2\in994.c
+network	INET6_ADDRESS	is_loopback_address	F994_7504	C2\in994.c
+network	INET6_ADDRESS	is_link_local_address	F994_7505	C2\in994.c
+network	INET6_ADDRESS	is_site_local_address	F994_7506	C2\in994.c
+network	INET6_ADDRESS	is_mc_global	F994_7507	C2\in994.c
+network	INET6_ADDRESS	is_mc_node_local	F994_7508	C2\in994.c
+network	INET6_ADDRESS	is_mc_link_local	F994_7509	C2\in994.c
+network	INET6_ADDRESS	is_mc_site_local	F994_7510	C2\in994.c
+network	INET6_ADDRESS	is_mc_org_local	F994_7511	C2\in994.c
+network	INET6_ADDRESS	raw_address	F994_7512	C2\in994.c
+network	INET6_ADDRESS	sockaddr	F994_7513	C2\in994.c
+network	INET6_ADDRESS	the_address	F994_7514	C2\in994.c
+network	INET6_ADDRESS	the_scope_id	F994_7515	C2\in994.c
+network	INET6_ADDRESS	the_scope_ifname	F994_7516	C2\in994.c
+network	INET6_ADDRESS	is_scope_ifname_set	F994_7517	C2\in994.c
+network	INET6_ADDRESS	is_scope_id_set	F994_7518	C2\in994.c
+network	INET6_ADDRESS	numeric_to_text	F994_7519	C2\in994.c
+network	INET6_ADDRESS	fill_ipv6	F994_7520	C2\in994.c
+network	INET6_ADDRESS	c_sockaddr_get_ipv6_address	F994_7521	C2\in994.c
+network	INET6_ADDRESS	c_sockaddr_get_ipv6_address_scope	F994_7522	C2\in994.c
+network	INET6_ADDRESS	c_get_addr_element	F994_7523	C2\in994.c
+network	INET4_ADDRESS	inaddrsz	F995_7524	C2\in995.c
+network	INET4_ADDRESS	make_from_host_and_address	F995_7525	C2\in995.c
+network	INET4_ADDRESS	make_from_host_and_pointer	F995_7526	C2\in995.c
+network	INET4_ADDRESS	host_address	F995_7527	C2\in995.c
+network	INET4_ADDRESS	is_multicast_address	F995_7528	C2\in995.c
+network	INET4_ADDRESS	is_any_local_address	F995_7529	C2\in995.c
+network	INET4_ADDRESS	is_loopback_address	F995_7530	C2\in995.c
+network	INET4_ADDRESS	is_link_local_address	F995_7531	C2\in995.c
+network	INET4_ADDRESS	is_site_local_address	F995_7532	C2\in995.c
+network	INET4_ADDRESS	is_mc_global	F995_7533	C2\in995.c
+network	INET4_ADDRESS	is_mc_node_local	F995_7534	C2\in995.c
+network	INET4_ADDRESS	is_mc_link_local	F995_7535	C2\in995.c
+network	INET4_ADDRESS	is_mc_site_local	F995_7536	C2\in995.c
+network	INET4_ADDRESS	is_mc_org_local	F995_7537	C2\in995.c
+network	INET4_ADDRESS	raw_address	F995_7538	C2\in995.c
+network	INET4_ADDRESS	sockaddr	F995_7539	C2\in995.c
+network	INET4_ADDRESS	the_address	F995_7540	C2\in995.c
+network	INET4_ADDRESS	numeric_to_text	F995_7541	C2\in995.c
+network	INET4_ADDRESS	fill_ipv4	F995_7542	C2\in995.c
+network	INET4_ADDRESS	c_sockaddr_get_ipv4_address	F995_7543	C2\in995.c
+etf	EQA_EXTERNALS	invoke_routine	F996_7544	C2\eq996.c
+etf	EQA_EXTERNALS	override_byte_code_of_body	F996_7545	C2\eq996.c
+etf	ITP_STORE	make	F997_7546	C2\it997.c
+etf	ITP_STORE	is_variable_defined	F997_7547	C2\it997.c
+etf	ITP_STORE	is_expression_defined	F997_7548	C2\it997.c
+etf	ITP_STORE	variable_value	F997_7549	C2\it997.c
+etf	ITP_STORE	expression_value	F997_7550	C2\it997.c
+etf	ITP_STORE	assign_value	F997_7551	C2\it997.c
+etf	ITP_STORE	assign_expression	F997_7552	C2\it997.c
+etf	ITP_STORE	arguments	F997_7553	C2\it997.c
+etf	ITP_STORE	storage	F997_7554	C2\it997.c
+etf	ITP_STORE	storage_flag	F997_7555	C2\it997.c
+etf	ITP_STORE	default_capacity	F997_7556	C2\it997.c
+abstract	SOCKET_RESOURCES	error	F998_7557	C2\so998.c
+abstract	SOCKET_RESOURCES	error_number	F998_7558	C2\so998.c
+abstract	SOCKET_RESOURCES	socket_ok	F998_7559	C2\so998.c
+abstract	SOCKET_RESOURCES	socket_family_not_supported	F998_7560	C2\so998.c
+abstract	SOCKET_RESOURCES	address_not_readable	F998_7561	C2\so998.c
+abstract	SOCKET_RESOURCES	protected_address	F998_7562	C2\so998.c
+abstract	SOCKET_RESOURCES	already_bound	F998_7563	C2\so998.c
+abstract	SOCKET_RESOURCES	address_in_use	F998_7564	C2\so998.c
+abstract	SOCKET_RESOURCES	invalid_address	F998_7565	C2\so998.c
+abstract	SOCKET_RESOURCES	invalid_socket_handle	F998_7566	C2\so998.c
+abstract	SOCKET_RESOURCES	bad_socket_handle	F998_7567	C2\so998.c
+abstract	SOCKET_RESOURCES	no_permission	F998_7568	C2\so998.c
+abstract	SOCKET_RESOURCES	no_buffers	F998_7569	C2\so998.c
+abstract	SOCKET_RESOURCES	dtable_full	F998_7570	C2\so998.c
+abstract	SOCKET_RESOURCES	protocol_not_supported	F998_7571	C2\so998.c
+abstract	SOCKET_RESOURCES	not_connected	F998_7572	C2\so998.c
+abstract	SOCKET_RESOURCES	socket_would_block	F998_7573	C2\so998.c
+abstract	SOCKET_RESOURCES	connect_in_progress	F998_7574	C2\so998.c
+abstract	SOCKET_RESOURCES	socket_in_use	F998_7575	C2\so998.c
+abstract	SOCKET_RESOURCES	expired_socket	F998_7576	C2\so998.c
+abstract	SOCKET_RESOURCES	connection_refused	F998_7577	C2\so998.c
+abstract	SOCKET_RESOURCES	network	F998_7578	C2\so998.c
+abstract	SOCKET_RESOURCES	zero_option	F998_7579	C2\so998.c
+abstract	SOCKET_RESOURCES	c_oobmsg	F998_7580	C2\so998.c
+abstract	SOCKET_RESOURCES	c_peekmsg	F998_7581	C2\so998.c
+abstract	SOCKET_RESOURCES	c_msgdontroute	F998_7582	C2\so998.c
+abstract	SOCKET_RESOURCES	level_sol_socket	F998_7583	C2\so998.c
+abstract	SOCKET_RESOURCES	level_nsproto_raw	F998_7584	C2\so998.c
+abstract	SOCKET_RESOURCES	level_nsproto_pe	F998_7585	C2\so998.c
+abstract	SOCKET_RESOURCES	level_nsproto_spp	F998_7586	C2\so998.c
+abstract	SOCKET_RESOURCES	level_iproto_tcp	F998_7587	C2\so998.c
+abstract	SOCKET_RESOURCES	level_iproto_ip	F998_7588	C2\so998.c
+abstract	SOCKET_RESOURCES	ipoptions	F998_7589	C2\so998.c
+abstract	SOCKET_RESOURCES	tcpmax_seg	F998_7590	C2\so998.c
+abstract	SOCKET_RESOURCES	tcpno_delay	F998_7591	C2\so998.c
+abstract	SOCKET_RESOURCES	so_headerson_input	F998_7592	C2\so998.c
+abstract	SOCKET_RESOURCES	so_headerson_output	F998_7593	C2\so998.c
+abstract	SOCKET_RESOURCES	so_defaultheaders	F998_7594	C2\so998.c
+abstract	SOCKET_RESOURCES	so_lastheader	F998_7595	C2\so998.c
+abstract	SOCKET_RESOURCES	somtu	F998_7596	C2\so998.c
+abstract	SOCKET_RESOURCES	soseqno	F998_7597	C2\so998.c
+abstract	SOCKET_RESOURCES	so_allpackets	F998_7598	C2\so998.c
+abstract	SOCKET_RESOURCES	so_nsiproute	F998_7599	C2\so998.c
+abstract	SOCKET_RESOURCES	sobroadcast	F998_7600	C2\so998.c
+abstract	SOCKET_RESOURCES	sodebug	F998_7601	C2\so998.c
+abstract	SOCKET_RESOURCES	so_dont_route	F998_7602	C2\so998.c
+abstract	SOCKET_RESOURCES	soerror	F998_7603	C2\so998.c
+abstract	SOCKET_RESOURCES	so_keep_alive	F998_7604	C2\so998.c
+abstract	SOCKET_RESOURCES	solinger	F998_7605	C2\so998.c
+abstract	SOCKET_RESOURCES	so_oob_inline	F998_7606	C2\so998.c
+abstract	SOCKET_RESOURCES	so_rcv_buf	F998_7607	C2\so998.c
+abstract	SOCKET_RESOURCES	so_snd_buf	F998_7608	C2\so998.c
+abstract	SOCKET_RESOURCES	so_rcv_lowat	F998_7609	C2\so998.c
+abstract	SOCKET_RESOURCES	so_snd_lowat	F998_7610	C2\so998.c
+abstract	SOCKET_RESOURCES	so_rcv_timeo	F998_7611	C2\so998.c
+abstract	SOCKET_RESOURCES	so_snd_timeo	F998_7612	C2\so998.c
+abstract	SOCKET_RESOURCES	so_reuse_addr	F998_7613	C2\so998.c
+abstract	SOCKET_RESOURCES	sotype	F998_7614	C2\so998.c
+abstract	SOCKET_RESOURCES	so_use_loopback	F998_7615	C2\so998.c
+abstract	SOCKET_RESOURCES	c_errorno	F998_7616	C2\so998.c
+abstract	SOCKET_RESOURCES	c_reset_error	F998_7617	C2\so998.c
+abstract	SOCKET_RESOURCES	family_no_support	F998_7618	C2\so998.c
+abstract	SOCKET_RESOURCES	proto_no_support	F998_7619	C2\so998.c
+abstract	SOCKET_RESOURCES	table_full	F998_7620	C2\so998.c
+abstract	SOCKET_RESOURCES	no_buffs	F998_7621	C2\so998.c
+abstract	SOCKET_RESOURCES	c_permission	F998_7622	C2\so998.c
+abstract	SOCKET_RESOURCES	bad_socket	F998_7623	C2\so998.c
+abstract	SOCKET_RESOURCES	no_socket	F998_7624	C2\so998.c
+abstract	SOCKET_RESOURCES	error_address	F998_7625	C2\so998.c
+abstract	SOCKET_RESOURCES	busy_address	F998_7626	C2\so998.c
+abstract	SOCKET_RESOURCES	bound_address	F998_7627	C2\so998.c
+abstract	SOCKET_RESOURCES	no_access	F998_7628	C2\so998.c
+abstract	SOCKET_RESOURCES	unreadable	F998_7629	C2\so998.c
+abstract	SOCKET_RESOURCES	no_connect	F998_7630	C2\so998.c
+abstract	SOCKET_RESOURCES	would_block	F998_7631	C2\so998.c
+abstract	SOCKET_RESOURCES	in_use	F998_7632	C2\so998.c
+abstract	SOCKET_RESOURCES	socket_expire	F998_7633	C2\so998.c
+abstract	SOCKET_RESOURCES	connect_refused	F998_7634	C2\so998.c
+abstract	SOCKET_RESOURCES	no_network	F998_7635	C2\so998.c
+abstract	SOCKET_RESOURCES	no_option	F998_7636	C2\so998.c
+abstract	SOCKET_RESOURCES	c_einprogress	F998_7637	C2\so998.c
+abstract	SOCKET_RESOURCES	sock_raw	F998_7638	C2\so998.c
+abstract	SOCKET_RESOURCES	sock_dgrm	F998_7639	C2\so998.c
+abstract	SOCKET_RESOURCES	sock_stream	F998_7640	C2\so998.c
+abstract	SOCKET_RESOURCES	af_ns	F998_7641	C2\so998.c
+abstract	SOCKET_RESOURCES	af_inet	F998_7642	C2\so998.c
+abstract	SOCKET_RESOURCES	af_inet6	F998_7643	C2\so998.c
+abstract	SOCKET_RESOURCES	af_unix	F998_7644	C2\so998.c
+abstract	SOCKET_RESOURCES	c_fgetown	F998_7645	C2\so998.c
+abstract	SOCKET_RESOURCES	c_fsetown	F998_7646	C2\so998.c
+abstract	SOCKET_RESOURCES	c_fsetfl	F998_7647	C2\so998.c
+abstract	SOCKET_RESOURCES	c_fgetfl	F998_7648	C2\so998.c
+abstract	SOCKET_RESOURCES	c_fndelay	F998_7649	C2\so998.c
+abstract	SOCKET_RESOURCES	c_fasync	F998_7650	C2\so998.c
+network	INET_ADDRESS_FACTORY	create_any_local	F999_7651	C2\in999.c
+network	INET_ADDRESS_FACTORY	create_loopback	F999_7652	C2\in999.c
+network	INET_ADDRESS_FACTORY	create_localhost	F999_7653	C2\in999.c
+network	INET_ADDRESS_FACTORY	create_from_name	F999_7654	C2\in999.c
+network	INET_ADDRESS_FACTORY	create_from_address	F999_7655	C2\in999.c
+network	INET_ADDRESS_FACTORY	create_from_sockaddr	F999_7656	C2\in999.c
+network	INET_ADDRESS_FACTORY	impl	F999_7657	C2\in999.c
+network	INET_ADDRESS_FACTORY	int16sz	F999_7658	C2\in999.c
+network	INET_ADDRESS_FACTORY	get_all_by_name	F999_7659	C2\in999.c
+network	INET_ADDRESS_FACTORY	check_numeric_zone	F999_7660	C2\in999.c
+network	INET_ADDRESS_FACTORY	text_to_numeric_format_v4	F999_7661	C2\in999.c
+network	INET_ADDRESS_FACTORY	text_to_numeric_format_v6	F999_7662	C2\in999.c
+network	INET_ADDRESS_FACTORY	convert_from_ipv4_mappedd_address	F999_7663	C2\in999.c
+network	INET_ADDRESS_FACTORY	is_ipv4_mapped_address	F999_7664	C2\in999.c
+network	INET_ADDRESS_FACTORY	hex_character_to_integer	F999_7665	C2\in999.c
+network	INET_ADDRESS_FACTORY	split	F999_7666	C2\in999.c
+network	INET_ADDRESS_FACTORY	dot_count	F999_7667	C2\in999.c
+network	INET_ADDRESS_FACTORY	get_all_by_name_0	F999_7668	C2\in999.c
+network	INET_ADDRESS_FACTORY	getaddrinfo	F999_7669	C2\in999.c
+network	INET_ADDRESS_FACTORY	c_getaddrinfo	F999_7670	C2\in999.c
+network	INET_ADDRESS_FACTORY	get_sock_family	F999_7671	C2\in999.c
+network	NETWORK_SOCKET_ADDRESS	make_from_address_and_port	F1000_7672	C2\ne1000.c
+network	NETWORK_SOCKET_ADDRESS	make_from_hostname_and_port	F1000_7673	C2\ne1000.c
+network	NETWORK_SOCKET_ADDRESS	make_any_local	F1000_7674	C2\ne1000.c
+network	NETWORK_SOCKET_ADDRESS	make_localhost	F1000_7675	C2\ne1000.c
+network	NETWORK_SOCKET_ADDRESS	make_loopback	F1000_7676	C2\ne1000.c
+network	NETWORK_SOCKET_ADDRESS	port	F1000_7677	C2\ne1000.c
+network	NETWORK_SOCKET_ADDRESS	host_address	F1000_7678	C2\ne1000.c
+network	NETWORK_SOCKET_ADDRESS	is_valid_host	F1000_7679	C2\ne1000.c
+network	NETWORK_SOCKET_ADDRESS	set_port_from_name	F1000_7680	C2\ne1000.c
+network	NETWORK_SOCKET_ADDRESS	set_port	F1000_7681	C2\ne1000.c
+network	NETWORK_SOCKET_ADDRESS	set_host_address	F1000_7682	C2\ne1000.c
+network	NETWORK_SOCKET_ADDRESS	address_size	F1000_7683	C2\ne1000.c
+network	NETWORK_SOCKET_ADDRESS	set_sock_family	F1000_7684	C2\ne1000.c
+network	NETWORK_SOCKET_ADDRESS	get_sock_family	F1000_7685	C2\ne1000.c
+network	NETWORK_SOCKET_ADDRESS	set_sock_port	F1000_7686	C2\ne1000.c
+network	NETWORK_SOCKET_ADDRESS	get_sock_port	F1000_7687	C2\ne1000.c
+network	NETWORK_SOCKET_ADDRESS	get_servent_port	F1000_7688	C2\ne1000.c
+time	INTERVAL [G#1]	make	F1036_7689	C3\in1036.c
+time	INTERVAL [G#1]	start_bound	F1036_7690	C3\in1036.c
+time	INTERVAL [G#1]	end_bound	F1036_7691	C3\in1036.c
+time	INTERVAL [G#1]	duration	F1036_7692	C3\in1036.c
+time	INTERVAL [G#1]	is_equal	F1036_7693	C3\in1036.c
+time	INTERVAL [G#1]	intersects	F1036_7694	C3\in1036.c
+time	INTERVAL [G#1]	is_less	F1036_7695	C3\in1036.c
+time	INTERVAL [G#1]	is_less_equal	F1036_7696	C3\in1036.c
+time	INTERVAL [G#1]	is_greater	F1036_7697	C3\in1036.c
+time	INTERVAL [G#1]	is_greater_equal	F1036_7698	C3\in1036.c
+time	INTERVAL [G#1]	is_strict_included_by	F1036_7699	C3\in1036.c
+time	INTERVAL [G#1]	strict_includes	F1036_7700	C3\in1036.c
+time	INTERVAL [G#1]	is_included_by	F1036_7701	C3\in1036.c
+time	INTERVAL [G#1]	includes	F1036_7702	C3\in1036.c
+time	INTERVAL [G#1]	overlaps	F1036_7703	C3\in1036.c
+time	INTERVAL [G#1]	is_overlapped_by	F1036_7704	C3\in1036.c
+time	INTERVAL [G#1]	meets	F1036_7705	C3\in1036.c
+time	INTERVAL [G#1]	is_met_by	F1036_7706	C3\in1036.c
+time	INTERVAL [G#1]	empty	F1036_7707	C3\in1036.c
+time	INTERVAL [G#1]	has	F1036_7708	C3\in1036.c
+time	INTERVAL [G#1]	strict_before	F1036_7709	C3\in1036.c
+time	INTERVAL [G#1]	strict_after	F1036_7710	C3\in1036.c
+time	INTERVAL [G#1]	before	F1036_7711	C3\in1036.c
+time	INTERVAL [G#1]	after	F1036_7712	C3\in1036.c
+time	INTERVAL [G#1]	set_start_bound	F1036_7713	C3\in1036.c
+time	INTERVAL [G#1]	set_end_bound	F1036_7714	C3\in1036.c
+time	INTERVAL [G#1]	union	F1036_7715	C3\in1036.c
+time	INTERVAL [G#1]	intersection	F1036_7716	C3\in1036.c
+time	INTERVAL [G#1]	gather	F1036_7717	C3\in1036.c
+time	INTERVAL [G#1]	out	F1036_7718	C3\in1036.c
+time	DURATION	is_negative	F1001_7728	C2\du1001.c
+time	DURATION	is_zero	F1001_7729	C2\du1001.c
+time	DURATION	identity	F1001_7730	C2\du1001.c
+time	DURATION	minus	F1001_7731	C2\du1001.c
+time	TIME_DURATION	make	F1002_7732	C2\ti1002.c
+time	TIME_DURATION	make_fine	F1002_7733	C2\ti1002.c
+time	TIME_DURATION	make_by_seconds	F1002_7734	C2\ti1002.c
+time	TIME_DURATION	make_by_fine_seconds	F1002_7735	C2\ti1002.c
+time	TIME_DURATION	fine_seconds_count	F1002_7736	C2\ti1002.c
+time	TIME_DURATION	seconds_count	F1002_7737	C2\ti1002.c
+time	TIME_DURATION	zero	F1002_7738	C2\ti1002.c
+time	TIME_DURATION	hour	F1002_7739	C2\ti1002.c
+time	TIME_DURATION	minute	F1002_7740	C2\ti1002.c
+time	TIME_DURATION	second	F1002_7741	C2\ti1002.c
+time	TIME_DURATION	fine_second	F1002_7742	C2\ti1002.c
+time	TIME_DURATION	fractional_second	F1002_7743	C2\ti1002.c
+time	TIME_DURATION	is_less	F1002_7744	C2\ti1002.c
+time	TIME_DURATION	is_equal	F1002_7745	C2\ti1002.c
+time	TIME_DURATION	canonical	F1002_7746	C2\ti1002.c
+time	TIME_DURATION	is_positive	F1002_7747	C2\ti1002.c
+time	TIME_DURATION	set_second	F1002_7748	C2\ti1002.c
+time	TIME_DURATION	set_fine_second	F1002_7749	C2\ti1002.c
+time	TIME_DURATION	set_fractionals	F1002_7750	C2\ti1002.c
+time	TIME_DURATION	set_minute	F1002_7751	C2\ti1002.c
+time	TIME_DURATION	set_hour	F1002_7752	C2\ti1002.c
+time	TIME_DURATION	second_add	F1002_7753	C2\ti1002.c
+time	TIME_DURATION	fine_second_add	F1002_7754	C2\ti1002.c
+time	TIME_DURATION	minute_add	F1002_7755	C2\ti1002.c
+time	TIME_DURATION	hour_add	F1002_7756	C2\ti1002.c
+time	TIME_DURATION	plus	F1002_7757	C2\ti1002.c
+time	TIME_DURATION	opposite	F1002_7758	C2\ti1002.c
+time	TIME_DURATION	to_canonical	F1002_7759	C2\ti1002.c
+time	TIME_DURATION	to_days	F1002_7760	C2\ti1002.c
+time	TIME_DURATION	time_modulo_day	F1002_7761	C2\ti1002.c
+time	TIME_DURATION	tolerance	F1002_7762	C2\ti1002.c
+time	DATE_DURATION	make	F1003_7763	C2\da1003.c
+time	DATE_DURATION	make_by_days	F1003_7764	C2\da1003.c
+time	DATE_DURATION	zero	F1003_7765	C2\da1003.c
+time	DATE_DURATION	day	F1003_7766	C2\da1003.c
+time	DATE_DURATION	month	F1003_7767	C2\da1003.c
+time	DATE_DURATION	year	F1003_7768	C2\da1003.c
+time	DATE_DURATION	origin_date	F1003_7769	C2\da1003.c
+time	DATE_DURATION	days_count	F1003_7770	C2\da1003.c
+time	DATE_DURATION	is_less	F1003_7771	C2\da1003.c
+time	DATE_DURATION	is_equal	F1003_7772	C2\da1003.c
+time	DATE_DURATION	definite	F1003_7773	C2\da1003.c
+time	DATE_DURATION	canonical	F1003_7774	C2\da1003.c
+time	DATE_DURATION	is_positive	F1003_7775	C2\da1003.c
+time	DATE_DURATION	has_origin_date	F1003_7776	C2\da1003.c
+time	DATE_DURATION	set_origin_date	F1003_7777	C2\da1003.c
+time	DATE_DURATION	set_day	F1003_7778	C2\da1003.c
+time	DATE_DURATION	set_month	F1003_7779	C2\da1003.c
+time	DATE_DURATION	set_year	F1003_7780	C2\da1003.c
+time	DATE_DURATION	set_date	F1003_7781	C2\da1003.c
+time	DATE_DURATION	day_add	F1003_7782	C2\da1003.c
+time	DATE_DURATION	month_add	F1003_7783	C2\da1003.c
+time	DATE_DURATION	year_add	F1003_7784	C2\da1003.c
+time	DATE_DURATION	plus	F1003_7785	C2\da1003.c
+time	DATE_DURATION	opposite	F1003_7786	C2\da1003.c
+time	DATE_DURATION	to_canonical	F1003_7787	C2\da1003.c
+time	DATE_DURATION	to_definite	F1003_7788	C2\da1003.c
+time	DATE_DURATION	to_date_time	F1003_7789	C2\da1003.c
+time	DATE_TIME_DURATION	make	F1004_7790	C2\da1004.c
+time	DATE_TIME_DURATION	make_definite	F1004_7791	C2\da1004.c
+time	DATE_TIME_DURATION	make_fine	F1004_7792	C2\da1004.c
+time	DATE_TIME_DURATION	make_by_date_time	F1004_7793	C2\da1004.c
+time	DATE_TIME_DURATION	make_by_date	F1004_7794	C2\da1004.c
+time	DATE_TIME_DURATION	date	F1004_7795	C2\da1004.c
+time	DATE_TIME_DURATION	time	F1004_7796	C2\da1004.c
+time	DATE_TIME_DURATION	origin_date_time	F1004_7797	C2\da1004.c
+time	DATE_TIME_DURATION	zero	F1004_7798	C2\da1004.c
+time	DATE_TIME_DURATION	seconds_count	F1004_7799	C2\da1004.c
+time	DATE_TIME_DURATION	fine_seconds_count	F1004_7800	C2\da1004.c
+time	DATE_TIME_DURATION	is_less	F1004_7801	C2\da1004.c
+time	DATE_TIME_DURATION	is_equal	F1004_7802	C2\da1004.c
+time	DATE_TIME_DURATION	definite	F1004_7803	C2\da1004.c
+time	DATE_TIME_DURATION	canonical	F1004_7804	C2\da1004.c
+time	DATE_TIME_DURATION	is_positive	F1004_7805	C2\da1004.c
+time	DATE_TIME_DURATION	has_origin_date_time	F1004_7806	C2\da1004.c
+time	DATE_TIME_DURATION	set_origin_date_time	F1004_7807	C2\da1004.c
+time	DATE_TIME_DURATION	set_date	F1004_7808	C2\da1004.c
+time	DATE_TIME_DURATION	set_time	F1004_7809	C2\da1004.c
+time	DATE_TIME_DURATION	plus	F1004_7810	C2\da1004.c
+time	DATE_TIME_DURATION	opposite	F1004_7811	C2\da1004.c
+time	DATE_TIME_DURATION	day_add	F1004_7812	C2\da1004.c
+time	DATE_TIME_DURATION	to_canonical	F1004_7813	C2\da1004.c
+time	DATE_TIME_DURATION	time_to_canonical	F1004_7814	C2\da1004.c
+time	ABSOLUTE	is_less	F1005_7817	C2\ab1005.c
+time	ABSOLUTE	minus	F1005_7818	C2\ab1005.c
+elks	BI_LINKABLE [INTEGER_32]	left	F1039_1928	C3\bi1039.c
+elks	BI_LINKABLE [INTEGER_32]	put_right	F1039_1929	C3\bi1039.c
+elks	BI_LINKABLE [INTEGER_32]	put_left	F1039_1930	C3\bi1039.c
+elks	BI_LINKABLE [INTEGER_32]	forget_right	F1039_1931	C3\bi1039.c
+elks	BI_LINKABLE [INTEGER_32]	forget_left	F1039_1932	C3\bi1039.c
+elks	BI_LINKABLE [INTEGER_32]	simple_put_right	F1039_1933	C3\bi1039.c
+elks	BI_LINKABLE [INTEGER_32]	simple_put_left	F1039_1934	C3\bi1039.c
+elks	BI_LINKABLE [INTEGER_32]	simple_forget_right	F1039_1935	C3\bi1039.c
+elks	BI_LINKABLE [INTEGER_32]	simple_forget_left	F1039_1936	C3\bi1039.c
+elks	TWO_WAY_LIST_CURSOR [INTEGER_32]	active	F1040_3045	C3\tw1040.c
+elks	TWO_WAY_LIST_ITERATION_CURSOR [INTEGER_32]	item	F1045_3161	C3\tw1045.c
+elks	TWO_WAY_LIST_ITERATION_CURSOR [INTEGER_32]	after	F1045_3162	C3\tw1045.c
+elks	TWO_WAY_LIST_ITERATION_CURSOR [INTEGER_32]	start	F1045_3163	C3\tw1045.c
+elks	TWO_WAY_LIST_ITERATION_CURSOR [INTEGER_32]	forth	F1045_3164	C3\tw1045.c
+elks	TWO_WAY_LIST_ITERATION_CURSOR [INTEGER_32]	target	F1045_3165	C3\tw1045.c
+elks	TWO_WAY_LIST_ITERATION_CURSOR [INTEGER_32]	active	F1045_3166	C3\tw1045.c
+topsort_project	APPLICATION	start	F1006_7820	C2\ap1006.c
+topsort_project	APPLICATION	make	F1006_7821	C2\ap1006.c
+elks	PART_SORTED_LIST [INTEGER_32]	has	F1043_3528	C3\pa1043.c
+elks	PART_SORTED_LIST [INTEGER_32]	search_after	F1043_3529	C3\pa1043.c
+elks	PART_SORTED_LIST [INTEGER_32]	search_before	F1043_3530	C3\pa1043.c
+elks	PART_SORTED_LIST [INTEGER_32]	merge	F1043_3532	C3\pa1043.c
+elks	SORTED_LIST [INTEGER_32]	min	F1042_3534	C3\so1042.c
+elks	SORTED_LIST [INTEGER_32]	max	F1042_3535	C3\so1042.c
+elks	SORTED_LIST [INTEGER_32]	median	F1042_3536	C3\so1042.c
+elks	TWO_WAY_LIST [INTEGER_32]	first_element	F1044_3690	C3\tw1044.c
+elks	TWO_WAY_LIST [INTEGER_32]	last_element	F1044_3691	C3\tw1044.c
+elks	TWO_WAY_LIST [INTEGER_32]	sublist	F1044_3692	C3\tw1044.c
+elks	TWO_WAY_LIST [INTEGER_32]	cursor	F1044_3693	C3\tw1044.c
+elks	TWO_WAY_LIST [INTEGER_32]	new_cursor	F1044_3694	C3\tw1044.c
+elks	TWO_WAY_LIST [INTEGER_32]	islast	F1044_3695	C3\tw1044.c
+elks	TWO_WAY_LIST [INTEGER_32]	forth	F1044_3696	C3\tw1044.c
+elks	TWO_WAY_LIST [INTEGER_32]	back	F1044_3697	C3\tw1044.c
+elks	TWO_WAY_LIST [INTEGER_32]	finish	F1044_3698	C3\tw1044.c
+elks	TWO_WAY_LIST [INTEGER_32]	move	F1044_3699	C3\tw1044.c
+elks	TWO_WAY_LIST [INTEGER_32]	put_front	F1044_3700	C3\tw1044.c
+elks	TWO_WAY_LIST [INTEGER_32]	extend	F1044_3701	C3\tw1044.c
+elks	TWO_WAY_LIST [INTEGER_32]	put_left	F1044_3702	C3\tw1044.c
+elks	TWO_WAY_LIST [INTEGER_32]	put_right	F1044_3703	C3\tw1044.c
+elks	TWO_WAY_LIST [INTEGER_32]	merge_left	F1044_3704	C3\tw1044.c
+elks	TWO_WAY_LIST [INTEGER_32]	merge_right	F1044_3705	C3\tw1044.c
+elks	TWO_WAY_LIST [INTEGER_32]	remove	F1044_3706	C3\tw1044.c
+elks	TWO_WAY_LIST [INTEGER_32]	remove_left	F1044_3707	C3\tw1044.c
+elks	TWO_WAY_LIST [INTEGER_32]	remove_right	F1044_3708	C3\tw1044.c
+elks	TWO_WAY_LIST [INTEGER_32]	wipe_out	F1044_3709	C3\tw1044.c
+elks	TWO_WAY_LIST [INTEGER_32]	split	F1044_3710	C3\tw1044.c
+elks	TWO_WAY_LIST [INTEGER_32]	remove_sublist	F1044_3711	C3\tw1044.c
+elks	TWO_WAY_LIST [INTEGER_32]	make_sublist	F1044_3712	C3\tw1044.c
+elks	TWO_WAY_LIST [INTEGER_32]	new_chain	F1044_3713	C3\tw1044.c
+elks	TWO_WAY_LIST [INTEGER_32]	new_cell	F1044_3714	C3\tw1044.c
+elks	TWO_WAY_LIST [INTEGER_32]	previous	F1044_3715	C3\tw1044.c
+elks	SORTED_TWO_WAY_LIST [INTEGER_32]	extend	F1041_3767	C3\so1041.c
+elks	SORTED_TWO_WAY_LIST [INTEGER_32]	prune_all	F1041_3768	C3\so1041.c
+elks	SORTED_TWO_WAY_LIST [INTEGER_32]	sort	F1041_3769	C3\so1041.c
+elks	SORTED_TWO_WAY_LIST [INTEGER_32]	sorted	F1041_3770	C3\so1041.c
+elks	SORTED_TWO_WAY_LIST [INTEGER_32]	new_chain	F1041_3771	C3\so1041.c
+elks	LINKED_PRIORITY_QUEUE [INTEGER_32]	item	F1037_3788	C3\li1037.c
+elks	LINKED_PRIORITY_QUEUE [INTEGER_32]	remove	F1037_3789	C3\li1037.c
+elks	LINKED_PRIORITY_QUEUE [INTEGER_32]	put	F1037_3790	C3\li1037.c
+testing	EQA_TEST_EVALUATOR [G#1]	buffer	F1046_7822	C3\eq1046.c
+testing	EQA_TEST_EVALUATOR [G#1]	execute	F1046_7823	C3\eq1046.c
+testing	EQA_TEST_EVALUATOR [G#1]	execute_test_stage	F1046_7824	C3\eq1046.c
+testing	EQA_TEST_EVALUATOR [G#1]	inline-agent#1 of execute	F1046_8465	C3\eq1046.c
+etf	EQA_EVALUATOR	make	F1007_7825	C2\eq1007.c
+etf	EQA_EVALUATOR	parse_arguments	F1007_7826	C2\eq1007.c
+etf	EQA_EVALUATOR	main_loop	F1007_7827	C2\eq1007.c
+etf	EQA_EVALUATOR	port	F1007_7828	C2\eq1007.c
+etf	EQA_EVALUATOR	socket	F1007_7829	C2\eq1007.c
+etf	EQA_EVALUATOR	is_stream_invalid	F1007_7830	C2\eq1007.c
+etf	EQA_EVALUATOR	testing_directory	F1007_7831	C2\eq1007.c
+etf	EQA_EVALUATOR	execute_test	F1007_7832	C2\eq1007.c
+time	DATE_TIME_CODE	make	F1008_7833	C2\da1008.c
+time	DATE_TIME_CODE	is_separator_code	F1008_7834	C2\da1008.c
+time	DATE_TIME_CODE	is_text	F1008_7835	C2\da1008.c
+time	DATE_TIME_CODE	is_numeric	F1008_7836	C2\da1008.c
+time	DATE_TIME_CODE	set_value	F1008_7837	C2\da1008.c
+time	DATE_TIME_CODE	value	F1008_7838	C2\da1008.c
+time	DATE_TIME_CODE	count_max	F1008_7839	C2\da1008.c
+time	DATE_TIME_CODE	count_min	F1008_7840	C2\da1008.c
+time	DATE_TIME_CODE	name	F1008_7841	C2\da1008.c
+time	DATE_TIME_CODE	value_max	F1008_7842	C2\da1008.c
+time	DATE_TIME_CODE	value_min	F1008_7843	C2\da1008.c
+time	DATE_TIME_CODE	type	F1008_7844	C2\da1008.c
+time	DATE_TIME_CODE	debug_output	F1008_7845	C2\da1008.c
+time	DATE_TIME_CODE	day_numeric_type_code	F1008_7846	C2\da1008.c
+time	DATE_TIME_CODE	day_numeric_on_2_digits_type_code	F1008_7847	C2\da1008.c
+time	DATE_TIME_CODE	day_text_type_code	F1008_7848	C2\da1008.c
+time	DATE_TIME_CODE	year_on_4_digits_type_code	F1008_7849	C2\da1008.c
+time	DATE_TIME_CODE	year_on_2_digits_type_code	F1008_7850	C2\da1008.c
+time	DATE_TIME_CODE	month_numeric_type_code	F1008_7851	C2\da1008.c
+time	DATE_TIME_CODE	month_numeric_on_2_digits_type_code	F1008_7852	C2\da1008.c
+time	DATE_TIME_CODE	month_text_type_code	F1008_7853	C2\da1008.c
+time	DATE_TIME_CODE	hour_numeric_type_code	F1008_7854	C2\da1008.c
+time	DATE_TIME_CODE	hour_numeric_on_2_digits_type_code	F1008_7855	C2\da1008.c
+time	DATE_TIME_CODE	hour_12_clock_scale_type_code	F1008_7856	C2\da1008.c
+time	DATE_TIME_CODE	hour_12_clock_scale_on_2_digits_type_code	F1008_7857	C2\da1008.c
+time	DATE_TIME_CODE	minute_numeric_type_code	F1008_7858	C2\da1008.c
+time	DATE_TIME_CODE	minute_numeric_on_2_digits_type_code	F1008_7859	C2\da1008.c
+time	DATE_TIME_CODE	second_numeric_type_code	F1008_7860	C2\da1008.c
+time	DATE_TIME_CODE	second_numeric_on_2_digits_type_code	F1008_7861	C2\da1008.c
+time	DATE_TIME_CODE	fractional_second_numeric_type_code	F1008_7862	C2\da1008.c
+time	DATE_TIME_CODE	colon_type_code	F1008_7863	C2\da1008.c
+time	DATE_TIME_CODE	slash_type_code	F1008_7864	C2\da1008.c
+time	DATE_TIME_CODE	minus_type_code	F1008_7865	C2\da1008.c
+time	DATE_TIME_CODE	comma_type_code	F1008_7866	C2\da1008.c
+time	DATE_TIME_CODE	space_type_code	F1008_7867	C2\da1008.c
+time	DATE_TIME_CODE	dot_type_code	F1008_7868	C2\da1008.c
+time	DATE_TIME_CODE	meridiem_type_code	F1008_7869	C2\da1008.c
+network	EXTERNAL_OBJECT	make_from_external	F1009_7870	C2\ex1009.c
+network	EXTERNAL_OBJECT	dispose	F1009_7871	C2\ex1009.c
+network	EXTERNAL_OBJECT	object_ptr	F1009_7872	C2\ex1009.c
+network	ADDRINFO_1	flags	F1010_7874	C2\ad1010.c
+network	ADDRINFO_1	family	F1010_7875	C2\ad1010.c
+network	ADDRINFO_1	socktype	F1010_7876	C2\ad1010.c
+network	ADDRINFO_1	protocol	F1010_7877	C2\ad1010.c
+network	ADDRINFO_1	addrlen	F1010_7878	C2\ad1010.c
+network	ADDRINFO_1	canonname	F1010_7879	C2\ad1010.c
+network	ADDRINFO_1	addr	F1010_7880	C2\ad1010.c
+network	ADDRINFO_1	next	F1010_7881	C2\ad1010.c
+network	ADDRINFO_1	c_ai_flags	F1010_7882	C2\ad1010.c
+network	ADDRINFO_1	c_ai_family	F1010_7883	C2\ad1010.c
+network	ADDRINFO_1	c_ai_socktype	F1010_7884	C2\ad1010.c
+network	ADDRINFO_1	c_ai_protocol	F1010_7885	C2\ad1010.c
+network	ADDRINFO_1	c_ai_addrlen	F1010_7886	C2\ad1010.c
+network	ADDRINFO_1	c_ai_canonname	F1010_7887	C2\ad1010.c
+network	ADDRINFO_1	c_ai_addr	F1010_7888	C2\ad1010.c
+network	ADDRINFO_1	c_ai_next	F1010_7889	C2\ad1010.c
+network	ADDRINFO_1	c_free	F1010_7890	C2\ad1010.c
+network	ADDRINFO_2	c_free	F1011_7891	C2\ad1011.c
+abstract	SOCKET	retrieved	F1012_7892	C2\so1012.c
+abstract	SOCKET	was_error	F1012_7893	C2\so1012.c
+abstract	SOCKET	socket_ok	F1012_7894	C2\so1012.c
+abstract	SOCKET	error	F1012_7895	C2\so1012.c
+abstract	SOCKET	support_storable	F1012_7896	C2\so1012.c
+abstract	SOCKET	is_valid_peer_address	F1012_7897	C2\so1012.c
+abstract	SOCKET	is_valid_family	F1012_7898	C2\so1012.c
+abstract	SOCKET	basic_store	F1012_7899	C2\so1012.c
+abstract	SOCKET	general_store	F1012_7900	C2\so1012.c
+abstract	SOCKET	independent_store	F1012_7901	C2\so1012.c
+abstract	SOCKET	cleanup	F1012_7905	C2\so1012.c
+abstract	SOCKET	close	F1012_7906	C2\so1012.c
+abstract	SOCKET	descriptor_available	F1012_7909	C2\so1012.c
+abstract	SOCKET	family	F1012_7910	C2\so1012.c
+abstract	SOCKET	protocol	F1012_7911	C2\so1012.c
+abstract	SOCKET	type	F1012_7912	C2\so1012.c
+abstract	SOCKET	address	F1012_7913	C2\so1012.c
+abstract	SOCKET	peer_address	F1012_7914	C2\so1012.c
+abstract	SOCKET	address_type	F1012_7915	C2\so1012.c
+abstract	SOCKET	set_peer_address	F1012_7916	C2\so1012.c
+abstract	SOCKET	set_address	F1012_7917	C2\so1012.c
+abstract	SOCKET	name	F1012_7918	C2\so1012.c
+abstract	SOCKET	put_new_line	F1012_7919	C2\so1012.c
+abstract	SOCKET	new_line	F1012_7920	C2\so1012.c
+abstract	SOCKET	put_string	F1012_7921	C2\so1012.c
+abstract	SOCKET	putstring	F1012_7922	C2\so1012.c
+abstract	SOCKET	put_managed_pointer	F1012_7923	C2\so1012.c
+abstract	SOCKET	put_separate_managed_pointer	F1012_7924	C2\so1012.c
+abstract	SOCKET	put_character	F1012_7925	C2\so1012.c
+abstract	SOCKET	putchar	F1012_7926	C2\so1012.c
+abstract	SOCKET	put_real	F1012_7927	C2\so1012.c
+abstract	SOCKET	putreal	F1012_7928	C2\so1012.c
+abstract	SOCKET	put_double	F1012_7929	C2\so1012.c
+abstract	SOCKET	putdouble	F1012_7930	C2\so1012.c
+abstract	SOCKET	put_integer	F1012_7931	C2\so1012.c
+abstract	SOCKET	putint	F1012_7932	C2\so1012.c
+abstract	SOCKET	put_integer_32	F1012_7933	C2\so1012.c
+abstract	SOCKET	put_integer_8	F1012_7934	C2\so1012.c
+abstract	SOCKET	put_integer_16	F1012_7935	C2\so1012.c
+abstract	SOCKET	put_integer_64	F1012_7936	C2\so1012.c
+abstract	SOCKET	put_natural_8	F1012_7937	C2\so1012.c
+abstract	SOCKET	put_natural_16	F1012_7938	C2\so1012.c
+abstract	SOCKET	put_natural	F1012_7939	C2\so1012.c
+abstract	SOCKET	put_natural_32	F1012_7940	C2\so1012.c
+abstract	SOCKET	put_natural_64	F1012_7941	C2\so1012.c
+abstract	SOCKET	put_boolean	F1012_7942	C2\so1012.c
+abstract	SOCKET	putbool	F1012_7943	C2\so1012.c
+abstract	SOCKET	write	F1012_7944	C2\so1012.c
+abstract	SOCKET	send	F1012_7945	C2\so1012.c
+abstract	SOCKET	exists	F1012_7946	C2\so1012.c
+abstract	SOCKET	is_open_write	F1012_7947	C2\so1012.c
+abstract	SOCKET	is_open_read	F1012_7948	C2\so1012.c
+abstract	SOCKET	is_executable	F1012_7949	C2\so1012.c
+abstract	SOCKET	is_writable	F1012_7950	C2\so1012.c
+abstract	SOCKET	is_readable	F1012_7951	C2\so1012.c
+abstract	SOCKET	readable	F1012_7952	C2\so1012.c
+abstract	SOCKET	extendible	F1012_7953	C2\so1012.c
+abstract	SOCKET	read_real	F1012_7954	C2\so1012.c
+abstract	SOCKET	readreal	F1012_7955	C2\so1012.c
+abstract	SOCKET	read_double	F1012_7956	C2\so1012.c
+abstract	SOCKET	readdouble	F1012_7957	C2\so1012.c
+abstract	SOCKET	read_character	F1012_7958	C2\so1012.c
+abstract	SOCKET	readchar	F1012_7959	C2\so1012.c
+abstract	SOCKET	read_boolean	F1012_7960	C2\so1012.c
+abstract	SOCKET	readbool	F1012_7961	C2\so1012.c
+abstract	SOCKET	last_boolean	F1012_7962	C2\so1012.c
+abstract	SOCKET	read_integer	F1012_7963	C2\so1012.c
+abstract	SOCKET	readint	F1012_7964	C2\so1012.c
+abstract	SOCKET	read_integer_32	F1012_7965	C2\so1012.c
+abstract	SOCKET	read_integer_8	F1012_7966	C2\so1012.c
+abstract	SOCKET	read_integer_16	F1012_7967	C2\so1012.c
+abstract	SOCKET	read_integer_64	F1012_7968	C2\so1012.c
+abstract	SOCKET	read_natural_8	F1012_7969	C2\so1012.c
+abstract	SOCKET	read_natural_16	F1012_7970	C2\so1012.c
+abstract	SOCKET	read_natural	F1012_7971	C2\so1012.c
+abstract	SOCKET	read_natural_32	F1012_7972	C2\so1012.c
+abstract	SOCKET	read_natural_64	F1012_7973	C2\so1012.c
+abstract	SOCKET	read_stream	F1012_7974	C2\so1012.c
+abstract	SOCKET	readstream	F1012_7975	C2\so1012.c
+abstract	SOCKET	read_to_managed_pointer	F1012_7976	C2\so1012.c
+abstract	SOCKET	read_to_separate_managed_pointer	F1012_7977	C2\so1012.c
+abstract	SOCKET	read_line	F1012_7978	C2\so1012.c
+abstract	SOCKET	readline	F1012_7979	C2\so1012.c
+abstract	SOCKET	read_line_until	F1012_7980	C2\so1012.c
+abstract	SOCKET	read	F1012_7981	C2\so1012.c
+abstract	SOCKET	receive	F1012_7982	C2\so1012.c
+abstract	SOCKET	enable_debug	F1012_7983	C2\so1012.c
+abstract	SOCKET	disable_debug	F1012_7984	C2\so1012.c
+abstract	SOCKET	debug_enabled	F1012_7985	C2\so1012.c
+abstract	SOCKET	do_not_route	F1012_7986	C2\so1012.c
+abstract	SOCKET	route	F1012_7987	C2\so1012.c
+abstract	SOCKET	route_enabled	F1012_7988	C2\so1012.c
+abstract	SOCKET	set_receive_buf_size	F1012_7989	C2\so1012.c
+abstract	SOCKET	receive_buf_size	F1012_7990	C2\so1012.c
+abstract	SOCKET	set_send_buf_size	F1012_7991	C2\so1012.c
+abstract	SOCKET	send_buf_size	F1012_7992	C2\so1012.c
+abstract	SOCKET	is_socket_stream	F1012_7993	C2\so1012.c
+abstract	SOCKET	set_non_blocking	F1012_7994	C2\so1012.c
+abstract	SOCKET	set_blocking	F1012_7995	C2\so1012.c
+abstract	SOCKET	is_blocking	F1012_7996	C2\so1012.c
+abstract	SOCKET	set_owner	F1012_7997	C2\so1012.c
+abstract	SOCKET	is_group_id	F1012_7998	C2\so1012.c
+abstract	SOCKET	is_process_id	F1012_7999	C2\so1012.c
+abstract	SOCKET	group_id	F1012_8000	C2\so1012.c
+abstract	SOCKET	process_id	F1012_8001	C2\so1012.c
+abstract	SOCKET	socket_error	F1012_8002	C2\so1012.c
+abstract	SOCKET	read_into_pointer	F1012_8003	C2\so1012.c
+abstract	SOCKET	put_pointer_content	F1012_8004	C2\so1012.c
+abstract	SOCKET	put_socket_buffer	F1012_8006	C2\so1012.c
+abstract	SOCKET	put_internal_socket_buffer	F1012_8007	C2\so1012.c
+abstract	SOCKET	read_socket_buffer	F1012_8008	C2\so1012.c
+abstract	SOCKET	read_internal_socket_buffer	F1012_8009	C2\so1012.c
+abstract	SOCKET	c_put_stream_noexception	F1012_8010	C2\so1012.c
+abstract	SOCKET	c_put_stream	F1012_8011	C2\so1012.c
+abstract	SOCKET	c_read_stream_noexception	F1012_8012	C2\so1012.c
+abstract	SOCKET	c_read_stream	F1012_8013	C2\so1012.c
+abstract	SOCKET	c_write_noexception	F1012_8014	C2\so1012.c
+abstract	SOCKET	c_write	F1012_8015	C2\so1012.c
+abstract	SOCKET	c_recv_noexception	F1012_8016	C2\so1012.c
+abstract	SOCKET	c_receive	F1012_8017	C2\so1012.c
+abstract	SOCKET	c_send_noexception	F1012_8018	C2\so1012.c
+abstract	SOCKET	c_send	F1012_8019	C2\so1012.c
+abstract	SOCKET	c_set_sock_opt_int	F1012_8020	C2\so1012.c
+abstract	SOCKET	c_get_sock_opt_int	F1012_8021	C2\so1012.c
+abstract	SOCKET	c_fcntl	F1012_8022	C2\so1012.c
+abstract	SOCKET	c_set_non_blocking	F1012_8023	C2\so1012.c
+abstract	SOCKET	c_set_blocking	F1012_8024	C2\so1012.c
+abstract	SOCKET	c_syncpoll	F1012_8025	C2\so1012.c
+abstract	SOCKET	c_select_poll	F1012_8026	C2\so1012.c
+abstract	SOCKET	eif_net_retrieved	F1012_8027	C2\so1012.c
+abstract	SOCKET	eif_net_basic_store	F1012_8028	C2\so1012.c
+abstract	SOCKET	eif_net_general_store	F1012_8029	C2\so1012.c
+abstract	SOCKET	eif_net_independent_store	F1012_8030	C2\so1012.c
+abstract	STREAM_SOCKET	support_storable	F1013_8031	C2\st1013.c
+abstract	STREAM_SOCKET	accepted	F1013_8033	C2\st1013.c
+network	NETWORK_SOCKET	exists	F1014_8035	C2\ne1014.c
+network	NETWORK_SOCKET	close_socket	F1014_8036	C2\ne1014.c
+network	NETWORK_SOCKET	descriptor	F1014_8037	C2\ne1014.c
+network	NETWORK_SOCKET	connect	F1014_8038	C2\ne1014.c
+network	NETWORK_SOCKET	bind	F1014_8039	C2\ne1014.c
+network	NETWORK_SOCKET	address_type	F1014_8040	C2\ne1014.c
+network	NETWORK_SOCKET	is_closed	F1014_8041	C2\ne1014.c
+network	NETWORK_SOCKET	is_created	F1014_8042	C2\ne1014.c
+network	NETWORK_SOCKET	is_connected	F1014_8043	C2\ne1014.c
+network	NETWORK_SOCKET	is_bound	F1014_8044	C2\ne1014.c
+network	NETWORK_SOCKET	port	F1014_8045	C2\ne1014.c
+network	NETWORK_SOCKET	reuse_address	F1014_8046	C2\ne1014.c
+network	NETWORK_SOCKET	is_valid_peer_address	F1014_8047	C2\ne1014.c
+network	NETWORK_SOCKET	is_valid_family	F1014_8048	C2\ne1014.c
+network	NETWORK_SOCKET	ready_for_reading	F1014_8049	C2\ne1014.c
+network	NETWORK_SOCKET	ready_for_writing	F1014_8050	C2\ne1014.c
+network	NETWORK_SOCKET	has_exception_state	F1014_8051	C2\ne1014.c
+network	NETWORK_SOCKET	is_default_timeout	F1014_8052	C2\ne1014.c
+network	NETWORK_SOCKET	timeout	F1014_8053	C2\ne1014.c
+network	NETWORK_SOCKET	timeout_ns	F1014_8054	C2\ne1014.c
+network	NETWORK_SOCKET	recv_timeout	F1014_8055	C2\ne1014.c
+network	NETWORK_SOCKET	recv_timeout_ns	F1014_8056	C2\ne1014.c
+network	NETWORK_SOCKET	send_timeout	F1014_8057	C2\ne1014.c
+network	NETWORK_SOCKET	send_timeout_ns	F1014_8058	C2\ne1014.c
+network	NETWORK_SOCKET	set_reuse_address	F1014_8059	C2\ne1014.c
+network	NETWORK_SOCKET	do_not_reuse_address	F1014_8060	C2\ne1014.c
+network	NETWORK_SOCKET	set_default_timeout	F1014_8061	C2\ne1014.c
+network	NETWORK_SOCKET	set_timeout	F1014_8062	C2\ne1014.c
+network	NETWORK_SOCKET	set_timeout_ns	F1014_8063	C2\ne1014.c
+network	NETWORK_SOCKET	set_recv_timeout	F1014_8064	C2\ne1014.c
+network	NETWORK_SOCKET	set_recv_timeout_ns	F1014_8065	C2\ne1014.c
+network	NETWORK_SOCKET	set_send_timeout	F1014_8066	C2\ne1014.c
+network	NETWORK_SOCKET	set_send_timeout_ns	F1014_8067	C2\ne1014.c
+network	NETWORK_SOCKET	set_non_blocking	F1014_8068	C2\ne1014.c
+network	NETWORK_SOCKET	set_blocking	F1014_8069	C2\ne1014.c
+network	NETWORK_SOCKET	make_socket	F1014_8070	C2\ne1014.c
+network	NETWORK_SOCKET	set_closed	F1014_8071	C2\ne1014.c
+network	NETWORK_SOCKET	shutdown	F1014_8072	C2\ne1014.c
+network	NETWORK_SOCKET	fd	F1014_8073	C2\ne1014.c
+network	NETWORK_SOCKET	fd1	F1014_8074	C2\ne1014.c
+network	NETWORK_SOCKET	last_fd	F1014_8075	C2\ne1014.c
+network	NETWORK_SOCKET	internal_port	F1014_8076	C2\ne1014.c
+network	NETWORK_SOCKET	default_timeout	F1014_8080	C2\ne1014.c
+network	NETWORK_SOCKET	c_set_sock_opt_timeout	F1014_8081	C2\ne1014.c
+network	NETWORK_SOCKET	c_get_sock_opt_timeout	F1014_8082	C2\ne1014.c
+network	NETWORK_SOCKET	c_close	F1014_8083	C2\ne1014.c
+network	NETWORK_SOCKET	c_select_poll_with_timeout	F1014_8084	C2\ne1014.c
+network	NETWORK_SOCKET	c_check_exception_with_timeout	F1014_8085	C2\ne1014.c
+network	NETWORK_SOCKET	c_shutdown	F1014_8086	C2\ne1014.c
+network	NETWORK_STREAM_SOCKET	make_empty	F1015_8087	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	make	F1015_8088	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	make_client_by_port	F1015_8089	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	make_server_by_address_and_port	F1015_8090	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	make_server_by_port	F1015_8091	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	make_loopback_server_by_port	F1015_8092	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	make_client_by_address_and_port	F1015_8093	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	make_from_descriptor_and_address	F1015_8094	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	create_from_descriptor	F1015_8095	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	connect_timeout	F1015_8096	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	set_connect_timeout	F1015_8097	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	accept_timeout	F1015_8098	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	set_accept_timeout	F1015_8099	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	listen	F1015_8100	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	accept_to	F1015_8101	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	accept	F1015_8102	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	maximum_seg_size	F1015_8103	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	maxium_seg_size	F1015_8104	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	has_delay	F1015_8105	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	is_linger_on	F1015_8106	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	is_out_of_band_inline	F1015_8107	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	linger_time	F1015_8108	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	set_delay	F1015_8109	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	set_nodelay	F1015_8110	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	set_linger	F1015_8111	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	set_linger_on	F1015_8112	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	set_linger_off	F1015_8113	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	set_out_of_band_inline	F1015_8114	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	set_out_of_band_not_inline	F1015_8115	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	do_connect	F1015_8116	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	do_bind	F1015_8117	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	do_create	F1015_8118	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	do_accept	F1015_8119	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	c_create	F1015_8120	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	c_connect	F1015_8121	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	c_bind	F1015_8122	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	c_listen	F1015_8123	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	c_accept	F1015_8124	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	c_sock_name	F1015_8125	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	c_set_sock_opt_linger	F1015_8126	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	c_is_linger_on	F1015_8127	C2\ne1015.c
+network	NETWORK_STREAM_SOCKET	c_linger_time	F1015_8128	C2\ne1015.c
+testing	EQA_TEST_OUTPUT_BUFFER	make	F1016_8129	C2\eq1016.c
+testing	EQA_TEST_OUTPUT_BUFFER	buffer_size	F1016_8130	C2\eq1016.c
+testing	EQA_TEST_OUTPUT_BUFFER	count	F1016_8131	C2\eq1016.c
+testing	EQA_TEST_OUTPUT_BUFFER	content	F1016_8132	C2\eq1016.c
+testing	EQA_TEST_OUTPUT_BUFFER	leading_content	F1016_8133	C2\eq1016.c
+testing	EQA_TEST_OUTPUT_BUFFER	closing_content	F1016_8134	C2\eq1016.c
+testing	EQA_TEST_OUTPUT_BUFFER	formatted_content	F1016_8135	C2\eq1016.c
+testing	EQA_TEST_OUTPUT_BUFFER	buffer	F1016_8136	C2\eq1016.c
+testing	EQA_TEST_OUTPUT_BUFFER	split_position	F1016_8137	C2\eq1016.c
+testing	EQA_TEST_OUTPUT_BUFFER	truncated_start_position	F1016_8138	C2\eq1016.c
+testing	EQA_TEST_OUTPUT_BUFFER	is_truncated	F1016_8139	C2\eq1016.c
+testing	EQA_TEST_OUTPUT_BUFFER	exists	F1016_8140	C2\eq1016.c
+testing	EQA_TEST_OUTPUT_BUFFER	readable	F1016_8141	C2\eq1016.c
+testing	EQA_TEST_OUTPUT_BUFFER	wipe_out	F1016_8142	C2\eq1016.c
+testing	EQA_TEST_OUTPUT_BUFFER	put_string	F1016_8143	C2\eq1016.c
+testing	EQA_TEST_OUTPUT_BUFFER	putstring	F1016_8144	C2\eq1016.c
+testing	EQA_TEST_OUTPUT_BUFFER	put_character	F1016_8145	C2\eq1016.c
+testing	EQA_TEST_OUTPUT_BUFFER	putchar	F1016_8146	C2\eq1016.c
+testing	EQA_TEST_OUTPUT_BUFFER	put_boolean	F1016_8147	C2\eq1016.c
+testing	EQA_TEST_OUTPUT_BUFFER	putbool	F1016_8148	C2\eq1016.c
+testing	EQA_TEST_OUTPUT_BUFFER	put_new_line	F1016_8149	C2\eq1016.c
+testing	EQA_TEST_OUTPUT_BUFFER	new_line	F1016_8150	C2\eq1016.c
+testing	EQA_TEST_OUTPUT_BUFFER	put_double	F1016_8151	C2\eq1016.c
+testing	EQA_TEST_OUTPUT_BUFFER	putdouble	F1016_8152	C2\eq1016.c
+testing	EQA_TEST_OUTPUT_BUFFER	put_real	F1016_8153	C2\eq1016.c
+testing	EQA_TEST_OUTPUT_BUFFER	putreal	F1016_8154	C2\eq1016.c
+testing	EQA_TEST_OUTPUT_BUFFER	flush	F1016_8155	C2\eq1016.c
+testing	EQA_TEST_OUTPUT_BUFFER	dispose	F1016_8156	C2\eq1016.c
+testing	EQA_TEST_OUTPUT_BUFFER	back	F1016_8157	C2\eq1016.c
+testing	EQA_TEST_OUTPUT_BUFFER	end_of_file	F1016_8158	C2\eq1016.c
+testing	EQA_TEST_OUTPUT_BUFFER	file_close	F1016_8159	C2\eq1016.c
+testing	EQA_TEST_OUTPUT_BUFFER	m_truncated	F1016_8160	C2\eq1016.c
+testing	EQA_PARTIAL_RESULT	make	F1017_8161	C2\eq1017.c
+testing	EQA_PARTIAL_RESULT	start_date	F1017_8162	C2\eq1017.c
+testing	EQA_PARTIAL_RESULT	finish_date	F1017_8163	C2\eq1017.c
+testing	EQA_PARTIAL_RESULT	duration	F1017_8164	C2\eq1017.c
+testing	EQA_PARTIAL_RESULT	setup_response	F1017_8165	C2\eq1017.c
+testing	EQA_PARTIAL_RESULT	output	F1017_8166	C2\eq1017.c
+testing	EQA_PARTIAL_RESULT	tag	F1017_8167	C2\eq1017.c
+testing	EQA_PARTIAL_RESULT	is_pass	F1017_8168	C2\eq1017.c
+testing	EQA_PARTIAL_RESULT	is_fail	F1017_8169	C2\eq1017.c
+testing	EQA_PARTIAL_RESULT	is_unresolved	F1017_8170	C2\eq1017.c
+testing	EQA_PARTIAL_RESULT	is_maintenance_required	F1017_8171	C2\eq1017.c
+testing	EQA_PARTIAL_RESULT	correct_mismatch	F1017_8172	C2\eq1017.c
+testing	EQA_PARTIAL_RESULT	output_name	F1017_8173	C2\eq1017.c
+testing	EQA_RESULT	make	F1018_8174	C2\eq1018.c
+testing	EQA_RESULT	test_response	F1018_8175	C2\eq1018.c
+testing	EQA_RESULT	teardown_response	F1018_8176	C2\eq1018.c
+testing	EQA_RESULT	tag	F1018_8177	C2\eq1018.c
+testing	EQA_RESULT	is_pass	F1018_8178	C2\eq1018.c
+testing	EQA_RESULT	is_fail	F1018_8179	C2\eq1018.c
+testing	EQA_RESULT	is_maintenance_required	F1018_8180	C2\eq1018.c
+testing	EQA_RESULT	is_test_response_valid	F1018_8181	C2\eq1018.c
+time	DATE_VALUE	day	F1019_8182	C2\da1019.c
+time	DATE_VALUE	month	F1019_8183	C2\da1019.c
+time	DATE_VALUE	year	F1019_8184	C2\da1019.c
+time	DATE_VALUE	compact_date	F1019_8185	C2\da1019.c
+time	DATE_VALUE	ordered_compact_date	F1019_8186	C2\da1019.c
+time	DATE_VALUE	set_date	F1019_8187	C2\da1019.c
+time	DATE_VALUE	set_day	F1019_8188	C2\da1019.c
+time	DATE_VALUE	set_month	F1019_8189	C2\da1019.c
+time	DATE_VALUE	set_year	F1019_8190	C2\da1019.c
+time	DATE_VALUE	set_internal_compact_date	F1019_8191	C2\da1019.c
+time	DATE_VALUE	set_internal_ordered_compact_date	F1019_8192	C2\da1019.c
+time	DATE_VALUE	correct_mismatch	F1019_8193	C2\da1019.c
+time	DATE_VALUE	day_mask	F1019_8194	C2\da1019.c
+time	DATE_VALUE	month_mask	F1019_8195	C2\da1019.c
+time	DATE_VALUE	year_mask	F1019_8196	C2\da1019.c
+time	DATE_VALUE	year_shift	F1019_8197	C2\da1019.c
+time	DATE_VALUE	month_shift	F1019_8198	C2\da1019.c
+time	DATE_VALUE	day_shift	F1019_8199	C2\da1019.c
+time	DATE_VALUE	compact_date_attribute_name	F1019_8200	C2\da1019.c
+time	DATE_VALUE	set_private_internal_compact_date	F1019_8201	C2\da1019.c
+etf	ITP_VARIABLE	make	F1020_8202	C2\it1020.c
+etf	ITP_VARIABLE	name	F1020_8203	C2\it1020.c
+etf	ITP_VARIABLE	hash_code	F1020_8204	C2\it1020.c
+etf	ITP_VARIABLE	is_equal	F1020_8205	C2\it1020.c
+etf	ITP_VARIABLE	index	F1020_8206	C2\it1020.c
+etf	ITP_VARIABLE	process	F1020_8207	C2\it1020.c
+time	FIND_SEPARATOR_FACILITY	separator_characters	F1021_8208	C2\fi1021.c
+time	FIND_SEPARATOR_FACILITY	find_separator	F1021_8209	C2\fi1021.c
+time	FIND_SEPARATOR_FACILITY	extracted_substrings	F1021_8210	C2\fi1021.c
+time	FIND_SEPARATOR_FACILITY	has_separators	F1021_8211	C2\fi1021.c
+time	DATE_TIME_CODE_STRING	make	F1022_8212	C2\da1022.c
+time	DATE_TIME_CODE_STRING	value	F1022_8213	C2\da1022.c
+time	DATE_TIME_CODE_STRING	name	F1022_8214	C2\da1022.c
+time	DATE_TIME_CODE_STRING	base_century	F1022_8215	C2\da1022.c
+time	DATE_TIME_CODE_STRING	is_date	F1022_8216	C2\da1022.c
+time	DATE_TIME_CODE_STRING	is_time	F1022_8217	C2\da1022.c
+time	DATE_TIME_CODE_STRING	is_date_time	F1022_8218	C2\da1022.c
+time	DATE_TIME_CODE_STRING	is_value_valid	F1022_8219	C2\da1022.c
+time	DATE_TIME_CODE_STRING	separators_used	F1022_8220	C2\da1022.c
+time	DATE_TIME_CODE_STRING	set_base_century	F1022_8221	C2\da1022.c
+time	DATE_TIME_CODE_STRING	correspond	F1022_8222	C2\da1022.c
+time	DATE_TIME_CODE_STRING	create_string	F1022_8223	C2\da1022.c
+time	DATE_TIME_CODE_STRING	create_date_string	F1022_8224	C2\da1022.c
+time	DATE_TIME_CODE_STRING	create_time_string	F1022_8225	C2\da1022.c
+time	DATE_TIME_CODE_STRING	create_date_time	F1022_8226	C2\da1022.c
+time	DATE_TIME_CODE_STRING	create_date	F1022_8227	C2\da1022.c
+time	DATE_TIME_CODE_STRING	create_time	F1022_8228	C2\da1022.c
+time	DATE_TIME_CODE_STRING	precise	F1022_8229	C2\da1022.c
+time	DATE_TIME_CODE_STRING	precise_date	F1022_8230	C2\da1022.c
+time	DATE_TIME_CODE_STRING	precise_time	F1022_8231	C2\da1022.c
+time	DATE_TIME_CODE_STRING	days	F1022_8232	C2\da1022.c
+time	DATE_TIME_CODE_STRING	months	F1022_8233	C2\da1022.c
+time	DATE_TIME_CODE_STRING	right_day_text	F1022_8234	C2\da1022.c
+time	DATE_TIME_CODE_STRING	parser	F1022_8235	C2\da1022.c
+time	DATE_TIME_CODE_STRING	internal_parser	F1022_8236	C2\da1022.c
+time	DATE_VALIDITY_CHECKER	date_valid	F1023_8237	C3\da1023.c
+time	DATE_VALIDITY_CHECKER	date_valid_with_base	F1023_8238	C3\da1023.c
+time	DATE_VALIDITY_CHECKER	date_valid_default	F1023_8239	C3\da1023.c
+time	DATE_VALIDITY_CHECKER	date_valid_default_with_base	F1023_8240	C3\da1023.c
+time	DATE_VALIDITY_CHECKER	compact_date_valid	F1023_8241	C3\da1023.c
+time	DATE_VALIDITY_CHECKER	ordered_compact_date_valid	F1023_8242	C3\da1023.c
+time	DATE_VALIDITY_CHECKER	is_correct_date	F1023_8243	C3\da1023.c
+time	DATE	make	F1024_8244	C3\da1024.c
+time	DATE	make_month_day_year	F1024_8245	C3\da1024.c
+time	DATE	make_day_month_year	F1024_8246	C3\da1024.c
+time	DATE	make_now	F1024_8247	C3\da1024.c
+time	DATE	make_now_utc	F1024_8248	C3\da1024.c
+time	DATE	make_by_days	F1024_8249	C3\da1024.c
+time	DATE	make_from_string_default	F1024_8250	C3\da1024.c
+time	DATE	make_from_string_default_with_base	F1024_8251	C3\da1024.c
+time	DATE	make_from_string	F1024_8252	C3\da1024.c
+time	DATE	make_from_string_with_base	F1024_8253	C3\da1024.c
+time	DATE	make_by_compact_date	F1024_8254	C3\da1024.c
+time	DATE	make_by_ordered_compact_date	F1024_8255	C3\da1024.c
+time	DATE	origin	F1024_8256	C3\da1024.c
+time	DATE	is_less	F1024_8257	C3\da1024.c
+time	DATE	duration	F1024_8258	C3\da1024.c
+time	DATE	days	F1024_8259	C3\da1024.c
+time	DATE	leap_year	F1024_8260	C3\da1024.c
+time	DATE	days_at_month	F1024_8261	C3\da1024.c
+time	DATE	year_day	F1024_8262	C3\da1024.c
+time	DATE	week_of_year	F1024_8263	C3\da1024.c
+time	DATE	days_in_year	F1024_8264	C3\da1024.c
+time	DATE	day_of_the_week	F1024_8265	C3\da1024.c
+time	DATE	day_of_january_1st	F1024_8266	C3\da1024.c
+time	DATE	days_from	F1024_8267	C3\da1024.c
+time	DATE	to_date_time	F1024_8268	C3\da1024.c
+time	DATE	plus	F1024_8269	C3\da1024.c
+time	DATE	add	F1024_8270	C3\da1024.c
+time	DATE	relative_duration	F1024_8271	C3\da1024.c
+time	DATE	day_forth	F1024_8272	C3\da1024.c
+time	DATE	day_back	F1024_8273	C3\da1024.c
+time	DATE	day_add	F1024_8274	C3\da1024.c
+time	DATE	month_forth	F1024_8275	C3\da1024.c
+time	DATE	month_back	F1024_8276	C3\da1024.c
+time	DATE	month_add	F1024_8277	C3\da1024.c
+time	DATE	year_forth	F1024_8278	C3\da1024.c
+time	DATE	year_back	F1024_8279	C3\da1024.c
+time	DATE	year_add	F1024_8280	C3\da1024.c
+time	DATE	year_month_add	F1024_8281	C3\da1024.c
+time	DATE	debug_output	F1024_8282	C3\da1024.c
+time	DATE	out	F1024_8283	C3\da1024.c
+time	DATE	formatted_out	F1024_8284	C3\da1024.c
+time	DATE	days_at_months	F1024_8285	C3\da1024.c
+time	TIME_VALIDITY_CHECKER	time_valid	F1025_8286	C3\ti1025.c
+time	TIME_VALIDITY_CHECKER	compact_time_valid	F1025_8287	C3\ti1025.c
+time	TIME_VALIDITY_CHECKER	is_correct_time	F1025_8288	C3\ti1025.c
+time	TIME	make	F1026_8289	C3\ti1026.c
+time	TIME	make_fine	F1026_8290	C3\ti1026.c
+time	TIME	make_now	F1026_8291	C3\ti1026.c
+time	TIME	make_now_utc	F1026_8292	C3\ti1026.c
+time	TIME	make_by_seconds	F1026_8293	C3\ti1026.c
+time	TIME	make_by_fine_seconds	F1026_8294	C3\ti1026.c
+time	TIME	make_from_string_default	F1026_8295	C3\ti1026.c
+time	TIME	make_from_string	F1026_8296	C3\ti1026.c
+time	TIME	make_by_compact_time	F1026_8297	C3\ti1026.c
+time	TIME	origin	F1026_8298	C3\ti1026.c
+time	TIME	is_less	F1026_8299	C3\ti1026.c
+time	TIME	duration	F1026_8300	C3\ti1026.c
+time	TIME	seconds	F1026_8301	C3\ti1026.c
+time	TIME	fine_seconds	F1026_8302	C3\ti1026.c
+time	TIME	plus	F1026_8303	C3\ti1026.c
+time	TIME	relative_duration	F1026_8304	C3\ti1026.c
+time	TIME	second_add	F1026_8305	C3\ti1026.c
+time	TIME	fine_second_add	F1026_8306	C3\ti1026.c
+time	TIME	minute_add	F1026_8307	C3\ti1026.c
+time	TIME	hour_add	F1026_8308	C3\ti1026.c
+time	TIME	second_forth	F1026_8309	C3\ti1026.c
+time	TIME	second_back	F1026_8310	C3\ti1026.c
+time	TIME	minute_forth	F1026_8311	C3\ti1026.c
+time	TIME	minute_back	F1026_8312	C3\ti1026.c
+time	TIME	hour_forth	F1026_8313	C3\ti1026.c
+time	TIME	hour_back	F1026_8314	C3\ti1026.c
+time	TIME	debug_output	F1026_8315	C3\ti1026.c
+time	TIME	out	F1026_8316	C3\ti1026.c
+time	TIME	formatted_out	F1026_8317	C3\ti1026.c
+time	DATE_TIME_VALIDITY_CHECKER	date_time_valid	F1027_8318	C3\da1027.c
+time	DATE_TIME_VALIDITY_CHECKER	date_time_valid_with_base	F1027_8319	C3\da1027.c
+time	DATE_TIME_VALIDITY_CHECKER	is_correct_date_time	F1027_8320	C3\da1027.c
+time	DATE_TIME_PARSER	make	F1028_8321	C3\da1028.c
+time	DATE_TIME_PARSER	source_string	F1028_8322	C3\da1028.c
+time	DATE_TIME_PARSER	year	F1028_8323	C3\da1028.c
+time	DATE_TIME_PARSER	month	F1028_8324	C3\da1028.c
+time	DATE_TIME_PARSER	day	F1028_8325	C3\da1028.c
+time	DATE_TIME_PARSER	hour	F1028_8326	C3\da1028.c
+time	DATE_TIME_PARSER	minute	F1028_8327	C3\da1028.c
+time	DATE_TIME_PARSER	fine_second	F1028_8328	C3\da1028.c
+time	DATE_TIME_PARSER	day_text	F1028_8329	C3\da1028.c
+time	DATE_TIME_PARSER	parsed	F1028_8330	C3\da1028.c
+time	DATE_TIME_PARSER	is_set_up	F1028_8331	C3\da1028.c
+time	DATE_TIME_PARSER	is_date	F1028_8332	C3\da1028.c
+time	DATE_TIME_PARSER	is_time	F1028_8333	C3\da1028.c
+time	DATE_TIME_PARSER	is_date_time	F1028_8334	C3\da1028.c
+time	DATE_TIME_PARSER	is_value_valid	F1028_8335	C3\da1028.c
+time	DATE_TIME_PARSER	set_source_string	F1028_8336	C3\da1028.c
+time	DATE_TIME_PARSER	set_day_array	F1028_8337	C3\da1028.c
+time	DATE_TIME_PARSER	set_month_array	F1028_8338	C3\da1028.c
+time	DATE_TIME_PARSER	set_base_century	F1028_8339	C3\da1028.c
+time	DATE_TIME_PARSER	parse	F1028_8340	C3\da1028.c
+time	DATE_TIME_PARSER	year_val	F1028_8341	C3\da1028.c
+time	DATE_TIME_PARSER	month_val	F1028_8342	C3\da1028.c
+time	DATE_TIME_PARSER	day_val	F1028_8343	C3\da1028.c
+time	DATE_TIME_PARSER	hour_val	F1028_8344	C3\da1028.c
+time	DATE_TIME_PARSER	minute_val	F1028_8345	C3\da1028.c
+time	DATE_TIME_PARSER	fine_second_val	F1028_8346	C3\da1028.c
+time	DATE_TIME_PARSER	day_text_val	F1028_8347	C3\da1028.c
+time	DATE_TIME_PARSER	code	F1028_8348	C3\da1028.c
+time	DATE_TIME_PARSER	months	F1028_8349	C3\da1028.c
+time	DATE_TIME_PARSER	days	F1028_8350	C3\da1028.c
+time	DATE_TIME_PARSER	base_century	F1028_8351	C3\da1028.c
+time	DATE_TIME	make	F1029_8352	C3\da1029.c
+time	DATE_TIME	make_fine	F1029_8353	C3\da1029.c
+time	DATE_TIME	make_by_date_time	F1029_8354	C3\da1029.c
+time	DATE_TIME	make_by_date	F1029_8355	C3\da1029.c
+time	DATE_TIME	make_now	F1029_8356	C3\da1029.c
+time	DATE_TIME	make_now_utc	F1029_8357	C3\da1029.c
+time	DATE_TIME	make_from_string_default	F1029_8358	C3\da1029.c
+time	DATE_TIME	make_from_string_default_with_base	F1029_8359	C3\da1029.c
+time	DATE_TIME	make_from_string	F1029_8360	C3\da1029.c
+time	DATE_TIME	make_from_string_with_base	F1029_8361	C3\da1029.c
+time	DATE_TIME	make_from_epoch	F1029_8362	C3\da1029.c
+time	DATE_TIME	date	F1029_8363	C3\da1029.c
+time	DATE_TIME	time	F1029_8364	C3\da1029.c
+time	DATE_TIME	origin	F1029_8365	C3\da1029.c
+time	DATE_TIME	date_duration	F1029_8366	C3\da1029.c
+time	DATE_TIME	days	F1029_8367	C3\da1029.c
+time	DATE_TIME	time_duration	F1029_8368	C3\da1029.c
+time	DATE_TIME	seconds	F1029_8369	C3\da1029.c
+time	DATE_TIME	is_less	F1029_8370	C3\da1029.c
+time	DATE_TIME	is_equal	F1029_8371	C3\da1029.c
+time	DATE_TIME	duration	F1029_8372	C3\da1029.c
+time	DATE_TIME	set_date	F1029_8373	C3\da1029.c
+time	DATE_TIME	set_time	F1029_8374	C3\da1029.c
+time	DATE_TIME	copy	F1029_8375	C3\da1029.c
+time	DATE_TIME	plus	F1029_8376	C3\da1029.c
+time	DATE_TIME	add	F1029_8377	C3\da1029.c
+time	DATE_TIME	relative_duration	F1029_8378	C3\da1029.c
+time	DATE_TIME	definite_duration	F1029_8379	C3\da1029.c
+time	DATE_TIME	day_add	F1029_8380	C3\da1029.c
+time	DATE_TIME	hour_add	F1029_8381	C3\da1029.c
+time	DATE_TIME	minute_add	F1029_8382	C3\da1029.c
+time	DATE_TIME	second_add	F1029_8383	C3\da1029.c
+time	DATE_TIME	fine_second_add	F1029_8384	C3\da1029.c
+time	DATE_TIME	debug_output	F1029_8385	C3\da1029.c
+time	DATE_TIME	out	F1029_8386	C3\da1029.c
+time	DATE_TIME	formatted_out	F1029_8387	C3\da1029.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	make	F1030_8388	C3\eq1030.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	parse_trace	F1030_8389	C3\eq1030.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	code	F1030_8390	C3\eq1030.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	recipient_name	F1030_8391	C3\eq1030.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	class_name	F1030_8392	C3\eq1030.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	tag_name	F1030_8393	C3\eq1030.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	trace	F1030_8394	C3\eq1030.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	break_point_slot	F1030_8395	C3\eq1030.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	last_class_name	F1030_8396	C3\eq1030.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	last_routine_name	F1030_8397	C3\eq1030.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	last_break_point_slot	F1030_8398	C3\eq1030.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	is_trace_valid	F1030_8399	C3\eq1030.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	is_test_invalid	F1030_8400	C3\eq1030.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	go_after_next_dash_line	F1030_8401	C3\eq1030.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	parse_frame	F1030_8402	C3\eq1030.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	dash_line	F1030_8403	C3\eq1030.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	class_attribute_name	F1030_8404	C3\eq1030.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	recipient_attribute_name	F1030_8405	C3\eq1030.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	tag_attribute_name	F1030_8406	C3\eq1030.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	trace_attribute_name	F1030_8407	C3\eq1030.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	correct_mismatch	F1030_8408	C3\eq1030.c
+etf	ITP_INTERPRETER	execute	F1031_8409	C3\it1031.c
+etf	ITP_INTERPRETER	start	F1031_8410	C3\it1031.c
+etf	ITP_INTERPRETER	has_error	F1031_8411	C3\it1031.c
+etf	ITP_INTERPRETER	is_last_protected_execution_successfull	F1031_8412	C3\it1031.c
+etf	ITP_INTERPRETER	should_quit	F1031_8413	C3\it1031.c
+etf	ITP_INTERPRETER	is_request_type_valid	F1031_8414	C3\it1031.c
+etf	ITP_INTERPRETER	report_type_request	F1031_8415	C3\it1031.c
+etf	ITP_INTERPRETER	report_quit_request	F1031_8416	C3\it1031.c
+etf	ITP_INTERPRETER	report_start_request	F1031_8417	C3\it1031.c
+etf	ITP_INTERPRETER	report_execute_request	F1031_8418	C3\it1031.c
+etf	ITP_INTERPRETER	refresh_last_response_flag	F1031_8419	C3\it1031.c
+etf	ITP_INTERPRETER	report_error	F1031_8420	C3\it1031.c
+etf	ITP_INTERPRETER	log_internal_error	F1031_8421	C3\it1031.c
+etf	ITP_INTERPRETER	log_file	F1031_8422	C3\it1031.c
+etf	ITP_INTERPRETER	log_instance	F1031_8423	C3\it1031.c
+etf	ITP_INTERPRETER	log_message	F1031_8424	C3\it1031.c
+etf	ITP_INTERPRETER	report_trace	F1031_8425	C3\it1031.c
+etf	ITP_INTERPRETER	output_buffer	F1031_8426	C3\it1031.c
+etf	ITP_INTERPRETER	error_buffer	F1031_8427	C3\it1031.c
+etf	ITP_INTERPRETER	wipe_out_buffer	F1031_8428	C3\it1031.c
+etf	ITP_INTERPRETER	buffer_size	F1031_8429	C3\it1031.c
+etf	ITP_INTERPRETER	socket	F1031_8430	C3\it1031.c
+etf	ITP_INTERPRETER	last_request_type	F1031_8431	C3\it1031.c
+etf	ITP_INTERPRETER	last_request	F1031_8432	C3\it1031.c
+etf	ITP_INTERPRETER	last_response_flag	F1031_8433	C3\it1031.c
+etf	ITP_INTERPRETER	last_response	F1031_8434	C3\it1031.c
+etf	ITP_INTERPRETER	retrieve_request	F1031_8435	C3\it1031.c
+etf	ITP_INTERPRETER	send_response_to_socket	F1031_8436	C3\it1031.c
+etf	ITP_INTERPRETER	print_line_and_flush	F1031_8437	C3\it1031.c
+etf	ITP_INTERPRETER	parse	F1031_8438	C3\it1031.c
+etf	ITP_INTERPRETER	object_store	F1031_8439	C3\it1031.c
+etf	ITP_INTERPRETER	byte_code_feature_body_id	F1031_8440	C3\it1031.c
+etf	ITP_INTERPRETER	byte_code_feature_pattern_id	F1031_8441	C3\it1031.c
+etf	ITP_INTERPRETER	execute_protected	F1031_8442	C3\it1031.c
+etf	ITP_INTERPRETER	execute_byte_code	F1031_8443	C3\it1031.c
+etf	ITP_INTERPRETER	store_variable_at_index	F1031_8444	C3\it1031.c
+etf	ITP_INTERPRETER	variable_at_index	F1031_8445	C3\it1031.c
+etf	ITP_INTERPRETER	main_loop	F1031_8446	C3\it1031.c
+etf	ITP_INTERPRETER	invalid_request_format_error	F1031_8447	C3\it1031.c
+etf	ITP_INTERPRETER	byte_code_not_found_error	F1031_8448	C3\it1031.c
+etf	ITP_INTERPRETER	byte_code_length_error	F1031_8449	C3\it1031.c
+etf	ITP_INTERPRETER	invalid_request_type_error	F1031_8450	C3\it1031.c
+etf	ITP_INTERPRETER	is_last_invariant_violated	F1031_8451	C3\it1031.c
+etf	ITP_INTERPRETER	check_invariant	F1031_8452	C3\it1031.c

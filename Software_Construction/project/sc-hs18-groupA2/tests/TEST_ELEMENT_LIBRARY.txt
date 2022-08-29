@@ -1,0 +1,154 @@
+note
+	description: "[
+		Eiffel tests that can be executed by testing tool.
+	]"
+	author: "EiffelStudio test wizard"
+	date: "$Date$"
+	revision: "$Revision$"
+	testing: "type/manual"
+
+class
+	TEST_ELEMENT_LIBRARY
+
+inherit
+	EQA_TEST_SET
+		redefine
+			on_prepare
+		end
+
+feature {NONE} -- Events
+
+	on_prepare
+			-- <Precursor>
+		do
+			assert ("not_implemented", False)
+		end
+
+feature -- Test routines
+
+	TEST_ELEMENT_LIBRARY_TC_02
+			-- read lines of elements and constraints from the console
+		note
+			testing:  "covers/{ELEMENT_LIBRARY}"
+		local
+--			element_library:ELEMENT_LIBRARY
+--			an_element_list: ELEMENT
+--			a_constraint_first_list: CONSTRAINT
+--			a_constraint_second_list: CONSTRAINT
+		do
+--			element_library.transfer(an_element_list,a_constraint_first_list,a_constraint_second_list)
+		end
+
+	TEST_ELEMENT_LIBRARY_TC_03
+			-- add an element to the all_elements list
+		note
+			testing:  "covers/{ELEMENT_LIBRARY}"
+		local
+--			el1:ELEMENT
+		do
+--			add_element(el1)
+		end
+
+	TEST_ELEMENT_LIBRARY_TC_04
+			-- add a constraint to the all_elements list
+		note
+			testing:  "covers/{ELEMENT_LIBRARY}"
+		local
+--			el1,el2:ELEMENT
+		do
+--			add_constraint(el1,el2)
+		end
+
+	TEST_ELEMENT_LIBRARY_TC_05
+			-- add multiple elements to the all_elements list
+		note
+			testing:  "covers/{ELEMENT_LIBRARY}"
+		local
+--			element_string:STRING
+		do
+--			element_string := "el1 el2"
+--			add_elements_input(element_string)
+		end
+
+	TEST_ELEMENT_LIBRARY_TC_06
+			-- add multiple contraints to the all_constraints list
+		note
+			testing:  "covers/{ELEMENT_LIBRARY}"
+		local
+--			constraint_first_string, constraint_second_string: STRING
+		do
+--			constraint_first_string := "el1"
+--			constraint_second_string := "el2"
+--			add_constraints_input(constraint_first_string, constraint_second_string)
+		end
+
+	TEST_ELEMENT_LIBRARY_TC_07
+			-- create a given number of elements, in this case 4
+		note
+			testing:  "covers/{ELEMENT_LIBRARY}"
+		do
+--			loop_elements(4)
+		end
+
+	TEST_ELEMENT_LIBRARY_TC_08
+			-- create a given number of constraints with a given number of elements, in this case 10 and 4
+		note
+			testing:  "covers/{ELEMENT_LIBRARY}"
+		do
+--			loop_constraints(10,4)
+		end
+
+	TEST_ELEMENT_LIBRARY_TC_09
+			-- run example 1
+		note
+			testing:  "covers/{ELEMENT_LIBRARY}"
+		do
+--			example_1
+		end
+
+	TEST_ELEMENT_LIBRARY_TC_10
+			-- run example 2 with a given .txt document
+		note
+			testing:  "covers/{ELEMENT_LIBRARY}"
+		do
+--			example_2("Example_2.txt")
+		end
+
+	TEST_ELEMENT_LIBRARY_TC_11
+			-- run example 2 with a given .txt document
+		note
+			testing:  "covers/{ELEMENT_LIBRARY}"
+		do
+--			example_2("Example_2.txt")
+		end
+
+	TEST_ELEMENT_LIBRARY_TC_12
+			-- run one of the examples from 3 to 5
+		note
+			testing:  "covers/{ELEMENT_LIBRARY}"
+		do
+--			run_example(3)
+--			run_example(4)
+--			run_example(5)
+		end
+
+	TEST_ELEMENT_LIBRARY_TC_13
+			-- Check if the elements are in the elements list and return TRUE if yes
+		note
+			testing:  "covers/{ELEMENT_LIBRARY}"
+		local
+--			el1:ELEMENT
+		do
+--			element_in_list(el)
+		end
+
+	TEST_ELEMENT_LIBRARY_TC_14
+			-- Check if the contains are in the constraints list and return TRUE if yes
+		note
+			testing:  "covers/{ELEMENT_LIBRARY}"
+		local
+--			con:CONSTRAINT
+		do
+--			constraint_in_list(con)
+		end
+end
