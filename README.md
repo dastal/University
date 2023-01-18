@@ -15,4 +15,4 @@ Contains the projects and code of the courses I graduated during my studies at t
 | [Pascal Programming](https://github.com/dastal/University/tree/main/Pascal_Programming) | My first experience with Programming, using Pascal |
 | [Social Computing](https://github.com/dastal/University/tree/main/Social_Computing/SoComp) | Learning about social behavior in th internet, using the Selenium Framework |
 | [Software Construction](https://github.com/dastal/University/tree/main/Software_Construction) | This course was about the basics of software construction, including the basics of agile development, design patterns, testing etc. |
-| [Sopra](https://github.com/dastal/University/tree/main/Sopra) | bla |
+| [Sopra](https://github.com/dastal/University/tree/main/Sopra) | Software project that we completed in a group of five students dureing one semester. We implemented a game using the Spring Boot framework, Websockets and the Unity Framework |
